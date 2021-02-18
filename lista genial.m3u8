@@ -178,6 +178,9 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn1mx&f=.m3u8
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn2mx&f=.m3u8
 
+#EXTINF:-1, ESPN 3 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/espn3tv.png", ESPN 3
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn3mx&f=.m3u8
+ 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
 
@@ -187,9 +190,6 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports1mx&f=.m3
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 
-#EXTINF:-1, ESPN 3 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/espn3tv.png", ESPN 3
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn3mx&f=.m3u8
- 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=tudn&f=.m3u8
 
