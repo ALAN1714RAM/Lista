@@ -1,3 +1,4 @@
+
  #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
@@ -13,13 +14,13 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=azteca&f=.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png", CANAL 5
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=canal5televisa&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=azteca7&f=.m3u8
 
 #EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
 
@@ -34,28 +35,28 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=tooncast&f=.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=discoverykids&f=.m3u8
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-
+ http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=nick&f=.m3u8
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=disneyxd&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=disneychannel&f=.m3u8
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=boomerang&f=.m3u8
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", DISNEY JR
-
+http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=disneyjunior&f=.m3u8
 
 #EXTINF:-1, NICK 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png", NICK 2  
 
@@ -139,7 +140,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 
 #EXTINF:-1, FOX tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/21/FOXAppLA.png/revision/latest?cb=20191231235600&path-prefix=es", FOX 
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox&f=.m3u8
+
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
 
@@ -163,64 +164,64 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=warner&f=.m3u8
 
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn+ar&f=.m3u
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn1mx&f=.m3u8
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn2mx&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/espn3tv.png", ESPN 3
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=espn3mx&f=.m3u8
  
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-
+https://blackghost.live/play/wistream-217.php?cat=latinos&ch=tudn&f=.m3u8
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoverychannel&f=.m3u8
  
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=history&f=.m3u8
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=nationalgeo&f=.m3u8
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=nationalwill&f=.m3u8
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoverytheater&f=.m3u8
 
 #EXTINF:-1, H&H tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", H&H
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoveryhh&f=.m3u8
  
 #EXTINF:-1, TLC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=tlc&f=.m3u8
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png", DISCOVERY SCIENCE 
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoverysciencie&f=.m3u8
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoverycivilization&f=.m3u8
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoveryworl&f=.m3u8
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
-
+http://blackghost.live/play/wistream-217.php?cat=latinos&ch=discoveryturbo&f=.m3u8
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
 
