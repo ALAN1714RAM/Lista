@@ -35,7 +35,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=tooncast&f=.m3u8
+
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 http://blackghost.live/play/wistream-217.php?cat=infantiles&ch=discoverykids&f=.m3u8
@@ -83,7 +83,7 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=goldenedge&f=.m3u8
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=tnt&f=.m3u8
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=space&f=.m3u8
+
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=amc&f=.m3u8
@@ -92,16 +92,16 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=amc&f=.m3u8
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=studiouniversal&f=.m3u8
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fxm&f=.m3u8
+
 
 #EXTINF:-1, FOX SERIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png", FOX SERIES
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxseries&f=.m3u8 
+
 
 #EXTINF:-1, FOX MOVIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-movies-blanco.png.e7410cb400c34007556377679d7ee48d.png", FOX MOVIES
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxmovies&f=.m3u8
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=cinecanal&f=.m3u8
+
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=cinemax&f=.m3u8
@@ -113,7 +113,7 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxaction&f=.m3u8
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=paramountchannel&f=.m3u8 
 
 #EXTINF:-1, FOX CINEMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png", FOX CINEMA
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxcinema&f=.m3u8
+
  
 #EXTINF:-1, FOX CLASSICS tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png", FOX CLASSICS
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxclassics&f=.m3u8
@@ -125,7 +125,7 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=foxclassics&f=.m3u8
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=syfy&f=.m3u8
 
 #EXTINF:-1, A&E tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e2634b53195e85806417/1cd50cd7d3150645333dbc42185a6aad/img.png", A&E
-http://blackghost.live/play/wistream-217.php?cat=latinos&ch=ae&f=.m3u8
+
 
 #EXTINF:-1, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", AXN
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=axn&f=.m3u8
@@ -158,13 +158,13 @@ https://blackghost.live/play/wistream-217.php?cat=latinos&ch=fx&f=.m3u8
 https://blackghost.live/play/wistream-217.php?cat=latinos&ch=comedycentral&f=.m3u8
 
 #EXTINF:-1, HBO tvg-logo="https://lh3.googleusercontent.com/proxy/KyvzhcOQ14QVBKvrrTV0GbqwQ5JUWYbpIW44DNbsyuyF1JyfQMbP-6wzHCcerdMvPB2BK9PW1ulnnZtfLdDb8zx3_R1tQ1Mbh8oSfwi8yxK6p139R1Xx", HBO
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=hbo&f=.m3u8
+
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=hbo2&f=.m3u8
+
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
-https://blackghost.live/play/wistream-217.php?cat=latinos&ch=hboplus&f=.m3u8
+
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
 
@@ -206,7 +206,7 @@ http://blackghost.live/play/wistream-217.php?cat=latinos&ch=animalplanet&f=.m3u8
 http://blackghost.live/play/wistream-217.php?cat=latinos&ch=history&f=.m3u8
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
-http://blackghost.live/play/wistream-217.php?cat=latinos&ch=history2&f=.m3u8
+
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
 http://blackghost.live/play/wistream-217.php?cat=latinos&ch=nationalgeo&f=.m3u8
