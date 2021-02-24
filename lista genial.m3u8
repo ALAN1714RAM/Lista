@@ -268,4 +268,5 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-
+#EXTINF:-1, MILENIO
+http://104.149.139.246:4405/live/cyx-34CE6824407D9d0397EA487BB30D.ts?user_id=36215358&dev_id=37361f4cd27039dd1a9298acee6f5dce&trans_id=A6l0hWeM1XX_xE0edMe5alK&dead_time=1614221762&app_id=com.mobile.telelatinomobile&host=104.149.139.246:4405&app_ver=30601&client_ip=181.42.8.47&auth_id=36215358_com.mobile.telelatinomobile&token=c90a35fe89da702bace29a9c19ebd464
