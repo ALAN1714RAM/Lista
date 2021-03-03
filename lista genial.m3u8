@@ -107,7 +107,7 @@ http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108751
 
 
 #EXTINF:-1, FOX ACTION tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-action-blanco.png.5f88fa6dccda50a3bba4c9cc7749e4b4.png", FOX ACTION
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108742
+http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/55016
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
 http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109072
@@ -135,7 +135,7 @@ http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109213
 http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108830
 
 #EXTINF:-1, FOX LIFE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOX LIFE
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108732
+http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/42435
 
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
 http://latvonlive.com:33612/albert/albert1/416
@@ -144,7 +144,7 @@ http://latvonlive.com:33612/albert/albert1/416
 http://odenfull.co:8691/JAIM5657e/VALEN3876cia/1353
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108734
+http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/53539
 
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
@@ -238,6 +238,9 @@ http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104269
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
 http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104275
 
+#EXTINF:-1 DISCOVERY INVESTIGATION tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",DISCOVERY INVESTIGATION 
+http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/17320
+
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104277
 
@@ -271,5 +274,3 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1, MILENIO
-http://104.149.139.246:4405/live/cyx-34CE6824407D9d0397EA487BB30D.ts?user_id=36215358&dev_id=37361f4cd27039dd1a9298acee6f5dce&trans_id=A6l0hWeM1XX_xE0edMe5alK&dead_time=1614221762&app_id=com.mobile.telelatinomobile&host=104.149.139.246:4405&app_ver=30601&client_ip=181.42.8.47&auth_id=36215358_com.mobile.telelatinomobile&token=c90a35fe89da702bace29a9c19ebd464
