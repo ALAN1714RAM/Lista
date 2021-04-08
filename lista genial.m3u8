@@ -2,64 +2,64 @@
  #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/39655
+http://ytv.plus:25461/Ale/1234/1829
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/las-estrellas-200x300.png?itok=0m027JG1", LAS ESTRELLAS
  http://ytv.plus:25461/Ale/1234/1824
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/5377
+http://ytv.plus:25461/Ale/1234/1825
 
 #EXTINF:-1, TV LOBO tvg-logo="https://lh3.googleusercontent.com/proxy/azzEgVS5UmjVycUZ5PcLmC-ShoRtuTpTbfUo0mlymiSlWnkdtxSI_XEqRwKaFZFcLpXkEUQ8PpqBecXZ-eE", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png", CANAL 5
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/5378
+http://ytv.plus:25461/Ale/1234/1828
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
-
+http://ytv.plus:25461/Ale/1234/1821
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/1318
+http://ytv.plus:25461/Ale/1234/1830
 
 #EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
 
  
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxMDklMkYqJmV4cGlyeT0xNjE3NzU0ODgzJmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sZDc2Yjc5ODE1ZTY4YjNmM2ExZGUwNDEzMjIyOTRmZTE1NTllOGVjYTNjNGM1ZjY0ZmFjOTA4MWU1ZjQ5ZDY1ZQ==/PROFILE05.m3u8
+
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/31584
+
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58038
+
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58056
+http://ytv.plus:25461/Ale/1234/1905
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58050
+http://ytv.plus:25461/Ale/1234/1896
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58060
+http://ytv.plus:25461/Ale/1234/1901
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-
+http://ytv.plus:25461/Ale/1234/1906
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58065
+http://ytv.plus:25461/Ale/1234/1903
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58054
+http://ytv.plus:25461/Ale/1234/1908
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", DISNEY JR
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58058
+http://ytv.plus:25461/Ale/1234/1902
 
 #EXTINF:-1, NICK 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png", NICK 2  
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58048
+
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
 
@@ -68,105 +68,105 @@ http://odenfull.co:8691/JAIM5657e/VALEN3876cia/58048
 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109434
+http://ytv.plus:25461/Ale/1234/91
 
 #EXTINF:-1, GOLDEN + tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png", GOLDEN +
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108795
+http://ytv.plus:25461/Ale/1234/1798
 
 #EXTINF:-1, GOLDEN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108790
+
 
 #EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png", GOLDEN EDGE
 
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108808
+http://ytv.plus:25461/Ale/1234/1725
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108837
+http://ytv.plus:25461/Ale/1234/1778
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
-
+http://ytv.plus:25461/Ale/1234/1875
  
 #EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109071
+http://ytv.plus:25461/Ale/1234/1774
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108765
+http://ytv.plus:25461/Ale/1234/1799
 
 #EXTINF:-1, FOX SERIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png", FOX SERIES
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108761
+
 
 #EXTINF:-1, FOX MOVIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-movies-blanco.png.e7410cb400c34007556377679d7ee48d.png", FOX MOVIES
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108751
+http://ytv.plus:25461/Ale/1234/1801
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
-
+http://ytv.plus:25461/Ale/1234/1814
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
-
+http://ytv.plus:25461/Ale/1234/1811
 
 #EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108742
+http://ytv.plus:25461/Ale/1234/1806
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109072
+http://ytv.plus:25461/Ale/1234/1859
 
 #EXTINF:-1, FOX CINEMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png", FOX CINEMA
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108757
+http://ytv.plus:25461/Ale/1234/1805
  
 #EXTINF:-1, FOX CLASSICS tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png", FOX CLASSICS
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108759
+http://ytv.plus:25461/Ale/1234/1804
 
 #EXTINF:-1, E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
-
+http://ytv.plus:25461/Ale/1234/1870
 
 #EXTINF:-1, SYFY tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.Nuevo-logo-syfy.png.c413a84b61d74218a14b76cdce6bc219.png", SYFY
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109208
+http://ytv.plus:25461/Ale/1234/1856
 
 #EXTINF:-1, A&E tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e2634b53195e85806417/1cd50cd7d3150645333dbc42185a6aad/img.png", A&E
-http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/38796
+http://ytv.plus:25461/Ale/1234/1876
 
 #EXTINF:-1, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", AXN
-http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/1725
+http://ytv.plus:25461/Ale/1234/1874
 
 
 #EXTINF:-1, TNT SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108830
+http://ytv.plus:25461/Ale/1234/1843
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarLife_Logo2021_FondoClaro.png.b2d11a62c293c288b30f40805e2dad1f.png", STAR LIFE
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108732 
+
 
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
-
+http://ytv.plus:25461/Ale/1234/1858
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/1353
+
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108735
+http://ytv.plus:25461/Ale/1234/1873
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/109077
+http://ytv.plus:25461/Ale/1234/1857
 
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyMDUlMkYqJmV4cGlyeT0xNjE3ODI1MzY5JmZuPXNoYTI1NiZ4JTNBcz1uZWM2a2ZvYWtjY2dwd20sMDY5ODgzMTA0NGY3ZTgzZjg3YTkyMzJjMDRlZTUxMTI4MzdhZmQyNjI5MzJlMjNlYzcyMjZlYjdmZTg5OGQ2Yg==/PROFILE05.m3u8
+http://ytv.plus:25461/Ale/1234/1832
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
-
+http://ytv.plus:25461/Ale/1234/1838
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108766
+http://ytv.plus:25461/Ale/1234/1863
 
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png", COMEDY CENTRAL
-
+http://ytv.plus:25461/Ale/1234/1872
 
 #EXTINF:-1, HBO tvg-logo="https://lh3.googleusercontent.com/proxy/KyvzhcOQ14QVBKvrrTV0GbqwQ5JUWYbpIW44DNbsyuyF1JyfQMbP-6wzHCcerdMvPB2BK9PW1ulnnZtfLdDb8zx3_R1tQ1Mbh8oSfwi8yxK6p139R1Xx", HBO
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108658
+http://ytv.plus:25461/Ale/1234/1790
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/108697
+http://ytv.plus:25461/Ale/1234/2401
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
 
@@ -187,7 +187,7 @@ http://ytv.plus:25461/Ale/1234/2009
 http://ytv.plus:25461/Ale/1234/2008
  
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
-http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=170&p=3&k=srregio&f=.m3u8
+http://ytv.plus:25461/Ale/1234/1986
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
 http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=172&p=3&k=srregio&f=.m3u8
@@ -196,58 +196,58 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=172&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=178&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/5463
+http://ytv.plus:25461/Ale/1234/265
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104266
+http://ytv.plus:25461/Ale/1234/1889
 
 #EXTINF:-1, ANIMAL PLANET tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ANIMAL PLANET
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104293
+http://ytv.plus:25461/Ale/1234/1890
 
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104321
+http://ytv.plus:25461/Ale/1234/1880
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104328
+http://ytv.plus:25461/Ale/1234/1881
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
-http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=91&p=3&k=srregio&f=.m3u8
+http://ytv.plus:25461/Ale/1234/1878
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104308
+http://ytv.plus:25461/Ale/1234/1877
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104271
+
 
 #EXTINF:-1, H&H tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", H&H
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104284
+http://ytv.plus:25461/Ale/1234/1887
  
 #EXTINF:-1, TLC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104299
+http://ytv.plus:25461/Ale/1234/1845
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png", DISCOVERY SCIENCE 
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104273
+http://ytv.plus:25461/Ale/1234/1885
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104269
+http://ytv.plus:25461/Ale/1234/1888
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104275
+
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",DISCOVERY INVESTIGATION 
 http://ytv.plus:25461/Ale/1234/1886
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/104277
+http://ytv.plus:25461/Ale/1234/1883
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/799
+
 
 #EXTINF:-1, MTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
-
+http://ytv.plus:25461/Ale/1234/189
  
 #EXTINF:-1, MTV HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS
 
@@ -256,13 +256,13 @@ http://tv.iptv5latino.cl:8000/juanpereziptv/vWkf2W1jGP/799
 
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/31889
+
 
 #EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandamax_2009-2015.png", BANDAMAX
 
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
-http://odenfull.co:8691/JAIM5657e/VALEN3876cia/1445
+http://ytv.plus:25461/Ale/1234/343
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV
 
@@ -271,5 +271,5 @@ http://odenfull.co:8691/JAIM5657e/VALEN3876cia/1445
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
 
