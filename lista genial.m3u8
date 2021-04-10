@@ -10,7 +10,7 @@ http://ytv.plus:25461/Ale/1234/1829
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
 http://ytv.plus:25461/Ale/1234/1825
 
-#EXTINF:-1, TV LOBO tvg-logo="https://lh3.googleusercontent.com/proxy/azzEgVS5UmjVycUZ5PcLmC-ShoRtuTpTbfUo0mlymiSlWnkdtxSI_XEqRwKaFZFcLpXkEUQ8PpqBecXZ-eE", TV LOBO
+#EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png", CANAL 5
@@ -183,11 +183,11 @@ http://ytv.plus:25461/Ale/1234/2005
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
 http://ytv.plus:25461/Ale/1234/2009
 
-#EXTINF:-1, ESPN 3 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/espn3tv.png", ESPN 3
+#EXTINF:-1, ESPN 3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
 http://ytv.plus:25461/Ale/1234/2008
 
 #EXTINF:-1, ESPN + tvg-logo="https://img2.freepng.es/20180424/ubq/kisspng-espn-espn3-logo-espn-events-tcm-logo-5adf0f5c7bc118.9742615415245679005069.jpg", ESPN +
-http://ytv.plus:25461/Ale/1234/2008
+
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
 http://ytv.plus:25461/Ale/1234/1640
