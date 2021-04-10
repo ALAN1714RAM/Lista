@@ -185,8 +185,11 @@ http://ytv.plus:25461/Ale/1234/2009
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/espn3tv.png", ESPN 3
 http://ytv.plus:25461/Ale/1234/2008
- 
-#EXTINF:-1, Bein tvg-logo="", sky
+
+#EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
+http://ytv.plus:25461/Ale/1234/1640
+
+#EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
 http://ytv.plus:25461/Ale/1234/1640
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
@@ -197,9 +200,6 @@ http://ytv.plus:25461/Ale/1234/1988
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
 http://ytv.plus:25461/Ale/1234/1987
-
-#EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
-http://ytv.plus:25461/Ale/1234/6926
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://ytv.plus:25461/Ale/1234/265
