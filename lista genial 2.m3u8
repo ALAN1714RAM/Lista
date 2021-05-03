@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-https://tv.teleclub.xyz/canales/L3/AZTECA1.m3u8
+https://tv.teleclub.xyz/canales/L1/AZTECA1.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/las-estrellas-200x300.png?itok=0m027JG1", LAS ESTRELLAS
-https://tv.teleclub.xyz/canales/L2/LASESTRELLAS.m3u8
+https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
 
@@ -19,7 +19,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w168737353
 
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-https://tv.teleclub.xyz/canales/L3/AZTECA7.m3u8
+https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
 
 #EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
 
@@ -34,88 +34,88 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-https://tv.teleclub.xyz/canales/L3/TOONCAST.m3u8
+https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-https://tv.teleclub.xyz/canales/L3/NICK.m3u8
+https://tv.teleclub.xyz/canales/L1/NICK.m3u8
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
-https://tv.teleclub.xyz/canales/L3/DISNEYXD.m3u8
+https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u8
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-https://tv.teleclub.xyz/canales/L3/CARTOON.m3u8
+https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-https://tv.teleclub.xyz/canales/L3/DISNEY.m3u8
+https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
 
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", DISNEY JR
-https://tv.teleclub.xyz/canales/L3/DISNEYJR.m3u8
+https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
 
 #EXTINF:-1, NICK 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png", NICK 2  
 
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
-https://tv.teleclub.xyz/canales/L3/NATGEOKIDS.m3u8
+https://tv.teleclub.xyz/canales/L1/NATGEOKIDS.m3u8
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
-https://tv.teleclub.xyz/canales/L3/DEPELICULA.m3u8
+https://tv.teleclub.xyz/canales/L1/DEPELICULA.m3u8
 
 #EXTINF:-1, GOLDEN + tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png", GOLDEN +
-https://tv.teleclub.xyz/canales/L3/GOLDENPREMIER.m3u8
+https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 
 #EXTINF:-1, GOLDEN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-https://tv.teleclub.xyz/canales/L3/GOLDEN.m3u8
+https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
 #EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png", GOLDEN EDGE
 
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-https://tv.teleclub.xyz/canales/L3/TNT.m3u8
+https://tv.teleclub.xyz/canales/L1/TNT.m3u8
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-https://tv.teleclub.xyz/canales/L3/SPACE.m3u8
+https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
-https://tv.teleclub.xyz/canales/L3/AMC.m3u8
+https://tv.teleclub.xyz/canales/L1/AMC.m3u8
  
 #EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", ESTUDIO UNIVERSAL
-https://tv.teleclub.xyz/canales/L3/STUDIOUNIVERSAL.m3u8
+https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
-https://tv.teleclub.xyz/canales/L3/FXM.m3u8
+https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 
 #EXTINF:-1, FOX SERIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png", SERIE FOX
-https://tv.teleclub.xyz/canales/L3/FOXSERIES.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
 #EXTINF:-1, FOX MOVIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-movies-blanco.png.e7410cb400c34007556377679d7ee48d.png", FOX MOVIES
-https://tv.teleclub.xyz/canales/L3/FOXMOVIES.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
-https://tv.teleclub.xyz/canales/L3/CINECANAL.m3u8
+https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
-https://tv.teleclub.xyz/canales/L3/CINEMAX.m3u8
+https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
 
 #EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
-https://tv.teleclub.xyz/canales/L3/FOXACTION.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
-https://tv.teleclub.xyz/canales/L3/PARAMOUNT.m3u8
+https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
 #EXTINF:-1, FOX CINEMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png", FOX CINEMA
-https://tv.teleclub.xyz/canales/L3/FOXCINEMA.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
  
 #EXTINF:-1, FOX CLASSICS tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png", FOX CLASSICS
-https://tv.teleclub.xyz/canales/L3/FOXCLASSIC.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
 #EXTINF:-1, ¡E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
 
@@ -124,64 +124,64 @@ https://tv.teleclub.xyz/canales/L3/FOXCLASSIC.m3u8
 
 
 #EXTINF:-1, A&E tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e2634b53195e85806417/1cd50cd7d3150645333dbc42185a6aad/img.png", A&E
-https://tv.teleclub.xyz/canales/L3/AYE.m3u8
+https://tv.teleclub.xyz/canales/L1/AYE.m3u8
 
 #EXTINF:-1, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", AXN
-https://tv.teleclub.xyz/canales/L3/AXN.m3u8
+https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
 #EXTINF:-1, TNT SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", SERIE TNT
 https://tv.teleclub.xyz/canales/L3/TNTSERIES.m3u8
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarLife_Logo2021_FondoClaro.png.b2d11a62c293c288b30f40805e2dad1f.png", STAR LIFE
-https://tv.teleclub.xyz/canales/L3/FOXLIFE.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
 
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
-https://tv.teleclub.xyz/canales/L3/DISTRITOCOMEDIA.m3u8
+https://tv.teleclub.xyz/canales/L1/DISTRITOCOMEDIA.m3u8
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL
-https://tv.teleclub.xyz/canales/L3/FOX.m3u8
+https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-https://tv.teleclub.xyz/canales/L3/SONY.m3u8
+https://tv.teleclub.xyz/canales/L1/SONY.m3u8
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-https://tv.teleclub.xyz/canales/L3/WARNER.m3u8
+https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", EL UNIVERSAL
-https://tv.teleclub.xyz/canal/UNIVERSAL.m3u8
+https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
-https://tv.teleclub.xyz/canales/L3/FX.m3u8
+https://tv.teleclub.xyz/canales/L1/FX.m3u8
 
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png", COMEDY CENTRAL
-https://tv.teleclub.xyz/canales/L3/COMEDYCENTRAL.m3u8
+https://tv.teleclub.xyz/canales/L1/COMEDYCENTRAL.m3u8
 
 #EXTINF:-1, HBO tvg-logo="https://pixelogicmedia.com/wp-content/uploads/2017/10/client-logo-hbo.png", HBO
-https://tv.teleclub.xyz/canales/L3/HBO.m3u8
+https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
-https://tv.teleclub.xyz/canales/L3/HBO2.m3u8
+https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
-https://tv.teleclub.xyz/canales/L3/HBOPLUS.m3u8
+https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
-https://tv.teleclub.xyz/canales/L3/A3SERIES.m3u8
+https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
 
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
-https://tv.teleclub.xyz/canales/L3/ESPN.m3u8
+https://tv.teleclub.xyz/canales/L1/ESPN_MEX.m3u8
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-https://tv.teleclub.xyz/canales/L3/ESPN2.m3u8
+https://tv.teleclub.xyz/canales/l1/ESPN2_MEX.m3u8
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
-https://tv.teleclub.xyz/canales/L3/ESPN3.m3u8
+https://tv.teleclub.xyz/canales/L1/ESPN3_MEX.m3u8
 
 #EXTINF:-1, ESPN + tvg-logo="https://img2.freepng.es/20180424/ubq/kisspng-espn-espn3-logo-espn-events-tcm-logo-5adf0f5c7bc118.9742615415245679005069.jpg", ESPN +
 
@@ -193,13 +193,13 @@ https://tv.teleclub.xyz/canales/L3/ESPN3.m3u8
 
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
-https://tv.teleclub.xyz/canales/L4/FOXSPORT.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_MEX.m3u8
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
-https://tv.teleclub.xyz/canales/L3/FOXSPORT2.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXSPORT2_MEX.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
-https://tv.teleclub.xyz/canales/L3/FOXSPORT3.m3u8
+https://tv.teleclub.xyz/canales/L1/FOXSPORT3_MEX.m3u8
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 
@@ -208,40 +208,40 @@ https://tv.teleclub.xyz/canales/L3/FOXSPORT3.m3u8
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
-https://tv.teleclub.xyz/canales/L3/DISCOVERY.m3u8
+https://tv.teleclub.xyz/canales/L1/DISCOVERY.m3u8
 
 #EXTINF:-1, ANIMAL PLANET tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ANIMAL PLANET
-https://tv.teleclub.xyz/canales/L3/ANIMALPLANET.m3u8
+https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
 
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
-https://tv.teleclub.xyz/canales/L3/HISTORY.m3u8
+https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
-https://tv.teleclub.xyz/canales/L3/H2.m3u8
+https://tv.teleclub.xyz/canales/L1/H2.m3u8
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
-https://tv.teleclub.xyz/canales/L3/NATGEO.m3u8
+https://tv.teleclub.xyz/canales/L1/NATGEO.m3u8
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-https://tv.teleclub.xyz/canales/L3/NATGEOWILD.m3u8
+https://tv.teleclub.xyz/canales/L1/NATGEOWILD.m3u8
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
-https://tv.teleclub.xyz/canales/L3/DTHEATER.m3u8
+https://tv.teleclub.xyz/canales/L1/DTHEATER.m3u8
 
 #EXTINF:-1, H&H tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", H&H
-https://tv.teleclub.xyz/canales/L3/DHYH.m3u8
+https://tv.teleclub.xyz/canales/L1/DHYH.m3u8
  
 #EXTINF:-1, TLC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
-https://tv.teleclub.xyz/canales/L3/TLC.m3u8
+https://tv.teleclub.xyz/canales/L1/TLC.m3u8
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png", DISCOVERY SCIENCE 
-https://tv.teleclub.xyz/canales/L3/DSCIENCES.m3u8
+https://tv.teleclub.xyz/canales/L1/DSCIENCES.m3u8
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
 
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
-https://tv.teleclub.xyz/canales/L3/DWORLD.m3u8
+https://tv.teleclub.xyz/canales/L1/DWORLD.m3u8
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",DISCOVERY INVESTIGATION 
 https://tv.teleclub.xyz/canales/L3/ID.m3u8
@@ -250,13 +250,13 @@ https://tv.teleclub.xyz/canales/L3/ID.m3u8
 https://tv.teleclub.xyz/canales/L3/DTURBO.m3u8
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-https://tv.teleclub.xyz/canales/L3/MTVLIVE.m3u8
+https://tv.teleclub.xyz/canales/L1/MTVLIVE.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
-https://tv.teleclub.xyz/canales/L3/MTV.m3u8
+https://tv.teleclub.xyz/canales/L1/MTV.m3u8
  
 #EXTINF:-1, MTV HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS
-https://tv.teleclub.xyz/canales/L3/MTVHITS.m3u8
+https://tv.teleclub.xyz/canales/L1/MTVHITS.m3u8
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
 
@@ -268,7 +268,7 @@ https://tv.teleclub.xyz/canales/L3/MTVHITS.m3u8
 
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
-https://tv.teleclub.xyz/canales/L3/VH1.m3u8
+https://tv.teleclub.xyz/canales/L1/VH1.m3u8
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
 
