@@ -93,10 +93,10 @@ https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 
-#EXTINF:-1, FOX SERIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png", SERIE FOX
+#EXTINF:-1, STAR SERIES tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.StarSeries.png.a0e1b3688e390dbcc9707935b134c622.png", STAR SERIES
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
-#EXTINF:-1, FOX MOVIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-movies-blanco.png.e7410cb400c34007556377679d7ee48d.png", FOX MOVIES
+#EXTINF:-1, STAR HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1000px-Star_Hits_2020.svg.png", STAR HITS
 https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
@@ -111,10 +111,10 @@ https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
-#EXTINF:-1, FOX CINEMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png", FOX CINEMA
+#EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
 https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
  
-#EXTINF:-1, FOX CLASSICS tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png", FOX CLASSICS
+#EXTINF:-1, STAR CLASSICS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135249&path-prefix=es", STAR CLASSICS
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
 #EXTINF:-1, ¡E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
@@ -178,7 +178,7 @@ https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
 https://tv.teleclub.xyz/canales/L1/ESPN_MEX.m3u8
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-https://tv.teleclub.xyz/canales/l1/ESPN2_MEX.m3u8
+https://tv.teleclub.xyz/canales/L1/ESPN2_MEX.m3u8
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
 https://tv.teleclub.xyz/canales/L1/ESPN3_MEX.m3u8
