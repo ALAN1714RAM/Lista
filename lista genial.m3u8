@@ -53,7 +53,7 @@ http://ytv.plus:25461/Ale/1234/1906
 http://ytv.plus:25461/Ale/1234/1903
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
-http://ytv.plus:25461/Ale/1234/1908
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", DISNEY JR
 http://ytv.plus:25461/Ale/1234/1902
