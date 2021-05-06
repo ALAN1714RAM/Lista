@@ -268,7 +268,7 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=221&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/86f8706f-e011-447f-b4b4-640959b7e336:TUL/variant/a6ee1da317a18da91347cd2666ac9d1c/bandwidth/713397.m3u8
+https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/86f8706f-e011-447f-b4b4-640959b7e336:TUL/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
