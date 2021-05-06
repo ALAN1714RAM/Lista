@@ -93,10 +93,10 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=132&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=138&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1, FOX SERIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png", FOX SERIES
+#EXTINF:-1, STAR SERIES tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.StarSeries.png.a0e1b3688e390dbcc9707935b134c622.png", STAR SERIES
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=139&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1, FOX MOVIES tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-movies-blanco.png.e7410cb400c34007556377679d7ee48d.png", FOX MOVIES
+#EXTINF:-1, STAR GOLPEA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1000px-Star_Hits_2020.svg.png", STAR HITS
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=146&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
@@ -111,10 +111,10 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=336&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, FOX CINEMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png", FOX CINEMA
+#EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=1729&p=3&k=srregio&f=.m3u8 
  
-#EXTINF:-1, FOX CLASSICS tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png", FOX CLASSICS
+#EXTINF:-1, STAR CLASSICS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135249&path-prefix=es", STAR CLASSICS
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
@@ -268,7 +268,7 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=221&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=4&p=3&k=srregio&f=.m3u8
+https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/984297e7-88c0-4af5-b4a5-f80e3aebffe7:DLS/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
