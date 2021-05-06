@@ -271,10 +271,10 @@ http://stkiptv.ddns.me:27890/22446688/22446688/2537
 
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
+https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/984297e7-88c0-4af5-b4a5-f80e3aebffe7:DLS/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
-https://youtu.be/5WNdbFOueAI
+
