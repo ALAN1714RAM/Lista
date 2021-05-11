@@ -109,7 +109,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525180
 #EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
 http://gooserace.xyz:2052/Conga/Conga/2605948
 
-#EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
+#EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/05/Paramount_Channel_%282014-.n.v.%29.png/revision/latest?cb=20170819124431", PARAMOUNT CHANNEL
 http://gooserace.xyz:2052/Conga/Conga/1525307
 
 #EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
@@ -266,8 +266,8 @@ http://gooserace.xyz:2052/Conga/Conga/2605891
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
 http://gooserace.xyz:2052/Conga/Conga/2605888
 
-#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandamax_2009-2015.png", BANDAMAX
-http://gooserace.xyz:2052/Conga/Conga/2605886
+#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/BANDAMAX_2009.png", BANDAMAX
+http://gooserace.xyz:2052/Conga/Conga/2605893
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
 http://gooserace.xyz:2052/Conga/Conga/1525349
