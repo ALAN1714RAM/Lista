@@ -50,7 +50,7 @@ http://gooserace.xyz:2052/Conga/Conga/2606007
 http://gooserace.xyz:2052/Conga/Conga/2605989
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-http://stkiptv.ddns.me:27890/22446688/22446688/30366
+http://gooserace.xyz:2052/Conga/Conga/2606004
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
 http://gooserace.xyz:2052/Conga/Conga/2606008
@@ -204,7 +204,10 @@ http://gooserace.xyz:2052/Conga/Conga/1525237
 http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://stkiptv.ddns.me:27890/22446688/22446688/33185
+http://gooserace.xyz:2052/Conga/Conga/2605744
+
+#EXTINF:-1, SKY SPORTS tvg-logo="https://www.facebook.com/SportsMverick/photos/a.1826040464333505/3041794479424758/", SKY SPORTS
+http://gooserace.xyz:2052/Conga/Conga/2605643
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -252,7 +255,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525284
 http://gooserace.xyz:2052/Conga/Conga/1525202
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://gooserace.xyz:2052/Conga/Conga/2605887
+
 
 #EXTINF:-1, MTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
 http://gooserace.xyz:2052/Conga/Conga/1525291
