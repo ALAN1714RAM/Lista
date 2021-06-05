@@ -14,7 +14,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525279
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://ipeteve.com/php/SR_REGIO_9998/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxMDUlMkYqJmV4cGlyeT0xNjIyOTMxODg4JmZuPXNoYTI1NiZ4JTNBcz1vZWxmdHlyeDR5NHo4Z20sY2ViNDFkNWNlM2UyMGRlNjFjYmU1YWVkZjliMDhiZWE0Y2EwMDYxN2I5MjUxNzdjYjgwMWI3M2EzNDU2MjdlMw==/PROFILE05.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://gooserace.xyz:2052/Conga/Conga/1525295
@@ -204,13 +204,13 @@ http://gooserace.xyz:2052/Conga/Conga/1525237
 http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://ipeteve.com/php/SR_REGIO_9998/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1049,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxMDQ5JTJGKiZleHBpcnk9MTYyMjkzMjA1MiZmbj1zaGEyNTYmeCUzQXM9b2VsZnR5cng0eTR6OGdtLDY4NTIyYjRiNzVkYmYxZjUzYjdiODA0Y2ZmZWFlNjllMjBlM2E3YmFkZGU3ZDU3ZjVhZDNjM2M5ZGI5OTg4YTk=/PROFILE05.m3u8
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://lh3.googleusercontent.com/proxy/Ej_CR3Xnf6u1kI3IyFjhJDrpvtjR-ug8sUKxKKMZusm68zWX05gserTg9iQscMZWDtkRZUe5y0zWR4-tpnrWVjnwzilvto2Lfs08bi_Vjv91hyJ_V2OcwfPLCYXEFMrM1IodgZKu85JnWoJQiXqb", SKY SPORTS
 http://gooserace.xyz:2052/Conga/Conga/2605643
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
-http://ipeteve.com/php/SR_REGIO_9998/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwyNTY0JTJGKiZleHBpcnk9MTYyMjkzMjEyNiZmbj1zaGEyNTYmeCUzQXM9b2VsZnR5cng0eTR6OGdtLDA3ZDJlYjNmZmI0OGQxYjVjY2QzZjJiYTVjMmE1MjExYWI1N2MyOGJkM2YzN2Q4NGY4YjllOWEzNmZkZDIyYzU=/PROFILE05.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
 http://gooserace.xyz:2052/Conga/Conga/1525192
