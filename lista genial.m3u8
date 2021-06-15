@@ -14,7 +14,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525279
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://gooserace.xyz:2052/Conga/Conga/1525295
@@ -65,7 +65,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605999
 http://gooserace.xyz:2052/Conga/Conga/2606000
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
 http://gooserace.xyz:2052/Conga/Conga/2605981
@@ -74,7 +74,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605981
 http://gooserace.xyz:2052/Conga/Conga/2605944
 
 #EXTINF:-1, GOLDEN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png", GOLDEN EDGE
 http://gooserace.xyz:2052/Conga/Conga/1525251
@@ -146,7 +146,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525207
 http://gooserace.xyz:2052/Conga/Conga/1525224
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=48&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=48&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
 http://gooserace.xyz:2052/Conga/Conga/1525353
@@ -170,10 +170,10 @@ http://gooserace.xyz:2052/Conga/Conga/1525257
 http://gooserace.xyz:2052/Conga/Conga/2605929
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=167&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=167&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
 http://gooserace.xyz:2052/Conga/Conga/2605713
@@ -209,13 +209,13 @@ http://gooserace.xyz:2052/Conga/Conga/1525237
 http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://lh3.googleusercontent.com/proxy/Ej_CR3Xnf6u1kI3IyFjhJDrpvtjR-ug8sUKxKKMZusm68zWX05gserTg9iQscMZWDtkRZUe5y0zWR4-tpnrWVjnwzilvto2Lfs08bi_Vjv91hyJ_V2OcwfPLCYXEFMrM1IodgZKu85JnWoJQiXqb", SKY SPORTS
 http://gooserace.xyz:2052/Conga/Conga/2605643
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
 http://gooserace.xyz:2052/Conga/Conga/1525192
@@ -260,7 +260,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525284
 http://gooserace.xyz:2052/Conga/Conga/1525202
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=211&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=211&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
 http://gooserace.xyz:2052/Conga/Conga/1525291
@@ -281,10 +281,10 @@ http://gooserace.xyz:2052/Conga/Conga/2605893
 http://gooserace.xyz:2052/Conga/Conga/1525349
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=4&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=4&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1250&p=3&k=srregio&f=.m3u8
