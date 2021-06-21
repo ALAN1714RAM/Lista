@@ -65,7 +65,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605999
 http://gooserace.xyz:2052/Conga/Conga/2606000
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_303030/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
 http://gooserace.xyz:2052/Conga/Conga/2605981
@@ -101,7 +101,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605949
 http://gooserace.xyz:2052/Conga/Conga/2605950
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
-http://gooserace.xyz:2052/Conga/Conga/1525177
+
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
 http://gooserace.xyz:2052/Conga/Conga/1525180
@@ -170,7 +170,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525257
 http://gooserace.xyz:2052/Conga/Conga/2605929
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_303030/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
 http://ipeteve.com/php/SR_REGIO_303030/tp.php?c=167&p=3&k=srregio&f=.m3u8
