@@ -211,8 +211,11 @@ http://gooserace.xyz:2052/Conga/Conga/1525239
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://ipeteve.com/php/SR_REGIO_303030/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS
+#EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
 http://gooserace.xyz:2052/Conga/Conga/2605643
+
+#EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS 
+http://gooserace.xyz:2052/Conga/Conga/2605646
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
 http://gooserace.xyz:2052/Conga/Conga/2605648
