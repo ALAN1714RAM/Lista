@@ -194,10 +194,10 @@ http://gooserace.xyz:2052/Conga/Conga/2605679
 http://gooserace.xyz:2052/Conga/Conga/2605681
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
-https://dtv-latam-abc.akamaized.net/dash/live/2005059-b/dtv/dtvlatam_tnt_mexico_hd/
+
 
 #EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
-
+https://dtv-latam-abc.akamaized.net/dash/live/2005059/dtv/dtvlatam_tnt_mexico_hd/
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
 http://gooserace.xyz:2052/Conga/Conga/2605708
