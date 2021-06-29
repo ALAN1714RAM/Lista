@@ -23,7 +23,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525295
 http://gooserace.xyz:2052/Conga/Conga/1525167
 
 #EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
-
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLAROSP_LIBER)/manifest.mpd
  
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
 http://gooserace.xyz:2052/Conga/Conga/1525303
@@ -197,7 +197,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605681
 
 
 #EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
-https://www.clarovideo.com/player/dist/claro.player.5d31072c648a279a760cb8f8cbac0ac9395d7e00.js
+
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
 http://gooserace.xyz:2052/Conga/Conga/2605708
