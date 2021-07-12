@@ -14,7 +14,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525279
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://odenfull.co:2086/pajarito/pajarito/5378
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://gooserace.xyz:2052/Conga/Conga/1525295
@@ -146,7 +146,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525207
 http://gooserace.xyz:2052/Conga/Conga/1525224
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-http://odenfull.co:2086/pajarito/pajarito/109079 
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=48&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
 http://gooserace.xyz:2052/Conga/Conga/1525353
@@ -194,7 +194,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605679
 http://gooserace.xyz:2052/Conga/Conga/2605681
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
-http://odenfull.co:2086/pajarito/pajarito/135414
+
 
 #EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
 
@@ -209,7 +209,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525237
 http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://odenfull.co:2086/pajarito/pajarito/25665
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1049&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
 http://gooserace.xyz:2052/Conga/Conga/2605643
