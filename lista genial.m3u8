@@ -280,7 +280,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525291
 http://gooserace.xyz:2052/Conga/Conga/2605891
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
-http://ipeteve.com/php/SR_REGIO_303033/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=218&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
 http://gooserace.xyz:2052/Conga/Conga/2605888
