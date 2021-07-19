@@ -14,7 +14,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525279
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=20&format=HLSAD&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://gooserace.xyz:2052/Conga/Conga/1525295
@@ -22,7 +22,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525295
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
 http://gooserace.xyz:2052/Conga/Conga/1525167
 
-#EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
+#EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
 
  
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
@@ -33,7 +33,6 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=48&format=HLSAD&f=.m3u8
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
 http://gooserace.xyz:2052/Conga/Conga/2606009
 
@@ -146,7 +145,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525207
 http://gooserace.xyz:2052/Conga/Conga/1525224
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=48&p=3&k=srregio&f=.m3u8 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=48&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
 http://gooserace.xyz:2052/Conga/Conga/1525353
