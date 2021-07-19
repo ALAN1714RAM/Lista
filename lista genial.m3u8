@@ -295,7 +295,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525349
 http://gooserace.xyz:2052/Conga/Conga/1525222
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=184&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=aofgd2ynm9zjoff&lchId=1250&format=HLSAD&f=.m3u8
