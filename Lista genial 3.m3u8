@@ -1,190 +1,196 @@
-#EXTM3U
+
+ #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-http://stkiptv.ddns.me:27890/22446688/22446688/2547
+http://gooserace.xyz:2052/Conga/Conga/1525169
 
-#EXTINF:-1, LAS ESTRELLAS tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/las-estrellas-200x300.png?itok=0m027JG1", LAS ESTRELLAS
-http://stkiptv.ddns.me:27890/22446688/22446688/2548
+#EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
+http://gooserace.xyz:2052/Conga/Conga/1525175
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
-http://stkiptv.ddns.me:27890/22446688/22446688/2554
+http://gooserace.xyz:2052/Conga/Conga/1525279
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://stkiptv.ddns.me:27890/22446688/22446688/2561
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=20&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
-http://stkiptv.ddns.me:27890/22446688/22446688/2555
+http://gooserace.xyz:2052/Conga/Conga/1525295
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-http://stkiptv.ddns.me:27890/22446688/22446688/2546
+http://gooserace.xyz:2052/Conga/Conga/1525167
 
-#EXTINF:-1, AZ CLIC tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png", AZ CLIC
+#EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 
- 
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-
+http://gooserace.xyz:2052/Conga/Conga/1525303
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
 
-
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-
+http://gooserace.xyz:2052/Conga/Conga/2606009
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-
+http://gooserace.xyz:2052/Conga/Conga/2606001
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-http://stkiptv.ddns.me:27890/22446688/22446688/2477
+http://gooserace.xyz:2052/Conga/Conga/2606006
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
-http://stkiptv.ddns.me:27890/22446688/22446688/2474
+http://gooserace.xyz:2052/Conga/Conga/2606007
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-http://stkiptv.ddns.me:27890/22446688/22446688/2470
+http://gooserace.xyz:2052/Conga/Conga/2605989
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-http://stkiptv.ddns.me:27890/22446688/22446688/30366
+http://gooserace.xyz:2052/Conga/Conga/2606004
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
-http://stkiptv.ddns.me:27890/22446688/22446688/2469
+http://gooserace.xyz:2052/Conga/Conga/2606008
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738", DISNEY JR
-http://stkiptv.ddns.me:27890/22446688/22446688/2473
+http://gooserace.xyz:2052/Conga/Conga/2606002
 
 #EXTINF:-1, NICK 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png", NICK 2  
-http://stkiptv.ddns.me:27890/22446688/22446688/30605
+http://gooserace.xyz:2052/Conga/Conga/2605999
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
-http://stkiptv.ddns.me:27890/22446688/22446688/30604
+http://gooserace.xyz:2052/Conga/Conga/2606000
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
-http://stkiptv.ddns.me:27890/22446688/22446688/2625
+http://gooserace.xyz:2052/Conga/Conga/2605981
 
 #EXTINF:-1, GOLDEN + tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png", GOLDEN +
-http://stkiptv.ddns.me:27890/22446688/22446688/2640
+http://gooserace.xyz:2052/Conga/Conga/2605944
 
 #EXTINF:-1, GOLDEN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://stkiptv.ddns.me:27890/22446688/22446688/2638
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=123&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png", GOLDEN EDGE
-http://stkiptv.ddns.me:27890/22446688/22446688/2639
+http://gooserace.xyz:2052/Conga/Conga/1525251
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-http://stkiptv.ddns.me:27890/22446688/22446688/2680
+http://gooserace.xyz:2052/Conga/Conga/1525334
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-http://stkiptv.ddns.me:27890/22446688/22446688/2679
+http://gooserace.xyz:2052/Conga/Conga/2605980
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
-http://stkiptv.ddns.me:27890/22446688/22446688/2668
+http://gooserace.xyz:2052/Conga/Conga/1525161
  
-#EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", ESTUDIO UNIVERSAL
-http://stkiptv.ddns.me:27890/22446688/22446688/30627
+#EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL
+http://gooserace.xyz:2052/Conga/Conga/1525313
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
-http://stkiptv.ddns.me:27890/22446688/22446688/2637
+http://gooserace.xyz:2052/Conga/Conga/2605926
 
-#EXTINF:-1, STAR SERIES tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.StarSeries.png.a0e1b3688e390dbcc9707935b134c622.png", SERIE STAR
-http://stkiptv.ddns.me:27890/22446688/22446688/2675
+#EXTINF:-1, STAR SERIES tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.StarSeries.png.a0e1b3688e390dbcc9707935b134c622.png", STAR SERIES
+http://gooserace.xyz:2052/Conga/Conga/2605949
 
-#EXTINF:-1, STAR HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1000px-Star_Hits_2020.svg.png", STAR HITS
-http://stkiptv.ddns.me:27890/22446688/22446688/2673
+#EXTINF:-1, STAR GOLPEA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1000px-Star_Hits_2020.svg.png", STAR HITS
+http://gooserace.xyz:2052/Conga/Conga/2605950
 
 #EXTINF:-1, CINECANAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
-http://stkiptv.ddns.me:27890/22446688/22446688/2670
+
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
-http://stkiptv.ddns.me:27890/22446688/22446688/2623
+http://gooserace.xyz:2052/Conga/Conga/1525180
 
 #EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
-http://stkiptv.ddns.me:27890/22446688/22446688/2672
+http://gooserace.xyz:2052/Conga/Conga/2605948
 
-#EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png", PARAMOUNT CHANNEL
-http://stkiptv.ddns.me:27890/22446688/22446688/30626
+#EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/05/Paramount_Channel_%282014-.n.v.%29.png/revision/latest?cb=20170819124431", PARAMOUNT CHANNEL
+http://gooserace.xyz:2052/Conga/Conga/1525307
 
 #EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
-http://stkiptv.ddns.me:27890/22446688/22446688/38901
+http://gooserace.xyz:2052/Conga/Conga/1525228
  
 #EXTINF:-1, STAR CLASSICS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135249&path-prefix=es", STAR CLASSICS
-http://stkiptv.ddns.me:27890/22446688/22446688/38902
+http://gooserace.xyz:2052/Conga/Conga/2605975
 
-#EXTINF:-1, ¡E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
-http://stkiptv.ddns.me:27890/22446688/22446688/2699
+#EXTINF:-1, E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
+http://gooserace.xyz:2052/Conga/Conga/1525209
 
 #EXTINF:-1, SYFY tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.Nuevo-logo-syfy.png.c413a84b61d74218a14b76cdce6bc219.png", SYFY
-http://stkiptv.ddns.me:27890/22446688/22446688/30628
+http://gooserace.xyz:2052/Conga/Conga/1525315
 
 #EXTINF:-1, A&E tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e2634b53195e85806417/1cd50cd7d3150645333dbc42185a6aad/img.png", A&E
-http://stkiptv.ddns.me:27890/22446688/22446688/2667
+http://gooserace.xyz:2052/Conga/Conga/1525158
 
 #EXTINF:-1, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", AXN
-http://stkiptv.ddns.me:27890/22446688/22446688/2669
+http://gooserace.xyz:2052/Conga/Conga/1525164
 
-#EXTINF:-1, TNT SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", SERIE TNT
-http://stkiptv.ddns.me:27890/22446688/22446688/2681
+#EXTINF:-1, TNT SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
+http://gooserace.xyz:2052/Conga/Conga/2605967
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarLife_Logo2021_FondoClaro.png.b2d11a62c293c288b30f40805e2dad1f.png", STAR LIFE
-http://stkiptv.ddns.me:27890/22446688/22446688/2439
+http://gooserace.xyz:2052/Conga/Conga/1525226
 
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
-http://stkiptv.ddns.me:27890/22446688/22446688/4888
+http://gooserace.xyz:2052/Conga/Conga/2605861
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
-http://stkiptv.ddns.me:27890/22446688/22446688/7104
+http://gooserace.xyz:2052/Conga/Conga/1525207
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL
-http://stkiptv.ddns.me:27890/22446688/22446688/2671
+http://gooserace.xyz:2052/Conga/Conga/1525224
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
-http://stkiptv.ddns.me:27890/22446688/22446688/30414
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=48&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-http://stkiptv.ddns.me:27890/22446688/22446688/7050
+http://gooserace.xyz:2052/Conga/Conga/1525353
 
-#EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", EL UNIVERSAL
-http://stkiptv.ddns.me:27890/22446688/22446688/7052
+#EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
+http://gooserace.xyz:2052/Conga/Conga/1525347
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
-http://stkiptv.ddns.me:27890/22446688/22446688/2636
+http://gooserace.xyz:2052/Conga/Conga/1525243
 
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png", COMEDY CENTRAL
-http://stkiptv.ddns.me:27890/22446688/22446688/2682
+http://gooserace.xyz:2052/Conga/Conga/1525186
 
 #EXTINF:-1, HBO tvg-logo="https://pixelogicmedia.com/wp-content/uploads/2017/10/client-logo-hbo.png", HBO
-http://stkiptv.ddns.me:27890/22446688/22446688/2642
+http://gooserace.xyz:2052/Conga/Conga/2605938
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
-http://stkiptv.ddns.me:27890/22446688/22446688/2643
+http://gooserace.xyz:2052/Conga/Conga/1525257
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
-http://stkiptv.ddns.me:27890/22446688/22446688/2678
+http://gooserace.xyz:2052/Conga/Conga/2605929
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
-
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
-
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=167&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
-http://stkiptv.ddns.me:27890/22446688/22446688/3075
+http://gooserace.xyz:2052/Conga/Conga/2605713
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-http://stkiptv.ddns.me:27890/22446688/22446688/3074
+http://gooserace.xyz:2052/Conga/Conga/2605658
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
-http://stkiptv.ddns.me:27890/22446688/22446688/3078
+http://gooserace.xyz:2052/Conga/Conga/2605712
 
-#EXTINF:-1, ESPN + tvg-logo="https://img2.freepng.es/20180424/ubq/kisspng-espn-espn3-logo-espn-events-tcm-logo-5adf0f5c7bc118.9742615415245679005069.jpg", ESPN +
+#EXTINF:-1, DIREC TV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DIRECTV SPORTS
+http://gooserace.xyz:2052/Conga/Conga/2605680
 
+#EXTINF:-1, DIREC TV SPORTS 2 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png", DIRECTV SPORTS 2
+http://gooserace.xyz:2052/Conga/Conga/2605679
+
+#EXTINF:-1, DIREC TV SPORTS + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", DIRECTV SPORTS +
+http://gooserace.xyz:2052/Conga/Conga/2605681
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
 
@@ -193,88 +199,103 @@ http://stkiptv.ddns.me:27890/22446688/22446688/3078
 
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
-http://stkiptv.ddns.me:27890/22446688/22446688/3087
+http://gooserace.xyz:2052/Conga/Conga/2605708
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
-http://stkiptv.ddns.me:27890/22446688/22446688/3090
+http://gooserace.xyz:2052/Conga/Conga/1525237
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
-http://stkiptv.ddns.me:27890/22446688/22446688/3091
+http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://stkiptv.ddns.me:27890/22446688/22446688/33185
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
+http://gooserace.xyz:2052/Conga/Conga/2605643
+
+#EXTINF:-1, TNT SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_logo.svg/1200px-TNT_Sports_logo.svg.png", TNT SPORTS
+http://gooserace.xyz:2052/Conga/Conga/2605670
+
+#EXTINF:-1,AYM SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_urII1rQ9C7s%2FTRUVN-K8aoI%2FAAAAAAAABB0%2FELxtfK9G4RY%2Fs1600%2Faym_sports.png&f=1&nofb=1", AYM SPORTS
+http://gooserace.xyz:2052/Conga/Conga/2605716
+
+#EXTINF:-1,TVC DEPORTEStvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdestel.mx%2Fwp-content%2Fuploads%2F2016%2F04%2FTVC-DEPORTES.png&f=1&nofb=1", TVC DEPORTES
+http://gooserace.xyz:2052/Conga/Conga/2605657
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+http://gooserace.xyz:2052/Conga/Conga/2605648
+
+#EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
+http://gooserace.xyz:2052/Conga/Conga/2605717
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
-http://stkiptv.ddns.me:27890/22446688/22446688/30417
+http://gooserace.xyz:2052/Conga/Conga/1525192
 
 #EXTINF:-1, ANIMAL PLANET tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ANIMAL PLANET
-http://stkiptv.ddns.me:27890/22446688/22446688/2685
+http://gooserace.xyz:2052/Conga/Conga/1525162
 
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
-http://stkiptv.ddns.me:27890/22446688/22446688/2691
+http://gooserace.xyz:2052/Conga/Conga/1525273
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
-http://stkiptv.ddns.me:27890/22446688/22446688/30470
+http://gooserace.xyz:2052/Conga/Conga/2605846
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
-http://stkiptv.ddns.me:27890/22446688/22446688/2465
+http://gooserace.xyz:2052/Conga/Conga/1525299
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-http://stkiptv.ddns.me:27890/22446688/22446688/2692
+http://gooserace.xyz:2052/Conga/Conga/1525301
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
-http://stkiptv.ddns.me:27890/22446688/22446688/2688
+http://gooserace.xyz:2052/Conga/Conga/1525200
 
 #EXTINF:-1, H&H tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", H&H
-http://stkiptv.ddns.me:27890/22446688/22446688/2687
+http://gooserace.xyz:2052/Conga/Conga/1525194
  
 #EXTINF:-1, TLC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
-http://stkiptv.ddns.me:27890/22446688/22446688/2689
+http://gooserace.xyz:2052/Conga/Conga/1525330
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png", DISCOVERY SCIENCE 
-http://stkiptv.ddns.me:27890/22446688/22446688/2459
+http://gooserace.xyz:2052/Conga/Conga/1525198
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
-http://stkiptv.ddns.me:27890/22446688/22446688/2456
+
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
-http://stkiptv.ddns.me:27890/22446688/22446688/4891
+http://gooserace.xyz:2052/Conga/Conga/1525204
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",DISCOVERY INVESTIGATION 
-http://stkiptv.ddns.me:27890/22446688/22446688/2458
+http://gooserace.xyz:2052/Conga/Conga/1525284
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
-http://stkiptv.ddns.me:27890/22446688/22446688/2690
+http://gooserace.xyz:2052/Conga/Conga/1525202
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://stkiptv.ddns.me:27890/22446688/22446688/30877
+http://ipeteve.com/php/SR_REGIO_35857/tp.php?c=211&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png", MTV
-http://stkiptv.ddns.me:27890/22446688/22446688/2538
+http://gooserace.xyz:2052/Conga/Conga/1525291
  
 #EXTINF:-1, MTV HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS
-http://stkiptv.ddns.me:27890/22446688/22446688/2537
+http://gooserace.xyz:2052/Conga/Conga/2605891
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
-
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=218&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
+http://gooserace.xyz:2052/Conga/Conga/2605888
 
-
-#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandamax_2009-2015.png", BANDAMAX
-
+#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/BANDAMAX_2009.png", BANDAMAX
+http://gooserace.xyz:2052/Conga/Conga/2605893
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
-
+http://gooserace.xyz:2052/Conga/Conga/1525349
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/984297e7-88c0-4af5-b4a5-f80e3aebffe7:DLS/variant/311b57c4eb7ad534195220898b78fe8d/bandwidth/2266440.m3u8
+http://gooserace.xyz:2052/Conga/Conga/1525222
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=184&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
-
+http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=1250&p=3&k=srregio&f=.m3u8
