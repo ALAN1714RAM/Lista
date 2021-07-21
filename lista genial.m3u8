@@ -32,7 +32,7 @@ http://gooserace.xyz:2052/Conga/Conga/1525303
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
-https://channel-tdn-cdn.blim.com/manifest.mpd
+
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
 http://gooserace.xyz:2052/Conga/Conga/2606009
