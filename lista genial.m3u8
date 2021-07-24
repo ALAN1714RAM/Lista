@@ -293,7 +293,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605893
 http://gooserace.xyz:2052/Conga/Conga/1525349
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-http://gooserace.xyz:2052/Conga/Conga/1525222
+https://adinsertprimeforotv.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/c30e23a3-22e3-45f4-b086-01367db2a647:TUL/variant/829cb2c3b2719b52522a55eaf6c51466/bandwidth/1449049.m3u8
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 http://ipeteve.com:80/php/SR_REGIO_230721/tp.php?c=184&p=3&k=srregio&f=.m3u8
