@@ -173,16 +173,16 @@ http://gooserace.xyz:2052/Conga/Conga/2605929
 http://ipeteve.com:80/php/SR_REGIO_230721/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ESPN + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png", ESPN +
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75555
+http://ipeteve.com:80/php/SR_REGIO_230721/tp.php?c=167&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75552
+http://gooserace.xyz:2052/Conga/Conga/2605713
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75553
+http://gooserace.xyz:2052/Conga/Conga/2605658
 
 #EXTINF:-1, ESPN 3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75554
+http://gooserace.xyz:2052/Conga/Conga/2605712
 
 #EXTINF:-1, DIREC TV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DIRECTV SPORTS
 http://gooserace.xyz:2052/Conga/Conga/2605680
@@ -200,13 +200,13 @@ http://gooserace.xyz:2052/Conga/Conga/2605681
 
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75556
+http://gooserace.xyz:2052/Conga/Conga/2605708
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75557
+http://gooserace.xyz:2052/Conga/Conga/1525237
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75558
+http://gooserace.xyz:2052/Conga/Conga/1525239
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
 http://ipeteve.com:80/php/SR_REGIO_230721/tp.php?c=1049&p=3&k=srregio&f=.m3u8
