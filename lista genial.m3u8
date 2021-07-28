@@ -8,7 +8,7 @@ http://tv.nstvlatino.com:8080/Primo123/Primo123/4087
 http://tv.nstvlatino.com:8080/Primo123/Primo123/4030
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
-http://skylogic.site:8080/Angel/35c02c5a/9039  
+http://scorpione.net:8080/m.umar11/123456/26937 
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
@@ -26,7 +26,7 @@ http://tv.nstvlatino.com:8080/Primo123/Primo123/4027
 http://ipeteve.com:80/php/SR_REGIO_250721/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-http://skylogic.site:8080/Angel/35c02c5a/167165
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
@@ -80,7 +80,7 @@ http://skylogic.site:8080/Angel/35c02c5a/5793
 http://skylogic.site:8080/Angel/35c02c5a/9076
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4103
+http://scorpione.net:8080/m.umar11/123456/27006
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=129&p=3&k=srregio&f=.m3u8 
@@ -149,13 +149,13 @@ http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=201&p=3&k=srregio&f=.m3u8
 http://ipeteve.com:80/php/SR_REGIO_250721/tp.php?c=48&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=205&p=3&k=srregio&f=.m3u8
+http://scorpione.net:8080/m.umar11/123456/27037
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=207&p=3&k=srregio&f=.m3u8
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
-http://skylogic.site:8080/Angel/35c02c5a/9105
+http://scorpione.net:8080/m.umar11/123456/26921
 
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png", COMEDY CENTRAL
 http://skylogic.site:8080/Angel/35c02c5a/9106
@@ -242,10 +242,10 @@ http://skylogic.site:8080/Angel/35c02c5a/9050
 
 
 #EXTINF:-1, NAT GEO tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", NAT GEO
-http://skylogic.site:8080/Angel/35c02c5a/8725
+http://scorpione.net:8080/m.umar11/123456/26961
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png", NAT GEO WILD
-http://skylogic.site:8080/Angel/35c02c5a/9072
+http://scorpione.net:8080/m.umar11/123456/26963
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
 http://skylogic.site:8080/Angel/35c02c5a/9151
