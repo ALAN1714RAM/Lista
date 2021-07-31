@@ -2,7 +2,7 @@
  #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-http://gooserace.xyz:2052/Conga/Conga/1525169
+http://tv.nstvlatino.com:8080/Primo123/Primo123/4087
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
 http://gooserace.xyz:2052/Conga/Conga/1525175
@@ -14,19 +14,19 @@ http://gooserace.xyz:2052/Conga/Conga/1525279
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://gooserace.xyz:2052/Conga/Conga/1525295
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-http://gooserace.xyz:2052/Conga/Conga/1525167
+http://tv.nstvlatino.com:8080/Primo123/Primo123/4027
 
 #EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
 http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-http://gooserace.xyz:2052/Conga/Conga/1525303
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
@@ -43,13 +43,13 @@ http://gooserace.xyz:2052/Conga/Conga/2606001
 http://gooserace.xyz:2052/Conga/Conga/2606006
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
-http://gooserace.xyz:2052/Conga/Conga/2606007
+http://skylogic.site:8080/Angel/35c02c5a/274536  
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://gooserace.xyz:2052/Conga/Conga/2605989
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-http://gooserace.xyz:2052/Conga/Conga/2606004
+http://skylogic.site:8080/Angel/35c02c5a/9086
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG
 http://gooserace.xyz:2052/Conga/Conga/2606008
@@ -175,7 +175,7 @@ http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=2113&p=3&k=srregio&f=.m3u8
 http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75555
 
 #EXTINF:-1, ESPN tvg-logo="https://roku-zapopan8.webnode.mx/_files/200000027-9bf1b9ceaa/ESPN-Logo.png", ESPN
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75552
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/32979
 
 #EXTINF:-1, ESPN 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2
 http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75553
@@ -199,10 +199,10 @@ http://gooserace.xyz:2052/Conga/Conga/2605681
 
 
 #EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75556
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/32993
 
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
-http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75557
+http://my.streamerstv.com:25461/Renato/Renato/401
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
 http://whmcsblock.ddns.net:8080/asuypvtj/7785uzPMoL/75558
@@ -292,7 +292,7 @@ http://gooserace.xyz:2052/Conga/Conga/2605893
 http://gooserace.xyz:2052/Conga/Conga/1525349
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-http://gooserace.xyz:2052/Conga/Conga/1525222
+http://tv.nstvlatino.com:8080/Primo123/Primo123/4029
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=184&p=3&k=srregio&f=.m3u8
