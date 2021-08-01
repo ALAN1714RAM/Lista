@@ -38,16 +38,16 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=108&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=109&p=3&k=srregio&f=.m3u8 
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
 https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-http://scorpione.net:8080/m.umar11/123456/26860
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
@@ -86,8 +86,8 @@ http://scorpione.net:8080/m.umar11/123456/27006
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=129&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
-http://skylogic.site:8080/Angel/35c02c5a/9083
- 
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+
 #EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=132&p=3&k=srregio&f=.m3u8 
 
@@ -104,7 +104,7 @@ http://skylogic.site:8080/Angel/35c02c5a/76405
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=149&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, CINEMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
-http://skylogic.site:8080/Angel/35c02c5a/9080
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 
 #EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
 http://skylogic.site:8080/Angel/35c02c5a/76401
@@ -119,7 +119,7 @@ http://tv.nstvlatino.com:8080/Primo123/Primo123/3264
 http://skylogic.site:8080/Angel/35c02c5a/76402
 
 #EXTINF:-1, E! tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png", E!
-http://skylogic.site:8080/Angel/35c02c5a/31760
+https://live3-ott.izzigo.tv/out/u/dash/E-Entertainment-HD/default.mpd
 
 #EXTINF:-1, SYFY tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.Nuevo-logo-syfy.png.c413a84b61d74218a14b76cdce6bc219.png", SYFY
 http://skylogic.site:8080/Angel/35c02c5a/9081
@@ -140,22 +140,22 @@ http://skylogic.site:8080/Angel/35c02c5a/8684
 http://tv.nstvlatino.com:8080/Primo123/Primo123/49168
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
-http://skylogic.site:8080/Angel/35c02c5a/9126
+https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-SD/default.mpd
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", STAR CHANNEL
-http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/53539
+https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 
 #EXTINF:-1, SONY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/1753
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-http://scorpione.net:8080/m.umar11/123456/27037
+https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=207&p=3&k=srregio&f=.m3u8
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
-http://scorpione.net:8080/m.umar11/123456/26921
+https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png", COMEDY CENTRAL
 http://skylogic.site:8080/Angel/35c02c5a/9106
@@ -229,14 +229,14 @@ http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
 http://tv.nstvlatino.com:8080/Primo123/Primo123/8248
 
-#EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL
-http://skylogic.site:8080/Angel/35c02c5a/9061  
+#EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL 
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 
 #EXTINF:-1, ANIMAL PLANET tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ANIMAL PLANET
 http://skylogic.site:8080/Angel/35c02c5a/9113
 
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
-http://skylogic.site:8080/Angel/35c02c5a/9050
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
 
@@ -251,8 +251,8 @@ http://scorpione.net:8080/m.umar11/123456/26963
 http://skylogic.site:8080/Angel/35c02c5a/9151
 
 #EXTINF:-1, H&H tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", H&H
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=96&p=3&k=srregio&f=.m3u8
- 
+https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
 #EXTINF:-1, TLC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", TLC
 http://skylogic.site:8080/Angel/35c02c5a/9062
 
@@ -281,13 +281,13 @@ http://skylogic.site:8080/Angel/35c02c5a/9048
 http://skylogic.site:8080/Angel/35c02c5a/9049
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
-http://tv.nstvlatino.com:8080/Primo123/Primo123/3064
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=220&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/BANDAMAX_2009.png", BANDAMAX
-http://skylogic.site:8080/Angel/35c02c5a/9122
+https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-SD/default.mpd
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
 http://skylogic.site:8080/Angel/35c02c5a/9044
