@@ -47,7 +47,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
 https://live5-ott.izzigo.tv/out/u/dash/DISNEY-XD-HD/default.mpd
 
 #EXTINF:-1, CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+https://latam3-lh.akamaihd.net/i/CTN_MEX@445600/index_720_av-p.m3u8?sd=10&rebase=on&id=AgCx4mbByFzaFXRGCGEzYxlMC0lIOUQqhUDVJXLSAcc3YgPjUcyOly6aa1LkESM0RprMKK6Bp03c+A%3d%3d&hdntl=exp=1628018676~acl=%2f*~data=hdntl~hmac=968188c0ac43fb5b7b125ce72cc7c4f7ecf50cb58328be4a1f3daa32191be253
 
 #EXTINF:-1, DISNEY CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
