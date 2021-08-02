@@ -2,10 +2,10 @@
  #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4087
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3845
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4030
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/9961
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3822
@@ -17,10 +17,10 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w168737353
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/39295
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4027
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3852
 
 #EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
 http://ipeteve.com:80/php/SR_REGIO_250721/tp.php?c=2316&p=3&k=srregio&f=.m3u8
@@ -92,7 +92,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9083
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=132&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
-http://gooserace.xyz:2052/Conga/Conga/2605926
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/1740
 
 #EXTINF:-1, STAR SERIES tvg-logo="https://forounivers.com/uploads/monthly_2021_02/large.StarSeries.png.a0e1b3688e390dbcc9707935b134c622.png", STAR SERIES
 http://skylogic.site:8080/Angel/35c02c5a/76406
@@ -113,7 +113,7 @@ http://skylogic.site:8080/Angel/35c02c5a/76401
 http://skylogic.site:8080/Angel/35c02c5a/9146 
 
 #EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
-http://tv.nstvlatino.com:8080/Primo123/Primo123/3264
+
 
 #EXTINF:-1, STAR CLASSICS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135249&path-prefix=es", STAR CLASSICS
 http://skylogic.site:8080/Angel/35c02c5a/76402
@@ -137,7 +137,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9139
 http://skylogic.site:8080/Angel/35c02c5a/8684
 
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
-http://tv.nstvlatino.com:8080/Primo123/Primo123/49168
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3989
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
 http://skylogic.site:8080/Angel/35c02c5a/9126
@@ -161,13 +161,13 @@ http://scorpione.net:8080/m.umar11/123456/26921
 http://skylogic.site:8080/Angel/35c02c5a/9106
 
 #EXTINF:-1, HBO tvg-logo="https://pixelogicmedia.com/wp-content/uploads/2017/10/client-logo-hbo.png", HBO
-http://tv.nstvlatino.com:8080/Primo123/Primo123/3199
+
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
 http://my.streamerstv.com:25461/Renato/Renato/413
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4003
+
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
 http://scorpione.net:8080/m.umar11/123456/26818
@@ -185,13 +185,13 @@ http://scorpione.net:8080/m.umar11/123456/21948
 http://skylogic.site:8080/Angel/35c02c5a/275070
 
 #EXTINF:-1, DIREC TV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DIRECTV SPORTS
-http://tv.nstvlatino.com:8080/Primo123/Primo123/23239
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/604
 
 #EXTINF:-1, DIREC TV SPORTS 2 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png", DIRECTV SPORTS 2
-http://tv.nstvlatino.com:8080/Primo123/Primo123/53489
+
 
 #EXTINF:-1, DIREC TV SPORTS + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", DIRECTV SPORTS +
-http://tv.nstvlatino.com:8080/Primo123/Primo123/53490
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/42472
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
 
@@ -215,7 +215,7 @@ http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1049&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1, TNT SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_logo.svg/1200px-TNT_Sports_logo.svg.png", TNT SPORTS
-http://tv.nstvlatino.com:8080/Primo123/Primo123/2957
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/15942
 
 #EXTINF:-1,AYM SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_urII1rQ9C7s%2FTRUVN-K8aoI%2FAAAAAAAABB0%2FELxtfK9G4RY%2Fs1600%2Faym_sports.png&f=1&nofb=1", AYM SPORTS
 http://skylogic.site:8080/Angel/35c02c5a/9074
@@ -227,7 +227,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9075
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
-http://tv.nstvlatino.com:8080/Primo123/Primo123/8248
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/55292
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png", DISCOVERY CHANNEL 
 http://skylogic.site:8080/Angel/35c02c5a/9061
@@ -281,7 +281,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9048
 http://skylogic.site:8080/Angel/35c02c5a/9049
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
-http://tv.nstvlatino.com:8080/Primo123/Primo123/3064
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/57648
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=220&p=3&k=srregio&f=.m3u8 
@@ -293,7 +293,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9122
 http://skylogic.site:8080/Angel/35c02c5a/9044
 
 #EXTINF:-1, FOROTV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FOROTV 
-http://tv.nstvlatino.com:8080/Primo123/Primo123/4029
+http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3828
 
 #EXTINF:-1, ADN 40 tvg-logo="https://cdn131.picsart.com/278369787022211.png", ADN 40
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3855
