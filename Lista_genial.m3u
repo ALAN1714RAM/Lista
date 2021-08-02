@@ -37,8 +37,8 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 http://gooserace.xyz:2052/Conga/Conga/2606009
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=109&p=3&k=srregio&f=.m3u8 
-
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=109&p=3&k=srregio&f=.m3u8
+ 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=110&p=3&k=srregio&f=.m3u8  
 
@@ -79,10 +79,10 @@ http://ipeteve.com:80/php/SR_REGIO_190721/tp.php?c=123&p=3&k=srregio&f=.m3u8
 http://gooserace.xyz:2052/Conga/Conga/1525251
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-http://gooserace.xyz:2052/Conga/Conga/1525334
+http://scorpione.net:8080/m.umar11/123456/27006
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-http://gooserace.xyz:2052/Conga/Conga/2605980
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=129&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
 http://skylogic.site:8080/Angel/35c02c5a/9083
