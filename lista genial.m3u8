@@ -2,7 +2,7 @@
  #EXTM3U
 
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/_Y0luNhIRZuzMuUkEbL7_w/stream/a42dcdbe-bf0d-46f2-8bfc-da83346eff29:TUL/variant/a8259ce067230e9ef646e0ba77305f38/bandwidth/712800.m3u8?uid=W3oBldxRaWbQB2DAnXBBSc4ktXkiXtk1&sid=KMkCV5IPbUSxRaOqTauDZQ6IGhm4JOxg&pid=b49sDqQ6HZiXG5eZh3kLW7BJTOQnFhaY&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&dnt=true&ote=1628022552281&ot=PvH74jKdyFiJniWVn915yg&es=us-b4-p-e-xy7.cdn.mdstrm.com&proto=https&pz=us&aid=5fea09a071a9945deebf5f7c
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
