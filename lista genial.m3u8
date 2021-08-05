@@ -7,7 +7,7 @@ http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3845
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/9961
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
-http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3822
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/3822
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
@@ -40,7 +40,7 @@ http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=108&p=3&k=srregio&f=.m3u8
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/17719
 
 #EXTINF:-1, NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=110&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=110&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD
 http://skylogic.site:8080/Angel/35c02c5a/274536  
@@ -79,10 +79,10 @@ http://skylogic.site:8080/Angel/35c02c5a/5793
 http://skylogic.site:8080/Angel/35c02c5a/9076
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-http://scorpione.net:8080/m.umar11/123456/27006
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/1760
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=129&p=3&k=srregio&f=.m3u8 
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/1754
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/40116
@@ -148,7 +148,7 @@ http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/53539
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/1753
 
 #EXTINF:-1, WARNER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", WARNER 
-http://scorpione.net:8080/m.umar11/123456/27037
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/1763
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
 http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=207&p=3&k=srregio&f=.m3u8
@@ -160,13 +160,13 @@ http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/55427
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/18230
 
 #EXTINF:-1, HBO tvg-logo="https://pixelogicmedia.com/wp-content/uploads/2017/10/client-logo-hbo.png", HBO
-
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/45651
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
 http://my.streamerstv.com:25461/Renato/Renato/413
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
-
+http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/1747
 
 #EXTINF:-1, A3SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
 http://scorpione.net:8080/m.umar11/123456/26818
