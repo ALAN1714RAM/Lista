@@ -13,7 +13,7 @@ http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3822
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
 #EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/39295
@@ -22,10 +22,10 @@ http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/39295
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/3852
 
 #EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
-http://ipeteve.com:80/php/SR_REGIO_250721/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+http://ipeteve.com:80/php/SR_REGIO_040821/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
@@ -34,7 +34,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=108&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/17719
@@ -64,7 +64,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9040
 http://skylogic.site:8080/Angel/35c02c5a/8724
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
-http://ipeteve.com:80/php/SR_REGIO_250721/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com:80/php/SR_REGIO_040821/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
 http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=121&p=3&k=srregio&f=.m3u8 
@@ -82,13 +82,13 @@ http://skylogic.site:8080/Angel/35c02c5a/9076
 http://scorpione.net:8080/m.umar11/123456/27006
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=129&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=129&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AMC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/40116
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=132&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=132&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, FXM tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png", FXM
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/1740
@@ -151,7 +151,7 @@ http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/1753
 http://scorpione.net:8080/m.umar11/123456/27037
 
 #EXTINF:-1, UNIVERSAL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=207&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=207&p=3&k=srregio&f=.m3u8
  
 #EXTINF:-1, FX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", FX
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/55427
@@ -223,7 +223,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9074
 http://skylogic.site:8080/Angel/35c02c5a/9075 
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/55292
@@ -262,7 +262,7 @@ http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/5409
 http://tv.iptv5latino.cl:8080/VictorBastias4/6BHPMA4EW/17327
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png", DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=101&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=101&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",DISCOVERY INVESTIGATION 
 http://skylogic.site:8080/Angel/35c02c5a/9056
@@ -283,7 +283,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9049
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/57648
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://forounivers.com/uploads/monthly_2020_09/small.telehitmusicaplus.png.8b25b0922b1899e4b9a52310fff3a587.png", TELEHIT +
-http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=220&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=220&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/BANDAMAX_2009.png", BANDAMAX
 http://skylogic.site:8080/Angel/35c02c5a/9122
