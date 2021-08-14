@@ -25,7 +25,7 @@ http://ultrontv.xyz:80/Faith/Faith/73639
 http://ultrontv.xyz:80/Faith/Faith/73623
 
 #EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
-http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1783&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
@@ -64,7 +64,7 @@ http://ultrontv.xyz:80/Faith/Faith/73729
 http://ultrontv.xyz:80/Faith/Faith/73725
 
 #EXTINF:-1, A3CINE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE
-http://ipeteve.com:80/php/SR_REGIO_040821/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com:80/php/SR_REGIO_100821/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
 http://ultrontv.xyz:80/Faith/Faith/73664
@@ -208,7 +208,7 @@ http://my.streamerstv.com:25461/Renato/Renato/401
 http://tv.iptv5latino.cl:8080/olgaksdc293/h8jiCV4z41/55007
 
 #EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
-http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
 
@@ -223,7 +223,7 @@ http://skylogic.site:8080/Angel/35c02c5a/9074
 http://skylogic.site:8080/Angel/35c02c5a/9075 
 
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
-http://ipeteve.com/php/SR_REGIO_040821/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_100821/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
 
