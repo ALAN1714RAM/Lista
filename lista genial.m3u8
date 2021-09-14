@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmrfixitstips.co.uk%2Fwp-content%2Fuploads%2F2021%2F09%2FMRF2021_SevillavRBLeipzig.jpg&f=1&nofb=1", Champions League: Sevilla vs RB Salzburg
-https://live.akm.latam.hbomaxcdn.com/cmaf/live/2031611-b/dash/cenc/23769/master.mpd
-
-#EXTINF:-1, tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.novibet.gr%2Fblog-assets%2Fwp-content%2Fuploads%2F2021%2F09%2FYoung-Boys-v-Manchester-United.jpg&f=1&nofb=1", Champions League: Young Boys vs Manchester United
-https://live.lln.latam.hbomaxcdn.com/cmaf/live/2031610-b/dash/cenc/23770/master.mpd
-
-#EXTINF:-1, tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsportshub.cbsistatic.com%2Fi%2Fr%2F2021%2F09%2F09%2F8f64b733-f4df-4334-8dcc-d7cb56869672%2Fthumbnail%2F1200x675%2Ff2f1e06af1f8ad59220527947e509245%2Fuefa-champions-thumb-chelsea-v-zenit.jpg&f=1&nofb=1", Champions League: Chelsea vs Zenit
-https://live.lln.latam.hbomaxcdn.com/dash/live/2028707-b/Uefa_CL_MatchNotStarted_spanish/1628538932/540p-30fps-2500kbps-20.mp4
-
-#EXTINF:-1, tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffootballtoday.info%2Fwp-content%2Fuploads%2F2021%2F09%2Fa9759e5d169a441b4b9fa69727fb22c7.png&f=1&nofb=1", Champions League: Malmö vs Juventus
-https://live.akm.latam.hbomaxcdn.com/dash/live/2028707-b/Uefa_CL_MatchNotStarted_spanish/1628538932/360p-30fps-1000kbps-init.mp4
-
-#EXTINF:-1, tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flaligaexpert.com%2Fwp-content%2Fuploads%2F2021%2F09%2Fbarcelona-vs-bayern-munich.jpg&f=1&nofb=1", Champions League: Barcelona vs Bayern Múnich
-https://live.lln.latam.hbomaxcdn.com/dash/live/2028707-b/Uefa_CL_MatchNotStarted_spanish/1628538932/540p-30fps-2500kbps-18.mp4
-
 #EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=e6n7j3xwpktipr4&lchId=7&format=HLSAD&f=.m3u8 
 
