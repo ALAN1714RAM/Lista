@@ -285,7 +285,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5x
 #EXTINF:-1, TELEHIT + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telehit_Plus_Logo_Octubre_2017.png", TELEHIT +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=220&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, BANDAMAX tvg-logo="https://lh3.googleusercontent.com/proxy/hx6pnkQX_lWTIenxPoqLsMpN9XFnRK4yOk6WX0MMhm44hk_7TPY_XXoSwbmnsIfp43wJZlE9ALKBhIrr44YQ1im4CeH0YgtjTGZtR2pxBS4p", BANDAMAX
+#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png", BANDAMAX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hengu5xly80vecx&lchId=221&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
