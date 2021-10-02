@@ -4,7 +4,7 @@
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=7&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
-https://channel01dai-onlymex.akamaized.net/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/2b551401-1925-4e99-91fc-0302cb727c52:TUL/variant/ce42eb0cd2e212254ed3554b4684444f/bandwidth/3297996.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=1784&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=2606&format=HLSAD&f=.m3u8   
@@ -79,7 +79,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=124&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, TNT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT
-https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/index_720_av-p.m3u8?sd=10&rebase=on&id=AgCx4miHyFzaVgPKWGGfq0uqD3tYqBNEWZNXeWhh545Nf3gWRxsNhYeX3AWRzDtuvnYU6FbaoS3v8w%3d%3d&hdntl=exp=1633295235~acl=%2f*~data=hdntl~hmac=a0895c92ea8a37a9ba671c2e25bf0ed5afe5e3fe0b31c90af880773a115d4d9e
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=126&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, SPACE tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SPACE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=5ddsvd0r6xeeod4&lchId=129&format=HLSAD&f=.m3u8
