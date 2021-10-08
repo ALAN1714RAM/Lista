@@ -212,7 +212,7 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 https://tv.teleclub.xyz/canales/L1/DISCOVERY.m3u8
 
 #EXTINF:-1, ANIMAL PLANET tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ANIMAL PLANET
-https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
+http://ultrontv.xyz:80/Faith/Faith/73629
 
 #EXTINF:-1, HISTORY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png", HISTORY
 https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
