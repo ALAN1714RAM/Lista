@@ -2,6 +2,6 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceld=YwtKpAIVGl34Y5EmHLDXysQ3xyY4DNYGup6NOlKS6Kh2vpoRzKlXcA
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:443/?deviceld=SjKYhsAkYSgBhOmELZ6hp1nyN14HXWXQdN45H7WeqRWfBeiMv7qbRA
 #EXTINF:-1, tvg-ID="foodnetwork.mx" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="IZZI GO",FOOD NETWORK HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
