@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, AZTECA UNO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
+#EXTINF:-1, AZTECA UNO tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
+#EXTINF:-1, LAS ESTRELLAS tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1784&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
@@ -12,19 +12,19 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/chunklist_w1687373533.m3u8
 
-#EXTINF:-1, CANAL 5 tvg-logo="https://1.bp.blogspot.com/-dpJYQE2TBb0/W6lmTY4B61I/AAAAAAAAADU/oiSZT1J1J8sDT0dAh3OBN1boEHIDt9F4QCPcBGAYYCw/s1600/canal5televisa.png", CANAL 5
+#EXTINF:-1, CANAL 5 tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1785&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2882&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, AZTECA 7 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest/scale-to-width-down/340?cb=20140426231035&path-prefix=es", AZTECA 7 
+#EXTINF:-1, AZTECA 7 tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=322&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, A+ tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8    
 
-#EXTINF:-1, NU9VE tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/nuevocanal9mexico-2000x495-388087663-2000x495-738572309.png", NU9VE
+#EXTINF:-1, NU9VE tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1783&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
@@ -138,7 +138,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, PASIONES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png", PASIONES
 
 
-#EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA 
+#EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0", DISTRITO COMEDIA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=78&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, STAR CHANNEL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b0cc1d57-648b-44b6-a582-ddfffc8cb612.png", STAR CHANNEL
@@ -159,7 +159,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, COMEDY CENTRAL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/00d79d55-274c-4a49-9504-a82d8146cc35.png", COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=340&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, HBO tvg-logo="https://pixelogicmedia.com/wp-content/uploads/2017/10/client-logo-hbo.png", HBO
+#EXTINF:-1, HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0", HBO
 
 
 #EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
@@ -198,10 +198,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
 
 
-#EXTINF:-1, FOX SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png", FOX SPORTS
+#EXTINF:-1, FOX SPORTS tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=171&format=HLSAD&f=.m3u8   
 
-#EXTINF:-1, FOX SPORTS 2 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", FOX SPORTS 2
+#EXTINF:-1, FOX SPORTS 2 tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=172&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
@@ -225,8 +225,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 Claro Sports tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8    
 
-#EXTINF:-1, AFIZZIONADOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pandaancha.mx%2Fplds%2Farticulos%2Ffroala%2Fafizzionados-nfl-thumb-removebg-preview-558x103-587098207.png&f=1&nofb=1", AFIZZIONADOS
-http://011011011.com:8080/Cedrick/Cedrick/132780
+#EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
+
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/20e4c528-a847-4675-a9e0-95c26d30088b.png", DISCOVERY CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=86&format=HLSAD&f=.m3u8
@@ -255,7 +255,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, TLC tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/09807216-3a99-40af-9da0-1a0d1800de56.png", TLC
 http://ultrontv.xyz:80/Faith/Faith/73751
 
-#EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://unaespeciedetv.files.wordpress.com/2011/11/discovery-science-logo.png", DISCOVERY SCIENCE 
+#EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://www.izzigo.tv/images/ch/125/LOGO/m/0", DISCOVERY SCIENCE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=98&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
@@ -278,13 +278,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, MTV HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=213&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, TELEHIT URBANO tvg-logo="https://seeklogo.com/images/T/Telehit-logo-269B905872-seeklogo.com.png", TELEHIT URBANO
+#EXTINF:-1, TELEHIT URBANO tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=218&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telehit_Plus_Logo_Octubre_2017.png", TELEHIT +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=220&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, BANDAMAX tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png", BANDAMAX
+#EXTINF:-1, BANDAMAX tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=221&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
