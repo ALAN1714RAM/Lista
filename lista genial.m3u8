@@ -28,7 +28,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1783&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1762243819_b1300000_slesp.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3315&format=HLSAD&f=.m3u8  
@@ -226,7 +226,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8    
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/8248
+http://ytv.plus:25461/jose/jose/2055
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/20e4c528-a847-4675-a9e0-95c26d30088b.png", DISCOVERY CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=86&format=HLSAD&f=.m3u8
