@@ -281,7 +281,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=211&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, MTV 00 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00
+#EXTINF:-1, MTV 00s tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=334&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7819f028-6d3b-4f79-81f1-e27dcdab3ad8.png", MTV
