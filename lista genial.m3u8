@@ -30,6 +30,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8  
 
+#EXTINF:-1, WOBI tvg-logo="https://static.wixstatic.com/media/5aa027_d383b23fb36743e2923c1aaad254de98.png/v1/fill/w_980,h_233,al_c,q_85,usm_0.66_1.00_0.01/5aa027_d383b23fb36743e2923c1aaad254de98.webp", WOBI
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=102&format=HLSAD&f=.m3u8  
+
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3315&format=HLSAD&f=.m3u8  
 
@@ -38,6 +41,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/d5ecdbe8-f146-4516-8d4c-a2b3ff267510.png", DISCOVERY KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=109&format=HLSAD&f=.m3u8 
+
+#EXTINF:-1, CARTOONITO tvg-logo="https://www.izzigo.tv/images/ch/1550/LOGO/m/0", CARTOONITO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=115&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, NICK tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/e0bfaa56-fd07-4573-b2dc-3dbe6380b6ae.png", NICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=331&format=HLSAD&f=.m3u8
@@ -85,7 +91,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=129&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, AMC tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/4cf7e74c-a9fc-4288-b8bf-571faa062f25.png", AMC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=131&format=HLSAD&f=.m3u8  
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=328&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/c1995fe3-66c0-4ef8-86ef-2b2e32908adb.png", STUDIO UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=132&format=HLSAD&f=.m3u8  
@@ -133,6 +139,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=71&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/79062fb1-5370-4137-901a-05fa5e012cf2.png", STAR LIFE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8  
+
+#EXTINF:-1, TELEMUNDO tvg-logo="https://www.izzigo.tv/images/ch/52/LOGO/m/0", TELEMUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, PASIONES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png", PASIONES
@@ -271,6 +280,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=211&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, MTV 00 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=334&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7819f028-6d3b-4f79-81f1-e27dcdab3ad8.png", MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
