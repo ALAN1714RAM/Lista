@@ -27,16 +27,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, NU9VE tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1783&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, ONCE tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png", ONCE
+#EXTINF:-1, ONCE tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, WOBI tvg-logo="https://static.wixstatic.com/media/5aa027_d383b23fb36743e2923c1aaad254de98.png/v1/fill/w_980,h_233,al_c,q_85,usm_0.66_1.00_0.01/5aa027_d383b23fb36743e2923c1aaad254de98.webp", WOBI
+#EXTINF:-1, WOBI tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0", WOBI
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=102&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, ONCE NIÑOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png", ONCE NIÑOS
+#EXTINF:-1, ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0", ONCE NIÑOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3315&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, TOONCAST tvg-logo="https://static.wikia.nocookie.net/samuraijack/images/6/66/Tooncast.png/revision/latest?cb=20200224192822&path-prefix=es", TOONCAST
+#EXTINF:-1, TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/d5ecdbe8-f146-4516-8d4c-a2b3ff267510.png", DISCOVERY KIDS
@@ -72,16 +72,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, A3CINE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/40b3f5a7-02f2-40c5-9bd1-0317c95d1ff1.png", A3CINE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u88 
 
-#EXTINF:-1, DE PELICULA + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA +
+#EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0", DE PELICULA +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=121&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, GOLDEN + tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN +
+#EXTINF:-1, GOLDEN + tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0", GOLDEN +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=122&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, GOLDEN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
+#EXTINF:-1, GOLDEN tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0", GOLDEN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=123&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.cablelaguna.com.mx/wp-content/uploads/2018/08/Golden-Edge.png", GOLDEN EDGE
+#EXTINF:-1, GOLDEN EDGE tvg-logo="https://www.izzigo.tv/images/ch/151/LOGO/m/0", GOLDEN EDGE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=124&format=HLSAD&f=.m3u8 
 
 #EXTINF:-1, TNT tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/1d41c6b1-a9ce-41a2-8e42-c9b9a29b6852.png", TNT
@@ -99,10 +99,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=138&format=HLSAD&f=.m3u8 
 
-#EXTINF:-1, STAR SERIES tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/2560px-Star_Series_2020.svg.png", STAR SERIES
+#EXTINF:-1, STAR SERIES tvg-logo="https://www.izzigo.tv/images/ch/177/LOGO/m/0", STAR SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=139&format=HLSAD&f=.m3u8 
 
-#EXTINF:-1, STAR HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1000px-Star_Hits_2020.svg.png", STAR HITS
+#EXTINF:-1, STAR HITS tvg-logo="https://www.izzigo.tv/images/ch/183/LOGO/m/0", STAR HITS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=146&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, CINECANAL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/1bbc3b54-ff94-4c6d-82ed-8e0ba6c74a1c.png", CINECANAL
@@ -111,16 +111,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, CINEMAX tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b34b3301-4f47-4426-b40b-cc39c357da64.png", CINEMAX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=158&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, STAR ACTION tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png", STAR ACTION
+#EXTINF:-1, STAR ACTION tvg-logo="https://www.izzigo.tv/images/ch/179/LOGO/m/0", STAR ACTION
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=336&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/a7c30b35-65b0-4e7a-89cd-667ee2028df9.png", PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1726&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, STAR CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
+#EXTINF:-1, STAR CINEMA tvg-logo="https://www.izzigo.tv/images/ch/182/LOGO/m/0", STAR CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1729&format=HLSAD&f=.m3u8 
 
-#EXTINF:-1, STAR CLASSICS tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135249&path-prefix=es", STAR CLASSICS
+#EXTINF:-1, STAR CLASSICS tvg-logo="https://www.izzigo.tv/images/ch/185/LOGO/m/0", STAR CLASSICS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1732&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, E! tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/13309213-27f4-46fc-8a2a-a46546a6d482.png", E!
@@ -171,10 +171,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0", HBO
 http://ytv.plus:25461/jose/jose/1790
 
-#EXTINF:-1, HBO 2 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432", HBO 2
+#EXTINF:-1, HBO 2 tvg-logo="https://www.izzigo.tv/images/ch/167/LOGO/m/0", HBO 2
 http://ytv.plus:25461/jose/jose/2401
 
-#EXTINF:-1, HBO PLUS tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png", HBO PLUS
+#EXTINF:-1, HBO PLUS tvg-logo="https://www.izzigo.tv/images/ch/170/LOGO/m/0", HBO PLUS
 http://ytv.plus:25461/jose/jose/1789
 
 #EXTINF:-1, A3SERIES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50", A3SERIES
@@ -213,10 +213,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=172&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, FOX SPORTS 3 tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png", FOX SPORTS 3
+#EXTINF:-1, FOX SPORTS 3 tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=178&format=HLSAD&f=.m3u8   
 
-#EXTINF:-1, TUDN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png", TUDN
+#EXTINF:-1, TUDN tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1049&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
@@ -281,19 +281,19 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=211&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, MTV 00s tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
+#EXTINF:-1, MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0", MTV 00s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=334&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, MTV tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7819f028-6d3b-4f79-81f1-e27dcdab3ad8.png", MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
  
-#EXTINF:-1, MTV HITS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS
+#EXTINF:-1, MTV HITS tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0", MTV HITS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=213&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, TELEHIT URBANO tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=218&format=HLSAD&f=.m3u8 
 
-#EXTINF:-1, TELEHIT + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telehit_Plus_Logo_Octubre_2017.png", TELEHIT +
+#EXTINF:-1, TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0", TELEHIT +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=220&format=HLSAD&f=.m3u8  
 
 #EXTINF:-1, BANDAMAX tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
@@ -310,5 +310,5 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1, ADN 40 tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/08384e53-445a-478b-8ec2-8da898a7507c.png", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=184&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, MILENIO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png", MILENIO
+#EXTINF:-1, MILENIO tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0", MILENIO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1250&format=HLSAD&f=.m3u8
