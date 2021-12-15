@@ -15,7 +15,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1, CANAL 5 tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1785&format=HLSAD&f=.m3u8  
 
-#EXTINF:-1, MULTIMEDIOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png", MULTIMEDIOS
+#EXTINF:-1, MULTIMEDIOS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2019%2F10%2FMultimedios-TV-Canal-6-en-vivo-Online.png&f=1&nofb=1", MULTIMEDIOS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2882&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
