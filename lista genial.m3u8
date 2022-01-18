@@ -240,8 +240,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=hkc
 #EXTINF:-1, TUDN tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8 
 
-#EXTINF:-1, SKY SPORTS tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpremierleague-static-files.s3.amazonaws.com%2Fpremierleague%2Fphoto%2F2017%2F07%2F25%2F4d2849cb-473e-48de-859b-87a7a626b6af%2FSKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png&f=1&nofb=1", SKY SPORTS LA LIGA
-
+#EXTINF:-1, SKY SPORTS tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png", SKY SPORTS
+https://tunelive.net:3412/stream/play.m3u8
 
 #EXTINF:-1, TNT SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png", TNT SPORTS
 
