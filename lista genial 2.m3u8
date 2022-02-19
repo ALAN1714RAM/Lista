@@ -111,35 +111,29 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1982&f=HLSAD&s=hk
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1, STAR SERIES tvg-logo="https://www.izzigo.tv/images/ch/177/LOGO/m/0", STAR SERIES
-
-
-#EXTINF:-1, STAR HITS tvg-logo="https://www.izzigo.tv/images/ch/183/LOGO/m/0", STAR HITS
-
-
 #EXTINF:-1, CINECANAL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/1bbc3b54-ff94-4c6d-82ed-8e0ba6c74a1c.png", CINECANAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1, CINEMAX tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b34b3301-4f47-4426-b40b-cc39c357da64.png", CINEMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1, STAR ACTION tvg-logo="https://www.izzigo.tv/images/ch/179/LOGO/m/0", STAR ACTION
+#EXTINF:-1, UNIVERSAL PREMIER tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png", UNIVERSAL PREMIER
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/788
 
+#EXTINF:-1, UNIVERSAL CINEMA tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943073-8c.png", UNIVERSAL CINEMA
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/785
 
-#EXTINF:-1, STAR FUN tvg-logo="https://www.izzigo.tv/images/ch/181/LOGO/m/0", STAR FUN
+#EXTINF:-1, UNIVERSAL COMEDY tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943089-8c.png", UNIVERSAL COMEDY
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/58276
 
+#EXTINF:-1, UNIVERSAL CRIME tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943089-8c.png", UNIVERSAL CRIME
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/784
 
-#EXTINF:-1, STAR COMEDY tvg-logo="https://www.izzigo.tv/images/ch/186/LOGO/m/0", STAR COMEDY
-
+#EXTINF:-1, UNIVERSAL REALITY tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png", UNIVERSAL REALITY
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/58289
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/a7c30b35-65b0-4e7a-89cd-667ee2028df9.png", PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
-#EXTINF:-1, STAR CINEMA tvg-logo="https://www.izzigo.tv/images/ch/182/LOGO/m/0", STAR CINEMA
-
-
-#EXTINF:-1, STAR CLASSICS tvg-logo="https://www.izzigo.tv/images/ch/185/LOGO/m/0", STAR CLASSICS
-
 
 #EXTINF:-1, E! tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/13309213-27f4-46fc-8a2a-a46546a6d482.png", E!
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -172,7 +166,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=94&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1, PASIONES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png", PASIONES
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/402
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0", DISTRITO COMEDIA 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -196,13 +190,13 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=hkc
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8 
 
 #EXTINF:-1, HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0", HBO
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/814
 
 #EXTINF:-1, HBO 2 tvg-logo="https://www.izzigo.tv/images/ch/167/LOGO/m/0", HBO 2
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/810
 
 #EXTINF:-1, HBO PLUS tvg-logo="https://www.izzigo.tv/images/ch/170/LOGO/m/0", HBO PLUS
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/812
 
 #EXTINF:-1, A3SERIES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50", A3SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -247,7 +241,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=hkc
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8 
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://www.sky.com.mx/sports/img/logo-sports.png", SKY SPORTS
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/30423
 
 #EXTINF:-1, TNT SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png", TNT SPORTS
 
@@ -262,7 +256,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8  
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
-
+http://xdgo.live:8080/manuelalejandrolinaresyan/nNjmqRC6dR/30221
 
 #EXTINF:-1, RED BULL TV tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
