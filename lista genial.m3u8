@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
 
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=7
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=7
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellasMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=17
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=17
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2606
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2606
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="Canal5.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1785
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1785
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="MultimediosPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2882
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2882
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=322
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=322
 
 #EXTINF:-1, A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2348
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2348
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -31,13 +31,13 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 
 #EXTINF:-1, NU9VE tvg-id="Nueve.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1783
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1783
 
 #EXTINF:-1, ONCE tvg-id="OnceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1942
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1942
 
 #EXTINF:-1, WOBI tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0", WOBI
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=102
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=102
 
 #EXTINF:-1, DW tvg-logo="https://www.izzigo.tv/images/ch/97/LOGO/m/0", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -46,76 +46,76 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0", ONCE NIÑOS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=3315
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=3315
 
 #EXTINF:-1, TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0", TOONCAST
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=108
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=108
 
 #EXTINF:-1, DISCOVERY KIDS tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", DISCOVERY KIDS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=109
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=109
 
 #EXTINF:-1, CARTOONITO tvg-id="BoomerangMexico.us" tvg-logo="https://www.izzigo.tv/images/ch/1550/LOGO/m/0", CARTOONITO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=115
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=115
 
 #EXTINF:-1, NICK tvg-id="NickelodeonLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/107/LOGO/m/0", NICK
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=331
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=331
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png", DISNEY XD
 
 #EXTINF:-1, CARTOON NETWORK tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/105/LOGO/m/0", CARTOON NETWORK
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=112
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=112
 
 #EXTINF:-1, DISNEY CHANNEL tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/109/LOGO/m/0", DISNEY CHANNEL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=113
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=113
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/6ea613ad-7a69-4f83-82a5-7877c0b1b8e1.png", BOOMERANG
 
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0", DISNEY JR
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=118
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=118
 
 #EXTINF:-1, TEEN NICK tvg-logo="https://www.izzigo.tv/images/ch/296/LOGO/m/0", TEEN NICK  
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2147
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2147
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal317.png", BIT ME
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2591
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2591
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
 
 #EXTINF:-1, A3CINE tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png", A3CINE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=3112
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=3112
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0", DE PELICULA +
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=121
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=121
 
 #EXTINF:-1, GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0", GOLDEN +
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=122
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=122
 
 #EXTINF:-1, GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0", GOLDEN
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=123
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=123
 
 #EXTINF:-1, GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/ch/151/LOGO/m/0", GOLDEN EDGE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=124
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=124
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png", TNT
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=126
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=126
 
 #EXTINF:-1, SPACE tvg-id="SpaceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=129
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=129
 
 #EXTINF:-1, AMC tvg-id="AMCMexico.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png", AMC
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=328
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=328
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversalMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1982
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1982
 
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 
 #EXTINF:-1, CINECANAL tvg-id="CinecanalWest.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png", CINECANAL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=149
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=149
 
 #EXTINF:-1, CINEMAX tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0", CINEMAX
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=158
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=158
 
 #EXTINF:-1, UNIVERSAL PREMIER tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png", UNIVERSAL PREMIER
 
@@ -133,59 +133,59 @@ http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=158
 
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-id="ParamountNetworkLatinAmerica.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416631-8c.png", PARAMOUNT CHANNEL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1726
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1726
 
 #EXTINF:-1, E! tvg-id="ELatinAmerica.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png", E!
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=55
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=55
 
 #EXTINF:-1, SYFY tvg-id="SyfyLatin.us" tvg-logo="https://www.izzigo.tv/images/ch/86/LOGO/m/0", SYFY
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=59
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=59
 
 #EXTINF:-1, A&E tvg-id="AELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/67/LOGO/m/0", A&E
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=62
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=62
 
 #EXTINF:-1, AXN tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/47714f36-6154-4063-8c1d-82c868ffe563.png", AXN
 
 
 #EXTINF:-1, TNT SERIES tvg-id="TNTSeriesMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/80/LOGO/m/0", TNT SERIES
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=71
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=71
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/79062fb1-5370-4137-901a-05fa5e012cf2.png", STAR LIFE
 
 #EXTINF:-1, TELEMUNDO tvg-id="TelemundoInternacional.us" tvg-logo="https://www.izzigo.tv/images/ch/52/LOGO/m/0", TELEMUNDO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=85
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=85
 
 #EXTINF:-1, UNICABLE tvg-id="Unicable.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png", UNICABLE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1499
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1499
 
 #EXTINF:-1, MAS CHIC tvg-logo="https://www.izzigo.tv/images/ch/68/LOGO/m/0", MAS CHIC
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1842
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1842
 
 #EXTINF:-1, LIFETIME tvg-id="LifetimeLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=94
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=94
 
 #EXTINF:-1, PASIONES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png", PASIONES
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0", DISTRITO COMEDIA 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=78
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=78
 
 #EXTINF:-1, STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png", STAR CHANNEL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=201
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=201
 
 #EXTINF:-1, SONY tvg-id="SonyChannelCentro.us" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0", SONY
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=48
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=48
 
 #EXTINF:-1, WARNER tvg-id="WarnerChannelMexico.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/283/LOGO/m/0", WARNER 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=205
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=205
 
 #EXTINF:-1, UNIVERSAL tvg-id="UniversalTVMexico.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png", UNIVERSAL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=207
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=207
 
 #EXTINF:-1, FX tvg-id="FXNorte.us" tvg-logo="https://www.izzigo.tv/images/repository/256837-LOGO-m.png", FX
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=209
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=209
 
 #EXTINF:-1, COMEDY CENTRAL tvg-id="ComedyCentralLatinAmericaNorth.us" tvg-logo="https://www.izzigo.tv/images/ch/58/LOGO/m/0", COMEDY CENTRAL
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=340
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=340
 
 #EXTINF:-1, HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0", HBO
 
@@ -197,19 +197,19 @@ http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=340
 
 
 #EXTINF:-1, A3SERIES tvg-logo="https://www.izzigo.tv/images/ch/278/LOGO/m/0", A3SERIES
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2113
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2113
 
 #EXTINF:-1, ESPN + tvg-logo="https://www.izzigo.tv/images/ch/311/LOGO/m/0", ESPN EXTRA
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=167
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=167
 
 #EXTINF:-1, ESPN tvg-id="ESPNMexico.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png", ESPN
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=169
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=169
 
 #EXTINF:-1, ESPN 2 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png", ESPN 2
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=168
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=168
 
 #EXTINF:-1, ESPN 3 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png", ESPN 3
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=345
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=345
 
 #EXTINF:-1, DIREC TV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DIRECTV SPORTS
 
@@ -227,19 +227,19 @@ http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=345
 
 
 #EXTINF:-1, FOX SPORTS tvg-id="FoxSportsMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=171
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=171
 
 #EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=172
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=172
 
 #EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=178
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=178
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
 
 
 #EXTINF:-1, TUDN tvg-id="TUDNMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1975
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1975
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://www.sky.com.mx/sports/img/logo-sports.png", SKY SPORTS
 
@@ -247,13 +247,13 @@ http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1975
 
 
 #EXTINF:-1,AYM SPORTS tvg-id="AyMSports.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png", AYM SPORTS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=180
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=180
 
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2157
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2157
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",Claro Sports 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2564
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2564
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
 
@@ -261,98 +261,98 @@ http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2564
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, FUEL TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425239-8c.png", FUEL TV
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2587
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2587
 
 #EXTINF:-1, ADRENALINA SPORTS tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://www.izzigo.tv/images/ch/145/LOGO/m/0", ADRENALINA SPORTS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1799
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1799
 
 #EXTINF:-1, PX SPORTS tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png", PX SPORTS 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=950
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=950
 
 #EXTINF:-1, U BEAT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/982302-8c.png", U BEAT
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=3335
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=3335
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=86
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=86
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0", ANIMAL PLANET
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2378
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2378
 
 #EXTINF:-1, HISTORY tvg-id="HistoryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=89
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=89
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
 
 
 #EXTINF:-1, NAT GEO tvg-id="NationalGeographicNorte.us" tvg-logo="https://www.izzigo.tv/images/ch/117/LOGO/m/0", NAT GEO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1650
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1650
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png", NAT GEO WILD
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0", DISCOVERY THEATER
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=95
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=95
 
 #EXTINF:-1, H&H tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0", H&H
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=96
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=96
 
 #EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0", FOOD NETWORK
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2145
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2145
 
 #EXTINF:-1, ELGOURMET tvg-logo="https://www.izzigo.tv/images/ch/69/LOGO/m/0", ELGOURMET
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=74
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=74
 
 #EXTINF:-1, FILM & ARTS tvg-logo="https://www.izzigo.tv/images/ch/129/LOGO/m/0", FILM & ARTS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=137
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=137
 
 #EXTINF:-1, HGTV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=3105
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=3105
 
 #EXTINF:-1, TLC tvg-id="TLCMexico.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425253-8c.png", TLC
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2380
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2380
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://www.izzigo.tv/images/ch/125/LOGO/m/0", DISCOVERY SCIENCE 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=98
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=98
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://www.izzigo.tv/images/ch/302/LOGO/m/0", DISCOVERY WORLD
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=101
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=101
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png",DISCOVERY INVESTIGATION 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2376
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2376
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://www.izzigo.tv/images/ch/126/LOGO/m/0", DISCOVERY TURBO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2379
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2379
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=211
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=211
 
 #EXTINF:-1, MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0", MTV 00s
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=334
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=334
 
 #EXTINF:-1, MTV tvg-id="MTVLatinAmericaNorth.mx" tvg-logo="https://www.izzigo.tv/images/ch/75/LOGO/m/0", MTV
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=212
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=212
 
 #EXTINF:-1, MTV HITS tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0", MTV HITS
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=213
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=213
 
 #EXTINF:-1, NICKMUSIC tvg-logo="https://www.izzigo.tv/images/ch/111/LOGO/m/0", NICKMUSIC
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1708
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1708
 
 #EXTINF:-1, TELE RITMO tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELE RITMO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1943
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1943
 
 #EXTINF:-1, HAVOC  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416677-8c.png", HAVOC
 
 
 #EXTINF:-1, TELEHIT URBANO tvg-id="TeleHit.mx" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=218
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=218
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0", TELEHIT +
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=220
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=220
 
 #EXTINF:-1, BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=221
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=221
 
 #EXTINF:-1, VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://www.videorola.com/assets/image/vr_logo_x_org.png", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
@@ -360,19 +360,19 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1, VH1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
 
 #EXTINF:-1, FOROTV tvg-id="Foro.mx" tvg-logo="https://www.izzigo.tv/images/repository/12118539-LOGO-m.png", FOROTV 
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=4
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=4
 
 #EXTINF:-1, ADN 40 tvg-id="ADN40.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/991970-8c.png", ADN 40
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=184
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=184
 
 #EXTINF:-1, MILENIO tvg-id="MilenioTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0", MILENIO
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=125
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=125
 
 #EXTINF:-1, RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png", RT
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2091
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2091
 
 #EXTINF:-1, FRANCIA 24 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png", FRANCIA 24
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=2402
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=2402
 
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
-http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghost&c=1649
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blackghoost&c=1649
