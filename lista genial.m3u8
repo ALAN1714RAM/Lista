@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml"
 
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellasMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2606&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2606&f=.m3u8
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -16,13 +16,13 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="MultimediosPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2882&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2882&f=.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=322&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=322&f=.m3u8
 
 #EXTINF:-1, A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2348&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2348&f=.m3u8
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -34,48 +34,48 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1, ONCE tvg-id="OnceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1942&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1942&f=.m3u8
 
 #EXTINF:-1, WOBI tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0", WOBI
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=102&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=102&f=.m3u8
 
 #EXTINF:-1, DW tvg-logo="https://www.izzigo.tv/images/ch/97/LOGO/m/0", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1, CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0", CANAL CATORCE
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0", ONCE NIÑOS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=3315&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=3315&f=.m3u8
 
 #EXTINF:-1, TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0", TOONCAST
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=108&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=108&f=.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", DISCOVERY KIDS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=109&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=109&f=.m3u8
 
 #EXTINF:-1, CARTOONITO tvg-id="BoomerangMexico.us" tvg-logo="https://www.izzigo.tv/images/ch/1550/LOGO/m/0", CARTOONITO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
 
 #EXTINF:-1, NICK tvg-id="NickelodeonLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/107/LOGO/m/0", NICK
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=331&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=331&f=.m3u8
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png", DISNEY XD
 
 #EXTINF:-1, CARTOON NETWORK tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/105/LOGO/m/0", CARTOON NETWORK
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=112&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=112&f=.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/109/LOGO/m/0", DISNEY CHANNEL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=113&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=113&f=.m3u8
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/6ea613ad-7a69-4f83-82a5-7877c0b1b8e1.png", BOOMERANG
 
 
 #EXTINF:-1, DISNEY JR tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0", DISNEY JR
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=118&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=118&f=.m3u8
 
 #EXTINF:-1, TEEN NICK tvg-logo="https://www.izzigo.tv/images/ch/296/LOGO/m/0", TEEN NICK  
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2147&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2147&f=.m3u8
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzigo.tv/images/ch/108/LOGO/m/0", BIT ME
 https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
@@ -83,7 +83,7 @@ https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
 
 #EXTINF:-1, A3CINE tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png", A3CINE
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=3112&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=3112&f=.m3u8
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0", DE PELICULA +
 https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
@@ -101,24 +101,24 @@ https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0", TNT
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=126&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=126&f=.m3u8
 
 #EXTINF:-1, SPACE tvg-id="SpaceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=129&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=129&f=.m3u8
 
 #EXTINF:-1, AMC tvg-id="AMCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0", AMC
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=328&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=328&f=.m3u8
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversalMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1982&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1982&f=.m3u8
 
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 
 #EXTINF:-1, CINECANAL tvg-id="CinecanalWest.us" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0", CINECANAL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=149&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=149&f=.m3u8
 
 #EXTINF:-1, CINEMAX tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0", CINEMAX
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=158&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=158&f=.m3u8
 
 #EXTINF:-1, UNIVERSAL PREMIER tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png", UNIVERSAL PREMIER
 
@@ -136,36 +136,36 @@ https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=158&f=.m3
 
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-id="ParamountNetworkLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/161/LOGO/m/0", PARAMOUNT CHANNEL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
 
 #EXTINF:-1, E! tvg-id="ELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/63/LOGO/m/0", E!
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=55&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=55&f=.m3u8
 
 #EXTINF:-1, SYFY tvg-id="SyfyLatin.us" tvg-logo="https://www.izzigo.tv/images/ch/86/LOGO/m/0", SYFY
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=59&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=59&f=.m3u8
 
 #EXTINF:-1, A&E tvg-id="AELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/67/LOGO/m/0", A&E
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
 
 #EXTINF:-1, AXN tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/47714f36-6154-4063-8c1d-82c868ffe563.png", AXN
 
 
 #EXTINF:-1, TNT SERIES tvg-id="TNTSeriesMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/80/LOGO/m/0", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=71&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=71&f=.m3u8
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/79062fb1-5370-4137-901a-05fa5e012cf2.png", STAR LIFE
 
 #EXTINF:-1, TELEMUNDO tvg-id="TelemundoInternacional.us" tvg-logo="https://www.izzigo.tv/images/ch/52/LOGO/m/0", TELEMUNDO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=85&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=85&f=.m3u8
 
 #EXTINF:-1, UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/ch/50/LOGO/m/0", UNICABLE
 https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 
 #EXTINF:-1, MAS CHIC tvg-logo="https://www.izzigo.tv/images/ch/68/LOGO/m/0", MAS CHIC
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1842&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1842&f=.m3u8
 
 #EXTINF:-1, LIFETIME tvg-id="LifetimeLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u8
 
 #EXTINF:-1, PASIONES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png", PASIONES
 
@@ -173,22 +173,22 @@ https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u
 https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
 
 #EXTINF:-1, STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/54/LOGO/m/0", STAR CHANNEL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=201&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=201&f=.m3u8
 
 #EXTINF:-1, SONY tvg-id="SonyChannelCentro.us" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0", SONY
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
 
 #EXTINF:-1, WARNER tvg-id="WarnerChannelMexico.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/283/LOGO/m/0", WARNER 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=205&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=205&f=.m3u8
 
 #EXTINF:-1, UNIVERSAL tvg-id="UniversalTVMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/281/LOGO/m/0", UNIVERSAL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=207&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=207&f=.m3u8
 
 #EXTINF:-1, FX tvg-id="FXNorte.us" tvg-logo="https://www.izzigo.tv/images/repository/256837-LOGO-m.png", FX
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=209&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=209&f=.m3u8
 
 #EXTINF:-1, COMEDY CENTRAL tvg-id="ComedyCentralLatinAmericaNorth.us" tvg-logo="https://www.izzigo.tv/images/ch/58/LOGO/m/0", COMEDY CENTRAL
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3u8
 
 #EXTINF:-1, HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0", HBO
 
@@ -200,19 +200,19 @@ https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3
 
 
 #EXTINF:-1, A3SERIES tvg-logo="https://www.izzigo.tv/images/ch/278/LOGO/m/0", A3SERIES
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2113&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2113&f=.m3u8
 
 #EXTINF:-1, ESPN + tvg-logo="https://www.izzigo.tv/images/ch/311/LOGO/m/0", ESPN EXTRA
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=167&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=167&f=.m3u8
 
 #EXTINF:-1, ESPN tvg-id="ESPNMexico.us" tvg-logo="https://www.izzigo.tv/images/ch/138/LOGO/m/0", ESPN
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=169&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=169&f=.m3u8
 
 #EXTINF:-1, ESPN 2 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://www.izzigo.tv/images/ch/139/LOGO/m/0", ESPN 2
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=168&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=168&f=.m3u8
 
 #EXTINF:-1, ESPN 3 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://www.izzigo.tv/images/ch/140/LOGO/m/0", ESPN 3
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
 
 #EXTINF:-1, DIREC TV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DIRECTV SPORTS
 
@@ -230,19 +230,19 @@ https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3
 
 
 #EXTINF:-1, FOX SPORTS tvg-id="FoxSportsMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=171&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=171&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=172&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=172&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=178&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=178&f=.m3u8
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
 
 
 #EXTINF:-1, TUDN tvg-id="TUDNMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1975&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1975&f=.m3u8
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://www.sky.com.mx/sports/img/logo-sports.png", SKY SPORTS
 
@@ -250,13 +250,13 @@ https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1975&f=.m
 
 
 #EXTINF:-1,AYM SPORTS tvg-id="AyMSports.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png", AYM SPORTS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=180&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=180&f=.m3u8
 
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2157&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2157&f=.m3u8
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2564&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2564&f=.m3u8
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
 https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
@@ -268,86 +268,86 @@ https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, FUEL TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425239-8c.png", FUEL TV
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2587&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2587&f=.m3u8
 
 #EXTINF:-1, ADRENALINA SPORTS tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://www.izzigo.tv/images/ch/145/LOGO/m/0", ADRENALINA SPORTS
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
 #EXTINF:-1, PX SPORTS tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png", PX SPORTS 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=950&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=950&f=.m3u8
 
 #EXTINF:-1, U BEAT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/982302-8c.png", U BEAT
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=3335&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=3335&f=.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=86&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=86&f=.m3u8
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0", ANIMAL PLANET
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2378&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2378&f=.m3u8
 
 #EXTINF:-1, HISTORY tvg-id="HistoryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=89&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=89&f=.m3u8
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
 
 
 #EXTINF:-1, NAT GEO tvg-id="NationalGeographicNorte.us" tvg-logo="https://www.izzigo.tv/images/ch/117/LOGO/m/0", NAT GEO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1650&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1650&f=.m3u8
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png", NAT GEO WILD
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0", DISCOVERY THEATER
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=95&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=95&f=.m3u8
 
 #EXTINF:-1, H&H tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0", H&H
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=96&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=96&f=.m3u8
 
 #EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0", FOOD NETWORK
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2145&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2145&f=.m3u8
 
 #EXTINF:-1, ELGOURMET tvg-logo="https://www.izzigo.tv/images/ch/69/LOGO/m/0", ELGOURMET
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=74&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=74&f=.m3u8
 
 #EXTINF:-1, FILM & ARTS tvg-logo="https://www.izzigo.tv/images/ch/129/LOGO/m/0", FILM & ARTS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=137&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=137&f=.m3u8
 
 #EXTINF:-1, HGTV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=3105&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=3105&f=.m3u8
 
 #EXTINF:-1, TLC tvg-id="TLCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/66/LOGO/m/0", TLC
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2380&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2380&f=.m3u8
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://www.izzigo.tv/images/ch/125/LOGO/m/0", DISCOVERY SCIENCE 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=98&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=98&f=.m3u8
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://www.izzigo.tv/images/ch/302/LOGO/m/0", DISCOVERY WORLD
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=101&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=101&f=.m3u8
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/280/LOGO/m/0",DISCOVERY INVESTIGATION 
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2376&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2376&f=.m3u8
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://www.izzigo.tv/images/ch/126/LOGO/m/0", DISCOVERY TURBO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2379&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2379&f=.m3u8
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=211&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=211&f=.m3u8
 
 #EXTINF:-1, MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0", MTV 00s
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=334&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=334&f=.m3u8
 
 #EXTINF:-1, MTV tvg-id="MTVLatinAmericaNorth.mx" tvg-logo="https://www.izzigo.tv/images/ch/75/LOGO/m/0", MTV
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=212&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=212&f=.m3u8
 
 #EXTINF:-1, MTV HITS tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0", MTV HITS
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=213&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=213&f=.m3u8
 
 #EXTINF:-1, NICKMUSIC tvg-logo="https://www.izzigo.tv/images/ch/111/LOGO/m/0", NICKMUSIC
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1708&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1708&f=.m3u8
 
 #EXTINF:-1, TELE RITMO tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELE RITMO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1943&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1943&f=.m3u8
 
 #EXTINF:-1, HAVOC  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416677-8c.png", HAVOC
 
@@ -372,16 +372,16 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
 #EXTINF:-1, ADN 40 tvg-id="ADN40.mx" tvg-logo="https://www.izzigo.tv/images/ch/35/LOGO/m/0", ADN 40
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=184&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=184&f=.m3u8
 
 #EXTINF:-1, MILENIO tvg-id="MilenioTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0", MILENIO
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1250&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=1250&f=.m3u8
 
 #EXTINF:-1, RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1, FRANCIA 24 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png", FRANCIA 24
-https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2402&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_209022_/tpnuevo03.php?key=SrRegio&c=2402&f=.m3u8
 
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
 
