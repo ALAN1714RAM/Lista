@@ -386,11 +386,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8?
 
-#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E4
-https://sv10.pelisfile.net/videos/hls/O8NIL8Q9FqGvIaGyYv0oew/1674736005/9419/6de01bdbe9853b8b2507dcb2337419e0/EP.4.1.v0.1654684053.m3u8
+#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E9
+https://sv05.pelisfile.net/videos/hls/iCPkWqQvxmB7aS1j-0VhxA/1674816939/9424/6de01bdbe9853b8b2507dcb2337419e0/EP.9.1.v0.1654702696.m3u8
 
-#EXTINF:-1, BREAKING BAD T1 E6 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E5
-https://sv01.pelisfile.net/videos/hls/jjgL7Zc8M0AbO-CwSreP3Q/1674735967/9420/6de01bdbe9853b8b2507dcb2337419e0/EP.5.1.v0.1654689911.m3u8
+#EXTINF:-1, BREAKING BAD T1 E6 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E10
+https://sv06.pelisfile.net/videos/hls/p00ftHXLrjAQRUAlH1XObQ/1674816979/9425/6de01bdbe9853b8b2507dcb2337419e0/EP.10.1.v0.1654579623.m3u8
 
-#EXTINF:-1, BREAKING BAD T1 E7 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E6
-https://sv02.pelisfile.net/videos/hls/9MYFSB1Lcw3DbNHklnzGAg/1674735715/9421/6de01bdbe9853b8b2507dcb2337419e0/EP.6.1.v0.1656013499.m3u8
+#EXTINF:-1, BREAKING BAD T1 E7 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E11
+https://sv07.pelisfile.net/videos/hls/CqqYqp43r9CmqKGyRwPcbg/1674817019/9426/6de01bdbe9853b8b2507dcb2337419e0/EP.11.1.v0.1654573032.m3u8
