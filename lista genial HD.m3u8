@@ -386,10 +386,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8?
 
-#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T4 E13
-https://www1028.ff-03.com/token=lrR2wr13hLsc5iyAT0Afmg/1676205830/177.226.0.0/11/5/c3/e41335605df74633fb634e7d600a3c35-720p.mp4
-#EXTINF:-1, BREAKING BAD T1 E6 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E1
-https://www945.ff-02.com/token=SDrLYKXEGj49BAU8_r6BSw/1676205859/177.226.0.0/17/d/9b/01f35e594d7c49ec48c91b2a62b7e9bd-720p.mp4
+#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E2
+https://sv09.pelisfile.net/videos/hls/RVH0DF5RI1GoBKHKCqsptw/1676442740/9388/6de01bdbe9853b8b2507dcb2337419e0/EP.2.1.v0.1654586457.m3u8
+#EXTINF:-1, BREAKING BAD T1 E6 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E
+
 #EXTINF:-1, BREAKING BAD T1 E7 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T3 E
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://pelisimg.online/cover/anonymous.jpg", ANONYMOUS 
