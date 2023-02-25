@@ -386,8 +386,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8?
 
-#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E15
-https://s20.fastream.to/hls2/04/00014/et99ockymug3_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=7lhD13Z1rpfVpb-oUfSp5LWVAgNi0fU8kLb4qWyvRIk&s=1677122709&e=43200&f=73024&srv=s11&i=0.0&sp=0&p1=s11&p2=s11
+#EXTINF:-1, BREAKING BAD T1 E1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E16
+https://s20.fastream.to/hls2/03/00014/b8jnrt1ofxe1_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=9aQmHGNDVs8RQQ8GUcXcGlfFudF0osA_dg0pQWF_A18&s=1677295610&e=43200&f=73027&srv=s9&i=0.0&sp=0&p1=s9&p2=s9
 #EXTINF:-1, BREAKING BAD T1 E6 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E
 
 #EXTINF:-1, BREAKING BAD T1 E7 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Af3cFMaTNw0vejb4nTFgfCiS7F4JPEnDMI8bl0OoqhgRMh7vUGZVtcb5&s=10", BREAKING BAD T5 E
