@@ -271,7 +271,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2587/PROFILE05.m3u8?
 
 #EXTINF:-1, ADRENALINA SPORTS tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://www.izzigo.tv/images/ch/145/LOGO/m/0", ADRENALINA SPORTS
-https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
 
 #EXTINF:-1, PX SPORTS tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png", PX SPORTS 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8?
@@ -352,13 +352,13 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1943/PROFILE05.m3u8?
 #EXTINF:-1, HAVOC  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416677-8c.png", HAVOC
 
 #EXTINF:-1, TELEHIT tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/74/LOGO/m/0", TELEHIT 
-https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
+
 
 #EXTINF:-1, TELEHIT URBANO tvg-id="TeleHit.mx" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
-https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
+
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0", TELEHIT +
-https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
 
 #EXTINF:-1, BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8?
@@ -386,22 +386,4 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8?
 
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://acortar.link/Rqmeti", MERLINA 1 X 1
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChgjSY296UOhtjp6P6fUmmHNTxAFHqLn4kw&usqp=CAU", EN DONDE ESTA EL FANTASMA
-
-
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://occ-0-1594-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf4KsqZqqGjB9kebQzIUYwuwHthpzGtGojwmfvtLHuI7k1BUYpwnZaKU_BsEZl8kkTitn4oB1s4doRStnh6SF9FY2d5ZwiSYIrByOev77ubZziG_MXtQBoB4_7oVf51e23NLaA.jpg?r=042", BAKI 1 X 1
-https://www1347.ff-03.com/token=MyLdp6w1h5cfx7tKf64I9A/1680497111/177.226.0.0/170/f/cd/d12f4ef21bcdcdf43904088f912d5cdf-1080p.mp4
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://occ-0-1594-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf4KsqZqqGjB9kebQzIUYwuwHthpzGtGojwmfvtLHuI7k1BUYpwnZaKU_BsEZl8kkTitn4oB1s4doRStnh6SF9FY2d5ZwiSYIrByOev77ubZziG_MXtQBoB4_7oVf51e23NLaA.jpg?r=042", BAKI 1 X 2
-https://www1759.ff-04.com/token=mAbEGvY3rs3SBOWz5o0W8g/1680497131/177.226.0.0/164/0/1c/6f80c8653556b1686986839d4854f1c0-1080p.mp4
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://occ-0-1594-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf4KsqZqqGjB9kebQzIUYwuwHthpzGtGojwmfvtLHuI7k1BUYpwnZaKU_BsEZl8kkTitn4oB1s4doRStnh6SF9FY2d5ZwiSYIrByOev77ubZziG_MXtQBoB4_7oVf51e23NLaA.jpg?r=042", BAKI 1 X 3
-https://www1828.ff-04.com/token=a3GvxvX8G_ZQfoFT9SdkUA/1680497153/177.226.0.0/171/6/38/4e0007cbf283d931c0a753e79a2dc386-1080p.mp4
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://occ-0-1594-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf4KsqZqqGjB9kebQzIUYwuwHthpzGtGojwmfvtLHuI7k1BUYpwnZaKU_BsEZl8kkTitn4oB1s4doRStnh6SF9FY2d5ZwiSYIrByOev77ubZziG_MXtQBoB4_7oVf51e23NLaA.jpg?r=042", BAKI 1 X 4
-https://www1640.ff-04.com/token=zSyBpqCwBljWsk10GER9gA/1680497177/177.226.0.0/172/b/5b/7df4a4aafb11d4b401e457bb049be5bb-1080p.mp4
 
