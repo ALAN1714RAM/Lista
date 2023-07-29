@@ -16,7 +16,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8?
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="MultimediosPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8?
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/56a3e60cbd7f4933b1c97937668b884d/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57b4dbf5dbbfc8f16bb63ce1/559ec183-e6e8-4cdf-8ebd-32ed2ed3061d/0.m3u8?aid=579bd29dc99290cf08362c3b&uid=KWDQxHYiB6QorDXUcOnEp4HmIkOvP7hP&sid=Kz3Bf21gVsop6Y2GQ4ypeBoccFtVR0sT&pid=ewnQx5GyyULp40M23Qp9oABG9faWnQgb&ref=https%3A%2F%2Fwww.multimedios.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1690691963123&ot=Nx0xFxqhobHKaAAP0r7xBQ&proto=https&pz=us
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8?
