@@ -32,6 +32,9 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1, NU9VE tvg-id="Nueve.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
 http://vod.supremetv.live:80/ricardo/ricardo/552805
 
+#EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png", CANAL 10
+https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
 #EXTINF:-1, ONCE tvg-id="OnceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
 http://vod.supremetv.live:80/ricardo/ricardo/25324
 
