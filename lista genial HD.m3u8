@@ -1,27 +1,28 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
-http://vod.supremetv.live:80/ricardo/ricardo/25331
+http://samuraitv.online:8000/victor2022/victor2022/159127
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellasMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
-http://vod.supremetv.live:80/ricardo/ricardo/25321
+http://samuraitv.online:8000/victor2022/victor2022/159140
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
-http://vod.supremetv.live:80/ricardo/ricardo/25316
+http://samuraitv.online:8000/victor2022/victor2022/159144
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="Canal5.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
+http://samuraitv.online:8000/victor2022/victor2022/159135
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="MultimediosPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
-http://vod.supremetv.live:80/ricardo/ricardo/552881
+http://samuraitv.online:8000/victor2022/victor2022/159153
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
-http://vod.supremetv.live:80/ricardo/ricardo/25330
+http://samuraitv.online:8000/victor2022/victor2022/159123
 
 #EXTINF:-1, A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
-
+http://samuraitv.online:8000/victor2022/victor2022/159119
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -30,16 +31,15 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 
 #EXTINF:-1, NU9VE tvg-id="Nueve.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
-http://vod.supremetv.live:80/ricardo/ricardo/552805
+http://samuraitv.online:8000/victor2022/victor2022/159139
 
 #EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png", CANAL 10
 https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
 #EXTINF:-1, ONCE tvg-id="OnceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
-http://vod.supremetv.live:80/ricardo/ricardo/25324
+http://samuraitv.online:8000/victor2022/victor2022/159132
 
 #EXTINF:-1, WOBI tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0", WOBI
-http://vod.supremetv.live:80/ricardo/ricardo/90295
 
 #EXTINF:-1, DW tvg-logo="https://www.izzigo.tv/images/ch/97/LOGO/m/0", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -109,7 +109,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8?
 
 #EXTINF:-1, AMC tvg-id="AMCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0", AMC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?
+http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484493
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversalMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?
@@ -285,7 +285,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3335/PROFILE05.m3u8?
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8?
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0", ANIMAL PLANET
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/PROFILE05.m3u8?
+http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484495
 
 #EXTINF:-1, HISTORY tvg-id="HistoryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8?
@@ -374,7 +374,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8?
 
 #EXTINF:-1, ADN 40 tvg-id="ADN40.mx" tvg-logo="https://www.izzigo.tv/images/ch/35/LOGO/m/0", ADN 40
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8?
+http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484492
 
 #EXTINF:-1, MILENIO tvg-id="MilenioTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0", MILENIO
 
