@@ -31,7 +31,7 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 
 #EXTINF:-1, NU9VE tvg-id="Nueve.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
-http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523170
+http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523210
 
 #EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png", CANAL 10
 https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
@@ -54,13 +54,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 
 #EXTINF:-1, DISCOVERY KIDS tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", DISCOVERY KIDS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8?
+
 
 #EXTINF:-1, CARTOONITO tvg-id="BoomerangMexico.us" tvg-logo="https://www.izzigo.tv/images/ch/1550/LOGO/m/0", CARTOONITO
 
 
 #EXTINF:-1, NICK tvg-id="NickelodeonLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/107/LOGO/m/0", NICK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8?
+
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png", DISNEY XD
 
@@ -77,7 +77,7 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484521
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484523
 
 #EXTINF:-1, TEEN NICK tvg-logo="https://www.izzigo.tv/images/ch/296/LOGO/m/0", TEEN NICK  
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8?
+
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzigo.tv/images/ch/108/LOGO/m/0", BIT ME
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523094
@@ -85,13 +85,13 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523094
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
 
 #EXTINF:-1, A3CINE tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486317-8c.png", A3CINE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3112/PROFILE05.m3u8?
+
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0", DE PELICULA +
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523128
 
 #EXTINF:-1, GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0", GOLDEN +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8?
+
 
 #EXTINF:-1, GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0", GOLDEN
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523145
@@ -111,7 +111,7 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484565
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484493
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversalMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?
+
 
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 
@@ -137,33 +137,33 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484508
 
 
 #EXTINF:-1, PARAMOUNT CHANNEL tvg-id="ParamountNetworkLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/161/LOGO/m/0", PARAMOUNT CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8?
+
 
 #EXTINF:-1, E! tvg-id="ELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/63/LOGO/m/0", E!
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484525
 
 #EXTINF:-1, SYFY tvg-id="SyfyLatin.us" tvg-logo="https://www.izzigo.tv/images/ch/86/LOGO/m/0", SYFY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8?
+
 
 #EXTINF:-1, A&E tvg-id="AELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/67/LOGO/m/0", A&E
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8?
+
 
 #EXTINF:-1, AXN tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/47714f36-6154-4063-8c1d-82c868ffe563.png", AXN
 
 
 #EXTINF:-1, TNT SERIES tvg-id="TNTSeriesMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/80/LOGO/m/0", TNT SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8?
+
 
 #EXTINF:-1, STAR LIFE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/79062fb1-5370-4137-901a-05fa5e012cf2.png", STAR LIFE
 
 #EXTINF:-1, TELEMUNDO tvg-id="TelemundoInternacional.us" tvg-logo="https://www.izzigo.tv/images/ch/52/LOGO/m/0", TELEMUNDO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8?
+
 
 #EXTINF:-1, UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/ch/50/LOGO/m/0", UNICABLE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8?
+
 
 #EXTINF:-1, MAS CHIC tvg-logo="https://www.izzigo.tv/images/ch/68/LOGO/m/0", MAS CHIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8?
+
 
 #EXTINF:-1, LIFETIME tvg-id="LifetimeLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484552
@@ -201,7 +201,7 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484547
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484543
 
 #EXTINF:-1, A3SERIES tvg-logo="https://www.izzigo.tv/images/ch/278/LOGO/m/0", A3SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2113/PROFILE05.m3u8?
+
 
 #EXTINF:-1, ESPN + tvg-logo="https://www.izzigo.tv/images/ch/311/LOGO/m/0", ESPN EXTRA
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484531
@@ -251,16 +251,16 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523249
 
 
 #EXTINF:-1,AYM SPORTS tvg-id="AyMSports.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png", AYM SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8?
+
 
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8?
+
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE05.m3u8?
+
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
-http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484592
+http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/523080
 
 #EXTINF:-1, BEIN SPORTS tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100", BEIN SPORTS
 
@@ -269,16 +269,16 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484592
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1, FUEL TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425239-8c.png", FUEL TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2587/PROFILE05.m3u8?
+
 
 #EXTINF:-1, ADRENALINA SPORTS tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://www.izzigo.tv/images/ch/145/LOGO/m/0", ADRENALINA SPORTS
 
 
 #EXTINF:-1, PX SPORTS tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png", PX SPORTS 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8?
+
 
 #EXTINF:-1, U BEAT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/982302-8c.png", U BEAT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3335/PROFILE05.m3u8?
+
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484513
@@ -298,53 +298,53 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484556
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png", NAT GEO WILD
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0", DISCOVERY THEATER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8?
+
 
 #EXTINF:-1, H&H tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0", H&H
 
 #EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0", FOOD NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2145/PROFILE05.m3u8?
+
 
 #EXTINF:-1, ELGOURMET tvg-logo="https://www.izzigo.tv/images/ch/69/LOGO/m/0", ELGOURMET
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8?
+
 
 #EXTINF:-1, FILM & ARTS tvg-logo="https://www.izzigo.tv/images/ch/129/LOGO/m/0", FILM & ARTS
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484532
 
 #EXTINF:-1, HGTV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL3105/PROFILE05.m3u8?
+
 
 #EXTINF:-1, TLC tvg-id="TLCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/66/LOGO/m/0", TLC
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484571
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://www.izzigo.tv/images/ch/125/LOGO/m/0", DISCOVERY SCIENCE 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8?
+
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
 
 #EXTINF:-1, DISCOVERY WORLD tvg-logo="https://www.izzigo.tv/images/ch/302/LOGO/m/0", DISCOVERY WORLD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8?
+
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/280/LOGO/m/0",DISCOVERY INVESTIGATION 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8?
+
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://www.izzigo.tv/images/ch/126/LOGO/m/0", DISCOVERY TURBO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8?
+
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8?
+
 
 #EXTINF:-1, MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0", MTV 00s
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8?
+
 
 #EXTINF:-1, MTV tvg-id="MTVLatinAmericaNorth.mx" tvg-logo="https://www.izzigo.tv/images/ch/75/LOGO/m/0", MTV
 http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484554
 
 #EXTINF:-1, MTV HITS tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0", MTV HITS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8?
+
 
 #EXTINF:-1, NICKMUSIC tvg-logo="https://www.izzigo.tv/images/ch/111/LOGO/m/0", NICKMUSIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8?
+
 
 #EXTINF:-1, TELE RITMO tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELE RITMO
 
@@ -378,12 +378,12 @@ http://abc123.digital:8080/rcs1724@googlemail.com/XsD46J5F5M/484492
 
 
 #EXTINF:-1, RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png", RT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL999/PROFILE05.m3u8?
+
 
 #EXTINF:-1, FRANCIA 24 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png", FRANCIA 24
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2402/PROFILE05.m3u8?
+
 
 #EXTINF:-1, BLOOMBERG tvg-id="ElFinancieroBloomberg.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0", BLOOMBERG
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8?
+
 
 
