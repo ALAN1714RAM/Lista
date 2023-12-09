@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xviewplus.com/api/tv/v1/lineups/DGO_MABR/schedules/segments/12/39401.json"
+#EXTM3U x-tvg-url="https://xviewplus.com/RTEFacade/GetHouseholdSubscribedChannelList?client=json, https://xviewplus.com/api/tv/v1/lineups/DGO_MABR/schedules/segments/12/39401.json"
 
 
 #EXTINF:-1, AZTECA UNO tvg-id="I85.46607.shedulesdirect.org" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
