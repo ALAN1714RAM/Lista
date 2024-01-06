@@ -153,7 +153,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26913
 #EXTINF:-1, A&E tvg-id="AELatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/67/LOGO/m/0", A&E
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26925
 
-#EXTINF:-1, AXN tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/47714f36-6154-4063-8c1d-82c868ffe563.png", AXN
+#EXTINF:-1, AXN tvg-logo="https://www.izzigo.tv/images/repository/7671106-LOGO-m.png", AXN
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26761
 
 #EXTINF:-1, TNT SERIES tvg-id="TNTSeriesMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/80/LOGO/m/0", TNT SERIES
@@ -174,7 +174,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26688
 #EXTINF:-1, LIFETIME tvg-id="LifetimeLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26914
 
-#EXTINF:-1, PASIONES tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/615b57a3-4eba-4580-988f-8466bae759de.png", PASIONES
+#EXTINF:-1, PASIONES tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png", PASIONES
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/3253
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0", DISTRITO COMEDIA 
@@ -226,10 +226,10 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1897
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/956
 
 #EXTINF:-1, DIREC TV SPORTS 2 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png", DIRECTV SPORTS 2
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/154283
 
 #EXTINF:-1, DIREC TV SPORTS + tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png", DIRECTV SPORTS +
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/154275
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png", DAZN
 
@@ -238,22 +238,22 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/956
 
 
 #EXTINF:-1, FOX SPORTS tvg-id="FoxSportsMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1521
 
 #EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1518
 
 #EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26812
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/252733
 
 #EXTINF:-1, TUDN tvg-id="TUDNMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/117291
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://www.sky.com.mx/sports/img/logo-sports.png", SKY SPORTS
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153586
 
 #EXTINF:-1, TNT SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png", TNT SPORTS
 
@@ -262,13 +262,13 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/956
 
 
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/2076
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
 
 
 #EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/115776
 
 #EXTINF:-1, BEIN SPORTS tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100", BEIN SPORTS
 
@@ -289,46 +289,46 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26891
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0", ANIMAL PLANET
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1071
 
 #EXTINF:-1, HISTORY tvg-id="HistoryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1074
 
 #EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1062
 
 #EXTINF:-1, NAT GEO tvg-id="NationalGeographicNorte.us" tvg-logo="https://www.izzigo.tv/images/ch/117/LOGO/m/0", NAT GEO
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1409
 
 #EXTINF:-1, NAT GEO WILD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png", NAT GEO WILD
 
 
 #EXTINF:-1, DISCOVERY THEATER tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0", DISCOVERY THEATER
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/177631
 
 #EXTINF:-1, H&H tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0", H&H
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1081
 
 #EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0", FOOD NETWORK
 
 
 #EXTINF:-1, ELGOURMET tvg-logo="https://www.izzigo.tv/images/ch/69/LOGO/m/0", ELGOURMET
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26928
 
 #EXTINF:-1, FILM & ARTS tvg-logo="https://www.izzigo.tv/images/ch/129/LOGO/m/0", FILM & ARTS
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26745
 
 #EXTINF:-1, HGTV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486323-8c.png", HGTV
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1416
 
 #EXTINF:-1, TLC tvg-id="TLCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/66/LOGO/m/0", TLC
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/177632
 
 #EXTINF:-1, DISCOVERY SCIENCE  tvg-logo="https://www.izzigo.tv/images/ch/125/LOGO/m/0", DISCOVERY SCIENCE 
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1418
 
 #EXTINF:-1, DISCOVERY CIVILIZATION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png", DISCOVERY CIVILIZATION
 
@@ -337,13 +337,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/280/LOGO/m/0",DISCOVERY INVESTIGATION 
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/177627
 
 #EXTINF:-1, DISCOVERY TURBO tvg-logo="https://www.izzigo.tv/images/ch/126/LOGO/m/0", DISCOVERY TURBO
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1084
 
 #EXTINF:-1, MTV LIVE tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png", MTV LIVE
-
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1302
 
 #EXTINF:-1, MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0", MTV 00s
 
@@ -388,7 +388,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 
 
 #EXTINF:-1, RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png", RT
-
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1, FRANCIA 24 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png", FRANCIA 24
 
