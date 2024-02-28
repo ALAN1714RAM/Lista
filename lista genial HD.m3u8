@@ -52,7 +52,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0", TOONCAST
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1396
+
 
 #EXTINF:-1, DISCOVERY KIDS tvg-id="DiscoveryKidsAmericaLatina.us" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png", DISCOVERY KIDS
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26887
@@ -94,10 +94,10 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1889
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1450
 
 #EXTINF:-1, GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0", GOLDEN +
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1477
+
 
 #EXTINF:-1, GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0", GOLDEN
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1473
+
 
 #EXTINF:-1, GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/ch/151/LOGO/m/0", GOLDEN EDGE
 
@@ -106,7 +106,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1473
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/69893
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0", TNT
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/69586
+
 
 #EXTINF:-1, SPACE tvg-id="SpaceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26904
@@ -262,7 +262,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153586
 
 
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/2076
+
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
 
@@ -310,7 +310,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1409
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/177631
 
 #EXTINF:-1, H&H tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0", H&H
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1081
+
 
 #EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0", FOOD NETWORK
 
