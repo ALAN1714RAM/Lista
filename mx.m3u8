@@ -1,43 +1,44 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://gatotv.com/"
 
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1881
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellasMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153528
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/58099
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="Canal5.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26678
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="MultimediosPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26954
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/180063
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1, A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png", A+
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153529
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1, EL 15 tvg-logo="http://www.el15.mx/logo.png", EL 15
+https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
 
 
 #EXTINF:-1, NU9VE tvg-id="Nueve.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0", NU9VE
-
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png", CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
 #EXTINF:-1, ONCE tvg-id="OnceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0", ONCE
-
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1, WOBI tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0", WOBI
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1297
@@ -82,7 +83,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1889
 
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzigo.tv/images/ch/108/LOGO/m/0", BIT ME
-
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS
 
@@ -91,36 +92,36 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1889
 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0", DE PELICULA +
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1450
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1, GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0", GOLDEN +
-
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1, GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0", GOLDEN
-
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #EXTINF:-1, GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/ch/151/LOGO/m/0", GOLDEN EDGE
-
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1, GOLDEN PREMIER tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/324/LOGO/m/0", GOLDEN PREMIER
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/69893
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0", TNT
 
 
-#EXTINF:-1, SPACE tvg-id="SpaceMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
+#EXTINF:-1, SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26904
 
 #EXTINF:-1, AMC tvg-id="AMCMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0", AMC
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26931
 
-#EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversalMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
+#EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversal.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26905
 
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png", FXM
 
 
-#EXTINF:-1, CINECANAL tvg-id="CinecanalWest.us" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0", CINECANAL
+#EXTINF:-1, CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0", CINECANAL
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26753
 
 #EXTINF:-1, CINEMAX tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0", CINEMAX
@@ -166,33 +167,33 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26907
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/157002
 
 #EXTINF:-1, UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/ch/50/LOGO/m/0", UNICABLE
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1365
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1, MAS CHIC tvg-logo="https://www.izzigo.tv/images/ch/68/LOGO/m/0", MAS CHIC
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26688
 
-#EXTINF:-1, LIFETIME tvg-id="LifetimeLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
+#EXTINF:-1, LIFETIME tvg-id="Lifetime.mx" tvg-logo="https://www.izzigo.tv/images/ch/81/LOGO/m/0", LIFETIME
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26914
 
 #EXTINF:-1, PASIONES tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png", PASIONES
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/3253
 
 #EXTINF:-1, DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0", DISTRITO COMEDIA 
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1451
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1, STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/54/LOGO/m/0", STAR CHANNEL
 
 
-#EXTINF:-1, SONY tvg-id="SonyChannelCentro.us" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0", SONY
+#EXTINF:-1, SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0", SONY
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1922
 
-#EXTINF:-1, WARNER tvg-id="WarnerChannelMexico.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/283/LOGO/m/0", WARNER 
+#EXTINF:-1, WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/283/LOGO/m/0", WARNER 
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/119338
 
 #EXTINF:-1, UNIVERSAL tvg-id="UniversalTVMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/281/LOGO/m/0", UNIVERSAL
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1495
 
-#EXTINF:-1, FX tvg-id="FXNorte.us" tvg-logo="https://www.izzigo.tv/images/repository/256837-LOGO-m.png", FX
+#EXTINF:-1, FX tvg-id="FX.mx" tvg-logo="https://www.izzigo.tv/images/repository/256837-LOGO-m.png", FX
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26924
 
 #EXTINF:-1, COMEDY CENTRAL tvg-id="ComedyCentralLatinAmericaNorth.us" tvg-logo="https://www.izzigo.tv/images/ch/58/LOGO/m/0", COMEDY CENTRAL
@@ -213,10 +214,10 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26971
 #EXTINF:-1, ESPN + tvg-logo="https://www.izzigo.tv/images/ch/311/LOGO/m/0", ESPN EXTRA
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/63211
 
-#EXTINF:-1, ESPN tvg-id="ESPNMexico.us" tvg-logo="https://www.izzigo.tv/images/ch/138/LOGO/m/0", ESPN
+#EXTINF:-1, ESPN tvg-id="ESPN.mx" tvg-logo="https://www.izzigo.tv/images/ch/138/LOGO/m/0", ESPN
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1533
 
-#EXTINF:-1, ESPN 2 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://www.izzigo.tv/images/ch/139/LOGO/m/0", ESPN 2
+#EXTINF:-1, ESPN 2 tvg-id="ESPN2.mx" tvg-logo="https://www.izzigo.tv/images/ch/139/LOGO/m/0", ESPN 2
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1899
 
 #EXTINF:-1, ESPN 3 tvg-id="ESPN3AmericaLatina.us" tvg-logo="https://www.izzigo.tv/images/ch/140/LOGO/m/0", ESPN 3
@@ -237,19 +238,19 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/154275
 #EXTINF:-1, DAZN 2 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png", DAZN 2
 
 
-#EXTINF:-1, FOX SPORTS tvg-id="FoxSportsMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
+#EXTINF:-1, FOX SPORTS tvg-id="FoxSports.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1521
 
-#EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
+#EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1518
 
-#EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
+#EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26812
 
-#EXTINF:-1, FOX SPORTS PREMIUM tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
+#EXTINF:-1, FOX SPORTS PREMIUM tvg-id="FoxSportsPremium.mx"tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/252733
 
-#EXTINF:-1, TUDN tvg-id="TUDNMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
+#EXTINF:-1, TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/117291
 
 #EXTINF:-1, SKY SPORTS tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png", SKY SPORTS
@@ -265,13 +266,13 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153586
 
 
 #EXTINF:-1 Claro Sports tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-
-#EXTINF:-1, AFIZZIONADOS tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/115776
+#EXTINF:-1, AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100", BEIN SPORTS
-
+https://lnc-bein.tubi.video/playlist.m3u8
 
 #EXTINF:-1, RED BULL TV tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -288,16 +289,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, U BEAT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/982302-8c.png", U BEAT
 
 
-#EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
+#EXTINF:-1, DISCOVERY CHANNEL tvg-id="DiscoveryChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/115/LOGO/m/0", DISCOVERY CHANNEL 
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26891
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0", ANIMAL PLANET
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1071
 
-#EXTINF:-1, HISTORY tvg-id="HistoryLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
+#EXTINF:-1, HISTORY tvg-id="History.mx" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0", HISTORY
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1074
 
-#EXTINF:-1, HISTORY 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
+#EXTINF:-1, HISTORY 2 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", HISTORY 2
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1062
 
 #EXTINF:-1, NAT GEO tvg-id="NationalGeographicNorte.us" tvg-logo="https://www.izzigo.tv/images/ch/117/LOGO/m/0", NAT GEO
@@ -357,35 +358,35 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26935
 #EXTINF:-1, NICKMUSIC tvg-logo="https://www.izzigo.tv/images/ch/111/LOGO/m/0", NICKMUSIC
 
 
-#EXTINF:-1, TELE RITMO tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELE RITMO
-
+#EXTINF:-1, TELE RITMO tvg-id="Teleritmo.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png", TELE RITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1, HAVOC  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416677-8c.png", HAVOC
 
 
-#EXTINF:-1, TELEHIT tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/74/LOGO/m/0", TELEHIT 
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26940
+#EXTINF:-1, TELEHIT tvg-id="TeleHit.mx" tvg-logo="https://www.izzigo.tv/images/ch/74/LOGO/m/0", TELEHIT 
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
-#EXTINF:-1, TELEHIT URBANO tvg-id="TeleHit.mx" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
-
+#EXTINF:-1, TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0", TELEHIT URBANO
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0", TELEHIT +
 
 
 #EXTINF:-1, BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26943
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
 #EXTINF:-1, VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://www.videorola.com/assets/image/vr_logo_x_org.png", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
 
 #EXTINF:-1, FOROTV tvg-id="Foro.mx" tvg-logo="https://www.izzigo.tv/images/ch/16/LOGO/m/0", FOROTV 
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153534
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
 #EXTINF:-1, ADN 40 tvg-id="ADN40.mx" tvg-logo="https://www.izzigo.tv/images/ch/35/LOGO/m/0", ADN 40
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1358
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1, MILENIO tvg-id="MilenioTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0", MILENIO
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26981
+#EXTINF:-1, MILENIO tvg-id="MilenioTelevision.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1, RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
