@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://gatotv.com/"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml"
 
-#EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
+#EXTINF:-1, AZTECA UNO tvg-id="Canal Azteca 13 (México)" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellasMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0", LAS ESTRELLAS
