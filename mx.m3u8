@@ -7,6 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
+https://ythls.armelin./choneannel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -46,7 +47,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1297
 
 
 #EXTINF:-1, CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0", CANAL CATORCE
-
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0", ONCE NIÑOS
 
