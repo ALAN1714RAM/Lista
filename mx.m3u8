@@ -112,7 +112,7 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1, SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26904
 
-#EXTINF:-1, AMC tvg-id="AMC.mx" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0", AMC
+#EXTINF:-1, AMC tvg-id="AMCLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0", AMC
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26931
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversal.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0", STUDIO UNIVERSAL
