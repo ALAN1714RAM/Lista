@@ -7,13 +7,13 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png", IMAGEN TV  
-https://live-b.cf.dmcdn.net/sec2(WZ8da5v8_2dV9qGWcYew71aeu2XlvZDBG_1MJQcZNf8ui5lHYV_7Mh683RQdNRJuw1GKUNwZ8fKoGwnDo9N7_BlaEiqhkP0dttTC3NqYQRs)/dm/3/x82z4if/d/live-2.m3u8
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/58099.ts
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26678.ts
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -107,7 +107,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0", TNT
-
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/398102.ts
 
 #EXTINF:-1, SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0", SPACE
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26904
@@ -155,7 +155,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26913
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26925
 
 #EXTINF:-1, AXN tvg-id="AXN.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png", AXN
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26761
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26761.ts
 
 #EXTINF:-1, TNT SERIES tvg-id="TNTSeries.mx" tvg-id="TNTSeriesMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/80/LOGO/m/0", TNT SERIES
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26907
@@ -239,19 +239,19 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/154275
 
 
 #EXTINF:-1, FOX SPORTS tvg-id="FoxSports.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1521
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26814.ts
 
 #EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1518
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/1902.ts
 
 #EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26812
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/1523.ts
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-id="FoxSportsPremium.mx"tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/252733
 
 #EXTINF:-1, TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0", TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/396049.ts
 
 #EXTINF:-1, SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png", SKY SPORTS
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153586
@@ -374,7 +374,7 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 
 #EXTINF:-1, BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0", BANDAMAX
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26943.ts
 
 #EXTINF:-1, VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://www.videorola.com/assets/image/vr_logo_x_org.png", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
