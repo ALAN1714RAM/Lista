@@ -13,13 +13,13 @@ https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0", CANAL 5
-http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26678.ts
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/160530
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca7.mx" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0", AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/179806
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -212,13 +212,13 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1434
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26971
 
 #EXTINF:-1, ESPN + tvg-logo="https://www.izzigo.tv/images/ch/311/LOGO/m/0", ESPN EXTRA
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/63211
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/124447
 
 #EXTINF:-1, ESPN tvg-id="ESPN.mx" tvg-logo="https://www.izzigo.tv/images/ch/138/LOGO/m/0", ESPN
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1533
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/211405
 
 #EXTINF:-1, ESPN 2 tvg-id="ESPN2.mx" tvg-logo="https://www.izzigo.tv/images/ch/139/LOGO/m/0", ESPN 2
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1899
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/211395
 
 #EXTINF:-1, ESPN 3 tvg-id="ESPN3.mx" tvg-logo="https://www.izzigo.tv/images/ch/140/LOGO/m/0", ESPN 3
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1897
@@ -239,13 +239,13 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/154275
 
 
 #EXTINF:-1, FOX SPORTS tvg-id="FoxSports.mx" tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
-http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/26814.ts
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/211393
 
 #EXTINF:-1, FOX SPORTS 2 tvg-id="FoxSports2.mx" tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
 http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/1902.ts
 
 #EXTINF:-1, FOX SPORTS 3 tvg-id="FoxSports3.mx" tvg-logo="https://www.izzigo.tv/images/ch/141/LOGO/m/0", FOX SPORTS 3
-http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/1523.ts
+http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/211391
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-id="FoxSportsPremium.mx"tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png", FOX SPORTS PREMIUM
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/252733
@@ -265,7 +265,7 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/153586
 #EXTINF:-1,TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png", TVC DEPORTES
 
 
-#EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png",CLARO SPORTS 
+#EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1145521-8c.png",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1, AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0", AFIZZIONADOS
