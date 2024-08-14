@@ -3,7 +3,7 @@
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0" group-title="Entretenimiento", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entetenimiento", LAS ESTRELLAS
+#EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
@@ -24,7 +24,7 @@ http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/179806
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
-#EXTINF:-1, NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0" group-title="Entretenimienti", NU9VE
+#EXTINF:-1, NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0" group-title="Entretenimiento", NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="Noticias", CANAL 10
