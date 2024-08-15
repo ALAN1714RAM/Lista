@@ -399,3 +399,15 @@ http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26699
 
 #EXTINF:-1, Acceso 24/7 tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/66984c6819e4b352a4d33f9c/853ca9843f640e600147a3d7b891e431?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Acceso 24/7
 http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/226246.ts
+
+#EXTINF:-1, Sala tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/66984c0ecec9cf73afc45dcb/2f0c54cae884423796a50bd458601079?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Sala
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/598961.ts
+
+#EXTINF:-1, Cocina tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/66984c22824e5530a98bd781/bb4fb5601f4b5ece8806478fda0ab7f3?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Cocina
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/598962.ts
+
+#EXTINF:-1, Cuarto Mar tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/669aae8ac2a4b7f45e0431cb/69ebffede497e49c3253fdb4b65772a5?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Cuarto Mar
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/598965.ts
+
+#EXTINF:-1, Multicamaras tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/66984c7d518ad5f2ff08c66c/7c9d9d907568f3add60eabfa0a8d449b?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Multicamaras
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/598967.ts
