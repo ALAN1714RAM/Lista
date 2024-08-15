@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/283287.ts
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
@@ -13,19 +13,19 @@ https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0" group-title="Entretenimiento", CANAL 5
-http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/160530
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/279661.ts
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0" group-title="Entretenimiento", AZTECA 7 
-http://seriesypeliculastv.es:8080/javieracarba/J1vi3racAr/179806
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/103869.ts
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1, NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0" group-title="Entretenimiento", NU9VE
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/243055.ts
 
 #EXTINF:-1, CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="Noticias", CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
@@ -43,7 +43,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 
 #EXTINF:-1, WOBI tvg-id="WorldofBusinessIdeas.mx" tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0" group-title="Noticias", WOBI
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1297
 
 
 #EXTINF:-1, CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0" group-title="Noticias", CANAL CATORCE
@@ -53,37 +52,37 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 
 #EXTINF:-1, TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0" group-title="Infantil", TOONCAST
-
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/602565.ts
 
 #EXTINF:-1, DISCOVERY KIDS tvg-id="DiscoveryKids.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="Infantil", DISCOVERY KIDS
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26887
+
 
 #EXTINF:-1, CARTOONITO tvg-id="Boomerang.mx" tvg-logo="https://www.izzigo.tv/images/ch/1550/LOGO/m/0" group-title="Infantil", CARTOONITO
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1370
+
 
 #EXTINF:-1, NICK tvg-id="Nickelodeon.mx" tvg-logo="https://www.izzigo.tv/images/ch/107/LOGO/m/0" group-title="Infantil", NICK
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1388
+
 
 #EXTINF:-1, DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png" group-title="Infantil", DISNEY XD
 
 
 #EXTINF:-1, CARTOON NETWORK tvg-id="CartoonNetwork.mx"" tvg-logo="https://www.izzigo.tv/images/ch/105/LOGO/m/0" group-title="Infantil", CARTOON NETWORK
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26879
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/229115.ts
 
 #EXTINF:-1, DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/109/LOGO/m/0" group-title="Infantil", DISNEY CHANNEL
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1377
+
 
 #EXTINF:-1, BOOMERANG tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/6ea613ad-7a69-4f83-82a5-7877c0b1b8e1.png" group-title="Infantil", BOOMERANG
 
 
 #EXTINF:-1, DISNEY JR tvg-id="DisneyJunior.mx" tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0" group-title="Infantil", DISNEY JR
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/1889
+
 
 #EXTINF:-1, TEEN NICK tvg-logo="https://www.izzigo.tv/images/ch/296/LOGO/m/0" group-title="Infantil", TEEN NICK  
 
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzigo.tv/images/ch/108/LOGO/m/0" group-title="Infantil", BIT ME
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/602566.ts
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil", NAT GEO KIDS
 
@@ -92,37 +91,37 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 
 #EXTINF:-1, DE PELICULA + tvg-logo="https://www.izzigo.tv/images/ch/315/LOGO/m/0" group-title="Old Movies", DE PELICULA +
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/103952.ts
 
 #EXTINF:-1, GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/316/LOGO/m/0" group-title="Cine & Series", GOLDEN +
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/94122.ts
 
 #EXTINF:-1, GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/ch/150/LOGO/m/0" group-title="Cine & Series", GOLDEN
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/103948.ts
 
 #EXTINF:-1, GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/ch/151/LOGO/m/0" group-title="Cine & Series", GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
 
 #EXTINF:-1, GOLDEN PREMIER tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/324/LOGO/m/0" group-title="Cine & Series", GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/103947.ts
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0" group-title="Cine & Series", TNT
-http://zeuspro.xyz:8080/live/santambrogioj00/A67kgxa5WM/398102.ts
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/94130.ts
 
 #EXTINF:-1, SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0" group-title="Cine & Series", SPACE
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26904
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/94127.ts
 
 #EXTINF:-1, AMC tvg-id="AMCLatinAmerica.us" tvg-logo="https://www.izzigo.tv/images/ch/153/LOGO/m/0" group-title="Cine & Series", AMC
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26931
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/94113.ts
 
 #EXTINF:-1, STUDIO UNIVERSAL tvg-id="StudioUniversal.mx" tvg-logo="https://www.izzigo.tv/images/ch/154/LOGO/m/0" group-title="Cine & Series", STUDIO UNIVERSAL
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26905
+
 
 #EXTINF:-1, FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png" group-title="Cine & Series", FXM
 
 
 #EXTINF:-1, CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0" group-title="Cine & Series", CINECANAL
-http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26753
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/94116.ts
 
 #EXTINF:-1, CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0" group-title="Cine & Series", CINEMAX
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/116478
