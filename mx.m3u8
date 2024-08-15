@@ -396,3 +396,6 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1, BLOOMBERG tvg-id="BloombergTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0" group-title="Noticias", BLOOMBERG
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26699
+
+#EXTINF:-1, Acceso 24/7 tvg-id="" tvg-logo="https://images.vix.com/prd/channel-landscape/66984c6819e4b352a4d33f9c/853ca9843f640e600147a3d7b891e431?tr=w-350,ar-16-9,q-80&w=1440" group-title="LA CASA DE LOS FAMOSOS", Acceso 24/7
+http://galaxypro.online:8080/live/C8mUzh/LYFb2De9/226246.ts
