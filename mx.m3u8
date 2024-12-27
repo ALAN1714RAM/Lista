@@ -396,19 +396,5 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1, BLOOMBERG tvg-id="BloombergTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/38/LOGO/m/0" group-title="Noticias", BLOOMBERG
 http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/26699
 
-#EXTINF:-1, 50/50 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/ypEgzgReXMKWOenWeHZ6iE5w2zc.jpg" group-title="MOVIES", 50/50
-https://vd420.okcdn.ru/?expires=1733650149706&srcIp=177.226.99.142&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.65&type=3&sig=eYknidD6l-8&ct=0&urls=45.136.21.26&clientType=0&id=375933766276
-
-#EXTINF:-1, Legend tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg" group-title="MOVIES", Legend
-https://pffwa2vimw.cdn-centaurus.com/hls2/01/00913/vba1fbv8bi3y_o/master.m3u8?t=9PXyqU_w083WX2KPeKbe6odX-b5gtIRpu8hq1zKx_24&s=1733559424&e=129600&f=4565444&srv=sy1qkh389kzm&i=0.4&sp=500&p1=sy1qkh389kzm&p2=sy1qkh389kzm&asn=13999
-
-#EXTINF:-1, Detachment tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/2uvZbXzhd3bMakRXiZpO1Kd6Ho3.jpg" group-title="MOVIES", Detachment
-https://nhthwydgtq.cdn-centaurus.com/hls2/01/00860/7r8dqzv8gdae_o/master.m3u8?t=rJhYHCzmBeH24SeI-G7pJQt8wlRDYRu4UYeRiJyiRHM&s=1733360877&e=129600&f=4304414&srv=qeuviinny9&i=0.4&sp=500&p1=qeuviinny9&p2=qeuviinny9&asn=13999
-
-#EXTINF:-1, White By Rick tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/xjW2wgrC2ey0APDELP6NMD8tAq7.jpg" group-title="MOVIES", White Boy Rick
-
-#EXTINF:-1, Picture Perfect tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/xYnvr4o7GEaA2uyt4Q1ASUI5Obv.jpg" group-title="MOVIES", Picture Perfect
-
-#EXTINF:-1, LA LA LAND tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/slFK3WlBVjqQyFnqEBxIpck1ORA.jpg" group-title="MOVIES", LA LA LAND
-
-#EXTINF:-1, Picture Perfect tvg-id="" tvg-logo="" group-title="MOVIES", Picture Perfect
+#EXTINF:-1, BARTKOWIAK tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/6rClbEKTWZtIdzapKwqhRpGHbr8.jpg" group-title="MOVIES", BARTKOWIAK
+https://rvlzhfoat7kb.cdn-centaurus.com/hls2/01/00814/wpt9p7zhi9hm_o/master.m3u8?t=VuSopcAXFIcfo4kLW648QQgg0XYJQBqLn-543i93vcU&s=1735284710&e=129600&f=4073986&srv=lzbu5jjozkad&i=0.4&sp=500&p1=lzbu5jjozkad&p2=lzbu5jjozkad&asn=13999
