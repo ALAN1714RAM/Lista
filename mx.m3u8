@@ -19,7 +19,7 @@ http://fastream.xyz:8080/live/francismorales556845/556845francismorales/24902.ts
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0" group-title="Entretenimiento", AZTECA 7 
-http://daleplaygo.vip:8080/live/usuariocanales737/nKPxbFW46jgM/63185.ts
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -217,6 +217,12 @@ http://daleplaygo.vip:8080/live/usuariocanales737/nKPxbFW46jgM/423111.ts
 
 
 #EXTINF:-1, DIREC TV SPORTS + tvg-logo="https://dsports-widgets-dev.tbxnet.com/assets/images/channels/1613.png" group-title="Deportes", DIRECTV SPORTS +
+
+#EXTINF:-1, LIGA DE CAMPEONS M+ tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/CHAPIO.png" group-title="Deportes", LIGA DE CAMPEONES M+
+http://daleplaygo.vip:8080/live/usuariocanales737/nKPxbFW46jgM/415447.ts
+
+#EXTINF:-1, LIGA DE CAMPEONS 2 M+ tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Deportes", LIGA DE CAMPEONES 2 M+
+http://daleplaygo.vip:8080/live/usuariocanales737/nKPxbFW46jgM/147937.ts
 
 #EXTINF:-1, DAZN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1200px-DAZN_logo.svg.png" group-title="Deportes", DAZN
 http://daleplaygo.vip:8080/live/usuariocanales737/nKPxbFW46jgM/411840.ts
