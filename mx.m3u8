@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/59422.ts
+http://tv.zeuspro.xyz:2052/live/6651652.vip/3QSKY9RJgR/87579.ts
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
 
@@ -13,7 +13,7 @@ http://fastream.xyz:8080/live/francismorales556845/556845francismorales/59422.ts
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0" group-title="Entretenimiento", CANAL 5
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/24902.ts
+http://tv.zeuspro.xyz:2052/live/6651652.vip/3QSKY9RJgR/87596.ts
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -80,7 +80,7 @@ http://defaultgen.com:3050/live/BobbyF24/T76g5r2BFi/670500.ts
 
 
 #EXTINF:-1, BIT ME tvg-id="BitMe.mx" tvg-logo="https://www.izzigo.tv/images/ch/108/LOGO/m/0" group-title="Infantil", BIT ME
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/24943.ts
+http://tv.zeuspro.xyz:2052/live/6651652.vip/3QSKY9RJgR/87592.ts
 
 #EXTINF:-1, NAT GEO KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil", NAT GEO KIDS
 
@@ -240,7 +240,7 @@ http://defaultgen.com:3050/live/BobbyF24/T76g5r2BFi/670491.ts
 http://defaultgen.com:3050/live/BobbyF24/T76g5r2BFi/670490.ts
 
 #EXTINF:-1, TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0" group-title="Deportes", TUDN
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/247845.ts
+http://tv.zeuspro.xyz:2052/live/6651652.vip/3QSKY9RJgR/87590.ts
 
 #EXTINF:-1, SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Deportes", SKY SPORTS
 
@@ -351,10 +351,8 @@ http://fastream.xyz:8080/live/francismorales556845/556845francismorales/59510.ts
 #EXTINF:-1, TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0" group-title="Musica", TELEHIT URBANO
 
 #EXTINF:-1, TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0" group-title="Musica", TELEHIT +
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/24976.ts
 
 #EXTINF:-1, BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0" group-title="Musica", BANDAMAX
-http://fastream.xyz:8080/live/francismorales556845/556845francismorales/24895.ts
 
 #EXTINF:-1, VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://www.videorola.com/assets/image/vr_logo_x_org.png" group-title="Musica", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
