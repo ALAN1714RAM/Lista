@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Mexico/izzi.mx.channels.xml,https://xmltv.tvkaista.net/guides/mi.tv_mx.xml"
+#EXTM3U x-tvg-url=""
 
 #EXTINF:-1, AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0" group-title="Entretenimiento", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
