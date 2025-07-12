@@ -4,16 +4,16 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/419060.ts
+http://593zona.live:80/live/56993853919play/041222play/410172.ts
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
-http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/419092.ts
+http://593zona.live:80/live/56993853919play/041222play/586268.ts
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1, CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/17/LOGO/m/0" group-title="Entretenimiento", CANAL 5
-http://fastream.xyz:8080/live/965318545tv/k2j34h/24902.ts
+http://593zona.live:80/live/56993853919play/041222play/586264.ts
 
 #EXTINF:-1, MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -214,10 +214,10 @@ http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/394821.ts
 http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/394815.ts
 
 #EXTINF:-1, FOX SPORTS PREMIUM tvg-id="FoxSportsPremium.mx"tvg-logo="https://www.elfinanciero.com.mx/resizer/Jk9nTFpsYox_Y3cfxFEvnsEmcJE=/800x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJFWRPVBFVGVDJ42KIDPGDXDBY.png" group-title="Deportes", FOX SPORTS PREMIUM
-http://fastream.xyz:8080/live/965318545tv/k2j34h/24775.ts
+http://593zona.live:80/live/56993853919play/041222play/544813.ts
 
 #EXTINF:-1, TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0" group-title="Deportes", TUDN
-http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/394816.ts
+http://593zona.live:80/live/56993853919play/041222play/822858.ts
 
 #EXTINF:-1, SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Deportes", SKY SPORTS
 
