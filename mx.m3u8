@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-http://593zona.live:80/live/56993853919play/041222play/410172.ts
+http://by.questreams.com:83/live/Verria/0695348721/775838.ts
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
 http://593zona.live:80/live/56993853919play/041222play/586268.ts
@@ -19,7 +19,7 @@ http://593zona.live:80/live/56993853919play/041222play/586264.ts
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0" group-title="Entretenimiento", AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://by.questreams.com:83/live/Verria/0695348721/775772.ts
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -115,10 +115,10 @@ http://by.questreams.com:83/live/Verria/0695348721/775762.ts
 
 
 #EXTINF:-1, CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0" group-title="Cine & Series", CINECANAL
-http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/414479.ts
+http://by.questreams.com:83/live/Verria/0695348721/775782.ts
 
 #EXTINF:-1, CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0" group-title="Cine & Series", CINEMAX
-http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/414457.ts
+http://by.questreams.com:83/live/Verria/0695348721/775783.ts
 
 #EXTINF:-1, UNIVERSAL PREMIER tvg-id="UniversalPremiere.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943062-8c.png" group-title="Cine & Series", UNIVERSAL PREMIER
 
@@ -260,6 +260,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://venuschiletv.lat:8880/live/bayron01000/wmguR9bh4sWE/318603.ts
 
 #EXTINF:-1, ANIMAL PLANET tvg-id="AnimalPlanet.mx" tvg-logo="https://www.izzigo.tv/images/ch/116/LOGO/m/0" group-title="Mundo & Cultura", ANIMAL PLANET
+http://by.questreams.com:83/live/Verria/0695348721/775763.ts
 
 #EXTINF:-1, HISTORY tvg-id="HistoryChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/119/LOGO/m/0" group-title="Mundo & Cultura", HISTORY
 
