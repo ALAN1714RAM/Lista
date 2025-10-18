@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1, LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775838.ts
+http://fastream.xyz:8080/live/965318545tv/k2j34h/59481.ts
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
 http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775836.ts
@@ -19,7 +19,7 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775780.ts
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0" group-title="Entretenimiento", AZTECA 7 
-http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775772.ts
+http://fastream.xyz:8080/live/965318545tv/k2j34h/24772.ts
 
 #EXTINF:-1, ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -62,8 +62,8 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1, DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png" group-title="Infantil", DISNEY XD
 
 
-#EXTINF:-1, CARTOON NETWORK tvg-id="CartoonNetwork.mx"" tvg-logo="https://www.izzigo.tv/images/ch/105/LOGO/m/0" group-title="Infantil", CARTOON NETWORK
-
+#EXTINF:-1 CARTOON NETWORK tvg-id="CartoonNetwork.mx"" tvg-logo="https://www.izzigo.tv/images/ch/105/LOGO/m/0" group-title="Infantil", CARTOON NETWORK
+http://fastream.xyz:8080/live/965318545tv/k2j34h/24799.ts
 
 #EXTINF:-1, DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/109/LOGO/m/0" group-title="Infantil", DISNEY CHANNEL
 
@@ -101,7 +101,7 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775823.ts
 http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775824.ts
 
 #EXTINF:-1, TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/152/LOGO/m/0" group-title="Cine & Series", TNT
-http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775863.ts
+http://fastream.xyz:8080/live/965318545tv/k2j34h/59431.ts
 
 #EXTINF:-1, SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/ch/286/LOGO/m/0" group-title="Cine & Series", SPACE
 http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775852.ts
@@ -163,6 +163,7 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775858.ts
 #EXTINF:-1, DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/ch/73/LOGO/m/0" group-title="Entretenimiento", DISTRITO COMEDIA 
 
 #EXTINF:-1, STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/54/LOGO/m/0" group-title="Cine & Series", STAR CHANNEL
+http://fastream.xyz:8080/live/965318545tv/k2j34h/24820.ts
 
 #EXTINF:-1, SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0" group-title="Cine & Series", SONY
 http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775851.ts
@@ -227,7 +228,7 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775819.ts
 http://fastream.xyz:8080/live/965318545tv/k2j34h/24775.ts
 
 #EXTINF:-1, TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0" group-title="Deportes", TUDN
-http://593zona.live:80/live/56993853919play/041222play/822858.ts
+http://fastream.xyz:8080/live/965318545tv/k2j34h/247845.ts
 
 #EXTINF:-1, SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Deportes", SKY SPORTS
 
