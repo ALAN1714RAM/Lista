@@ -24,7 +24,7 @@ http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/32664.ts
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
-#EXTINF:-1, NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0" group-title="Entretenimiento", NU9VE
+#EXTINF:-1 NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/ch/20/LOGO/m/0" group-title="Entretenimiento", NU9VE
 
 #EXTINF:-1 CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="Noticias", CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
@@ -278,11 +278,11 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775763.ts
 #EXTINF:-1 NAT GEO WILD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc6f3284-d97b-41e0-92c7-9380f8015fb0.png" group-title="Mundo & Cultura", NAT GEO WILD
 
 
-#EXTINF:-1, DISCOVERY THEATER tvg-id="DiscoveryTheater.mx" tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0" group-title="Mundo & Cultura", DISCOVERY THEATER
+#EXTINF:-1 DISCOVERY THEATER tvg-id="DiscoveryTheater.mx" tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0" group-title="Mundo & Cultura", DISCOVERY THEATER
 
-#EXTINF:-1, H&H tvg-id="DiscoveryHomeHealth.mx" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0" group-title="Mundo & Cultura", H&H
+#EXTINF:-1 H&H tvg-id="DiscoveryHomeHealth.mx" tvg-logo="https://www.izzigo.tv/images/ch/65/LOGO/m/0" group-title="Mundo & Cultura", H&H
 
-#EXTINF:-1, FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0" group-title="Mundo & Cultura", FOOD NETWORK
+#EXTINF:-1 FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/ch/1241/LOGO/m/0" group-title="Mundo & Cultura", FOOD NETWORK
 
 
 #EXTINF:-1 ELGOURMET tvg-logo="https://www.izzigo.tv/images/ch/69/LOGO/m/0" group-title="Mundo & Cultura", ELGOURMET
