@@ -4,7 +4,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
-http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/39058.ts
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
 http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/156340.ts
@@ -19,7 +19,7 @@ http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/32669.ts
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/ch/18/LOGO/m/0" group-title="Entretenimiento", AZTECA 7 
-http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/32664.ts
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -44,6 +44,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 WOBI tvg-id="WorldofBusinessIdeas.mx" tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0" group-title="Noticias", WOBI
 
 #EXTINF:-1 CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0" group-title="Noticias", CANAL CATORCE
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0" group-title="Infantil", ONCE NIÑOS
 
@@ -166,7 +167,7 @@ http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775858.ts
 http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/33980.ts
 
 #EXTINF:-1 SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/285/LOGO/m/0" group-title="Cine & Series", SONY
-http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/32339.ts
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/ch/283/LOGO/m/0" group-title="Cine & Series", WARNER 
 http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/32510.ts
