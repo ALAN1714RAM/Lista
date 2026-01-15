@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/master.m3u8
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
-http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/156340.ts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -243,7 +243,7 @@ http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/31129.ts
 
 
 #EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deportes",CLARO SPORTS 
-http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/31317.ts
+ttps://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
 
