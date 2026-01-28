@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:-1 AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/ch/24/LOGO/m/0" group-title="Entretenimiento", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u
 
 #EXTINF:-1 LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/ch/14/LOGO/m/0" group-title="Entretenimiento", LAS ESTRELLAS
 http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/39058.ts
