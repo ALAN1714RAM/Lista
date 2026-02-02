@@ -230,6 +230,9 @@ http://app.tecnomolly.com:8080/live/sergiobixby/ratmDTAvFR4R/206988.ts
 #EXTINF:-1 TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/ch/134/LOGO/m/0" group-title="Deportes", TUDN
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31129.ts
 
+#EXTINF:-1 TNT SPORTS Premium tvg-logo="https://assets.tntsports.cl/arte/logo_tntsports_premium_blanco_new.svg" group-title="Deportes", TNT SPORTS Premium
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
 #EXTINF:-1 SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Deportes", SKY SPORTS
 
 #EXTINF:-1 TNT SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="Deportes", TNT SPORTS
@@ -325,6 +328,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32340.ts
 #EXTINF:-1 TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0" group-title="Musica", TELEHIT URBANO
 
 #EXTINF:-1 TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0" group-title="Musica", TELEHIT +
+http://200.115.120.1:8000/play/ca048/index.m3u8
 
 #EXTINF:-1 BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0" group-title="Musica", BANDAMAX
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32666.ts
