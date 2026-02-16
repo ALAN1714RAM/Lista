@@ -333,7 +333,7 @@ http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0" group-title="Musica", BANDAMAX
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32666.ts
 
-#EXTINF:-1 VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://www.videorola.com/assets/image/vr_logo_x_org.png" group-title="Musica", VIDEO ROLA
+#EXTINF:-1 VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://mega.mx/uploads/canales/VR_PLUS_HD.png" group-title="Musica", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
 
 #EXTINF:-1 FOROTV tvg-id="ForoTv.mx" tvg-logo="https://www.izzigo.tv/images/ch/16/LOGO/m/0" group-title="Noticias", FOROTV 
