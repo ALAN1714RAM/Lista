@@ -115,7 +115,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31133.ts
 #EXTINF:-1 FXM tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/57bca4f4-9101-45a4-b9b5-cdcedab9c5de.png" group-title="Cine & Series", FXM
 
 
-#EXTINF:-1 CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/ch/318/LOGO/m/0" group-title="Cine & Series", CINECANAL
+#EXTINF:-1 CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/repository/762/18089762-SNAPSHOT-m.jpg" group-title="Cine & Series", CINECANAL
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33034.ts
 
 #EXTINF:-1 CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0" group-title="Cine & Series", CINEMAX
@@ -149,7 +149,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31137.ts
 #EXTINF:-1 STAR LIFE tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/79062fb1-5370-4137-901a-05fa5e012cf2.png", STAR LIFE
 
 
-#EXTINF:-1 TELEMUNDO tvg-id="Telemundo.mx" tvg-logo="https://www.izzigo.tv/images/ch/52/LOGO/m/0" group-title="Entretenimiento", TELEMUNDO
+#EXTINF:-1 TELEMUNDO tvg-id="Telemundo.mx" tvg-logo="https://www.izzigo.tv/images/repository/057/13734057-SNAPSHOT-m.png" group-title="Entretenimiento", TELEMUNDO
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/repository/322/13875322-SNAPSHOT-m.png" group-title="Entretenimiento", UNICABLE
@@ -168,7 +168,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33980.ts
 #EXTINF:-1 SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/061/16838061-SNAPSHOT-m.jpg" group-title="Cine & Series", SONY
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/repository/009/16333009-SNAPSHOT-m.jpg" group-title="Cine & Series", WARNER 
+#EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/repository/058/13734058-SNAPSHOT-m.png" group-title="Cine & Series", WARNER 
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32510.ts
 
 #EXTINF:-1 UNIVERSAL tvg-id="UniversalChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/060/13734060-SNAPSHOT-m.png" group-title="Cine & Series", UNIVERSAL
