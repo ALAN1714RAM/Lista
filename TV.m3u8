@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/39058.ts
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/4153345.jpg" group-title="Entretenimiento", IMAGEN TV  
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/e7138574d2ad408eb04e5e169c8bc672/live_720.m3u8
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -235,8 +235,8 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://www.izzigo.tv/images/repository/995/16713995-SNAPSHOT-m.jpg" group-title="Deportes", SKY SPORTS
 
-#EXTINF:-1 TNT SPORTS tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="Deportes", TNT SPORTS
-
+#EXTINF:-1 FIFA+ Roku tvg-logo="https://www.samsungtvplus.com/img/homepage/desktop/M5/2-Sports/3-FIFA.png" group-title="Deportes", FIFA+ Roku
+https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/36cd96cb6fb140e6b918710dca9cf615/live_1080.m3u8
 
 #EXTINF:-1 AYM SPORTS tvg-id="AyMSports.mx" tvg-logo="https://www.izzigo.tv/images/repository/948/18050948-SNAPSHOT-m.jpg" group-title="Deportes", AYM SPORTS
 
