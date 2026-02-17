@@ -15,7 +15,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/repository/281/13781281-SNAPSHOT-m.png" group-title="Entretenimiento", CANAL 5
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32669.ts
 
-#EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/repository/977/13389977-SNAPSHOT-m.png" group-title="Entretenimiento", MULTIMEDIOS
+#EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/repository/316/13781316-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA 7 
@@ -98,7 +98,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/34164.ts
 #EXTINF:-1 GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/repository/394/13814394-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN EDGE
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31463.ts
 
-#EXTINF:-1 GOLDEN PREMIER tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/324/LOGO/m/0" group-title="Cine & Series", GOLDEN PREMIER
+#EXTINF:-1 GOLDEN PREMIER tvg-id="" tvg-logo="https://www.izzigo.tv/images/repository/981/13389981-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN PREMIER
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/34308.ts
 
 #EXTINF:-1 TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/repository/338/13781338-SNAPSHOT-m.png" group-title="Cine & Series", TNT
