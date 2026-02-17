@@ -179,7 +179,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/34101.ts
 #EXTINF:-1 COMEDY CENTRAL tvg-id="ComedyCentral.mx" tvg-logo="https://www.izzigo.tv/images/ch/58/LOGO/m/0" group-title="Entretenimiento", COMEDY CENTRAL
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31318.ts
 
-#EXTINF:-1 HBO tvg-logo="https://www.izzigo.tv/images/ch/326/LOGO/m/0" group-title="Cine & Series", HBO
+#EXTINF:-1 HBO tvg-logo="https://beam-images.warnermediacdn.com/2024-03/hbo.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Cine & Series", HBO
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322820.ts
 
 #EXTINF:-1 HBO 2 tvg-id="HBO2.mx" tvg-logo="https://www.izzigo.tv/images/ch/167/LOGO/m/0" group-title="Cine & Series", HBO 2
