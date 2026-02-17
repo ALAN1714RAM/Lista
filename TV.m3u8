@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/repository/066/16838066-SNAPSHOT-m.jpg" group-title="Entretenimiento", LAS ESTRELLAS
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/39058.ts
 
-#EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.izzigo.tv/images/repository/679/18625679-SNAPSHOT-m.jpg" group-title="Entretenimiento", IMAGEN TV  
+#EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/4153345.jpg" group-title="Entretenimiento", IMAGEN TV  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
