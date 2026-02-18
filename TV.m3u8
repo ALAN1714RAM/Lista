@@ -172,7 +172,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32510.ts
 #EXTINF:-1 FX tvg-id="FX.mx" tvg-logo="https://www.izzigo.tv/images/repository/390/13814390-SNAPSHOT-m.png" group-title="Cine & Series", FX
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/34101.ts
 
-#EXTINF:-1 COMEDY CENTRAL tvg-id="ComedyCentral.mx" tvg-logo="https://www.izzigo.tv/images/ch/58/LOGO/m/0" group-title="Entretenimiento", COMEDY CENTRAL
+#EXTINF:-1 COMEDY CENTRAL tvg-id="ComedyCentral.mx" tvg-logo="https://www.izzigo.tv/images/repository/848/16414848-SNAPSHOT-m.jpg" group-title="Entretenimiento", COMEDY CENTRAL
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31318.ts
 
 #EXTINF:-1 HBO tvg-logo="https://beam-images.warnermediacdn.com/2024-03/hbo.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Cine & Series", HBO
@@ -303,7 +303,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 MTV 00s tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0" group-title="Musica", MTV 00s
 
-#EXTINF:-1 MTV tvg-id="MTV.mx" tvg-logo="https://www.izzigo.tv/images/ch/75/LOGO/m/0" group-title="Musica", MTV
+#EXTINF:-1 MTV tvg-id="MTV.mx" tvg-logo="https://www.izzigo.tv/images/repository/846/16414846-SNAPSHOT-m.jpg" group-title="Musica", MTV
 
 #EXTINF:-1 MTV HITS tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0" group-title="Musica", MTV HITS
 
