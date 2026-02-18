@@ -7,7 +7,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/39058.ts
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/4153345.jpg" group-title="Entretenimiento", IMAGEN TV  
-https://live.eu-north-1b.cf.dmcdn.net/sec2(zN9oR6K1tHb3iB4bbpJMjP3lfe6WpYdYdUdgTFgWlCJK3_c3SeDEPP4CQFOPeI6k0dHcc37wf5eWMioXAQlJ6y77qxEUGFAqr6GeCt2-dlEyMf9Rn5SRw5uNZgUadlGL)/dm/3/x96n7we/s/live-720.m3u8
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -44,7 +43,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 WOBI tvg-id="WorldofBusinessIdeas.mx" tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0" group-title="Noticias", WOBI
 
 #EXTINF:-1 CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0" group-title="Noticias", CANAL CATORCE
-https://hls.streamblue.mx/live/vsudx8gfoqh863eqk0fpi/chunks.m3u8?nimblesessionid=358088
 
 #EXTINF:-1 ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0" group-title="Infantil", ONCE NIÑOS
 
@@ -132,7 +130,6 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322780.ts
 #EXTINF:-1 UNIVERSAL REALITY tvg-id="UniversalReality.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/943093-8c.png" group-title="Cine & Series", UNIVERSAL REALITY
 
 #EXTINF:-1 PARAMOUNT CHANNEL tvg-id="ParamountChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/161/LOGO/m/0" group-title="Cine & Series", PARAMOUNT CHANNEL
-http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31122.ts
 
 #EXTINF:-1 E! tvg-id="EEntertainment.mx" tvg-logo="https://www.izzigo.tv/images/repository/055/16333055-SNAPSHOT-m.jpg" group-title="Entretenimiento", E!
 
@@ -150,7 +147,6 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31137.ts
 
 
 #EXTINF:-1 TELEMUNDO tvg-id="Telemundo.mx" tvg-logo="https://www.izzigo.tv/images/repository/057/13734057-SNAPSHOT-m.png" group-title="Entretenimiento", TELEMUNDO
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/repository/322/13875322-SNAPSHOT-m.png" group-title="Entretenimiento", UNICABLE
 
@@ -244,7 +240,6 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 
 
 #EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deportes",CLARO SPORTS 
-ttps://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
 
@@ -327,12 +322,11 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32340.ts
 #EXTINF:-1 TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0" group-title="Musica", TELEHIT URBANO
 
 #EXTINF:-1 TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0" group-title="Musica", TELEHIT +
-http://200.115.120.1:8000/play/ca048/index.m3u8
 
 #EXTINF:-1 BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0" group-title="Musica", BANDAMAX
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32666.ts
 
-#EXTINF:-1 VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://mega.mx/uploads/canales/VR_PLUS_HD.png" group-title="Musica", VIDEO ROLA
+#EXTINF:-1 VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://conciertos.videorola.com/assets/logo-Bqmn0AG0.png" group-title="Musica", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
 
 #EXTINF:-1 FOROTV tvg-id="ForoTv.mx" tvg-logo="https://www.izzigo.tv/images/repository/839/13748839-SNAPSHOT-m.png" group-title="Noticias", FOROTV 
