@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/master.m3u8
 
 #EXTINF:-1, IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Entretenimiento", IMAGEN TV  
-http://visitmy.collegefan.org:80/live/kelir2024/2639047158/775836.ts
+https://live.eu-north-1b.cf.dmcdn.net/sec2(zN9oR6K1tHb3iB4bbpJMjP3lfe6WpYdYdUdgTFgWlCJK3_c3SeDEPP4CQFOPeI6k0dHcc37wf5eWMioXAQlJ6y77qxEUGFAqr6GeCt2-dlEyMf9Rn5SRw5uNZgUadlGL)/dm/3/x96n7we/s/live-720.m3u8
 
 #EXTINF:-1, TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -44,6 +44,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1, WOBI tvg-id="WorldofBusinessIdeas.mx" tvg-logo="https://www.izzigo.tv/images/ch/127/LOGO/m/0" group-title="Noticias", WOBI
 
 #EXTINF:-1, CANAL CATORCE tvg-id="CanalCatorce.mx" tvg-logo="https://www.izzigo.tv/images/ch/31/LOGO/m/0" group-title="Noticias", CANAL CATORCE
+https://hls.streamblue.mx/live/vsudx8gfoqh863eqk0fpi/chunks.m3u8
 
 #EXTINF:-1, ONCE NIÑOS tvg-logo="https://www.izzigo.tv/images/ch/36/LOGO/m/0" group-title="Infantil", ONCE NIÑOS
 
