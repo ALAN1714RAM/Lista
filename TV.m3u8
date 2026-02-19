@@ -69,7 +69,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322824.ts
 #EXTINF:-1 DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/078/13807078-SNAPSHOT-m.png" group-title="Infantil", DISNEY CHANNEL
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33344.ts
 
-#EXTINF:-1 ADULT SWIM tvg-logo="" group-title="Infantil", ADULT SWIM
+#EXTINF:-1 ADULT SWIM tvg-logo="https://www.izzigo.tv/images/repository/841/16444841-SNAPSHOT-m.jpg" group-title="Infantil", ADULT SWIM
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322829.ts
 
 #EXTINF:-1 DISNEY JR tvg-id="DisneyJunior.mx" tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0" group-title="Infantil", DISNEY JR
@@ -158,7 +158,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31130.ts
 
 #EXTINF:-1 LIFETIME tvg-id="Lifetime.mx" tvg-logo="https://www.izzigo.tv/images/repository/053/16333053-SNAPSHOT-m.jpg" group-title="Entretenimiento", LIFETIME
 
-#EXTINF:-1 PASIONES tvg-id="Pasiones.us" tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Entretenimiento", PASIONES
+#EXTINF:-1 PASIONES tvg-id="Pasiones.us" tvg-logo="https://tvpasiones.com/wp-content/uploads/sites/3/2025/04/Logo_PASIONES_light.png" group-title="Entretenimiento", PASIONES
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/446282.ts
 
 #EXTINF:-1 DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/repository/082/13807082-SNAPSHOT-m.png" group-title="Entretenimiento", DISTRITO COMEDIA 
