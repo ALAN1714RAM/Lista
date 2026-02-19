@@ -7,6 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/39058.ts
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/4153345.jpg" group-title="Entretenimiento", IMAGEN TV  
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/156340.ts
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
@@ -48,7 +49,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 
 #EXTINF:-1 TOONCAST tvg-logo="https://www.izzigo.tv/images/ch/113/LOGO/m/0" group-title="Infantil", TOONCAST
-
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322831.ts
 
 #EXTINF:-1 DISCOVERY KIDS tvg-id="DiscoveryKids.mx" tvg-logo="https://www.izzigo.tv/images/repository/391/16388391-SNAPSHOT-m.jpg" group-title="Infantil", DISCOVERY KIDS
 
@@ -57,18 +58,19 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 
 #EXTINF:-1 NICK tvg-id="Nickelodeon.mx" tvg-logo="https://www.izzigo.tv/images/repository/030/16838030-SNAPSHOT-m.jpg" group-title="Infantil", NICK
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31119.ts
 
 #EXTINF:-1 DISNEY XD tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/fc733b59-b914-4a33-bbf6-adc3c151d9e9.png" group-title="Infantil", DISNEY XD
 
 
 #EXTINF:-1 CARTOON NETWORK tvg-id="CartoonNetwork.mx"" tvg-logo="https://www.izzigo.tv/images/repository/081/16333081-SNAPSHOT-l.jpg" group-title="Infantil", CARTOON NETWORK
-
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322824.ts
 
 #EXTINF:-1 DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/078/13807078-SNAPSHOT-m.png" group-title="Infantil", DISNEY CHANNEL
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33344.ts
 
-
-#EXTINF:-1 BOOMERANG tvg-logo="https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/6ea613ad-7a69-4f83-82a5-7877c0b1b8e1.png" group-title="Infantil", BOOMERANG
-
+#EXTINF:-1 ADULT SWIM tvg-logo="" group-title="Infantil", ADULT SWIM
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322829.ts
 
 #EXTINF:-1 DISNEY JR tvg-id="DisneyJunior.mx" tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0" group-title="Infantil", DISNEY JR
 
@@ -132,6 +134,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322780.ts
 #EXTINF:-1 PARAMOUNT CHANNEL tvg-id="ParamountChannel.mx" tvg-logo="https://www.izzigo.tv/images/ch/161/LOGO/m/0" group-title="Cine & Series", PARAMOUNT CHANNEL
 
 #EXTINF:-1 E! tvg-id="EEntertainment.mx" tvg-logo="https://www.izzigo.tv/images/repository/055/16333055-SNAPSHOT-m.jpg" group-title="Entretenimiento", E!
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33506.ts
 
 #EXTINF:-1 USA tvg-id="" tvg-logo="https://www.izzigo.tv/images/repository/055/16838055-SNAPSHOT-m.jpg" group-title="Cine & Series", USA
 
@@ -147,6 +150,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31137.ts
 
 
 #EXTINF:-1 TELEMUNDO tvg-id="Telemundo.mx" tvg-logo="https://www.izzigo.tv/images/repository/057/13734057-SNAPSHOT-m.png" group-title="Entretenimiento", TELEMUNDO
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31130.ts
 
 #EXTINF:-1 UNICABLE tvg-id="Unicable.mx" tvg-logo="https://www.izzigo.tv/images/repository/322/13875322-SNAPSHOT-m.png" group-title="Entretenimiento", UNICABLE
 
@@ -155,6 +159,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31137.ts
 #EXTINF:-1 LIFETIME tvg-id="Lifetime.mx" tvg-logo="https://www.izzigo.tv/images/repository/053/16333053-SNAPSHOT-m.jpg" group-title="Entretenimiento", LIFETIME
 
 #EXTINF:-1 PASIONES tvg-id="Pasiones.us" tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Entretenimiento", PASIONES
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/446282.ts
 
 #EXTINF:-1 DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/repository/082/13807082-SNAPSHOT-m.png" group-title="Entretenimiento", DISTRITO COMEDIA 
 
@@ -162,7 +167,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31137.ts
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33980.ts
 
 #EXTINF:-1 SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/061/16838061-SNAPSHOT-m.jpg" group-title="Cine & Series", SONY
-https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32339.ts
 
 #EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.izzigo.tv/images/repository/058/13734058-SNAPSHOT-m.png" group-title="Cine & Series", WARNER 
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32510.ts
@@ -196,6 +201,7 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33740.ts
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33789.ts
 
 #EXTINF:-1 ESPN 4 tvg-logo="https://www.izzigo.tv/images/repository/817/16639817-SNAPSHOT-m.jpg" group-title="Deportes", ESPN 4
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/33507.ts
 
 #EXTINF:-1 DIREC TV SPORTS tvg-logo="https://dsports-widgets-dev.tbxnet.com/assets/images/channels/1610.png" group-title="Deportes", DIRECTV SPORTS
 
@@ -240,6 +246,7 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 
 
 #EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deportes",CLARO SPORTS 
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31317.ts
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
 
@@ -261,10 +268,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 DISCOVERY CHANNEL tvg-id="DiscoveryChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/069/16333069-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", DISCOVERY CHANNEL 
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322818.ts
 
 #EXTINF:-1 ANIMAL PLANET tvg-id="AnimalPlanet.mx" tvg-logo="https://www.izzigo.tv/images/repository/070/16333070-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", ANIMAL PLANET
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/32513.ts
 
 #EXTINF:-1 HISTORY tvg-id="HistoryChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/068/16333068-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", HISTORY
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/393587.ts
 
 #EXTINF:-1 HISTORY 2 tvg-id="History2.mx" tvg-logo="https://www.izzigo.tv/images/repository/067/16333067-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", HISTORY 2
 
@@ -276,6 +286,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 DISCOVERY THEATER tvg-id="DiscoveryTheater.mx" tvg-logo="https://www.izzigo.tv/images/ch/300/LOGO/m/0" group-title="Mundo & Cultura", DISCOVERY THEATER
 
 #EXTINF:-1 H&H tvg-id="DiscoveryHomeHealth.mx" tvg-logo="https://www.izzigo.tv/images/repository/050/16333050-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", H&H
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322817.ts
 
 #EXTINF:-1 FOOD NETWORK tvg-logo="https://www.izzigo.tv/images/repository/386/13814386-SNAPSHOT-m.png" group-title="Mundo & Cultura", FOOD NETWORK
 
@@ -298,6 +309,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 DISCOVERY INVESTIGATION tvg-id="InvestigationDiscovery.mx" tvg-logo="https://www.izzigo.tv/images/repository/048/16333048-SNAPSHOT-m.jpg" group-title="Mundo & Cultura",DISCOVERY INVESTIGATION 
 
 #EXTINF:-1 DISCOVERY TURBO tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-logo="https://www.izzigo.tv/images/repository/066/16333066-SNAPSHOT-m.jpg" group-title="Mundo & Cultura", DISCOVERY TURBO
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/322816.ts
 
 #EXTINF:-1 MTV LIVE tvg-id="MTVLive.us" tvg-logo="https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png" group-title="Musica", MTV LIVE
 
