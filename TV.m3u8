@@ -255,8 +255,8 @@ http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/31317.ts
 #EXTINF:-1 RED BULL TV tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Deportes", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 FUEL TV tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425239-8c.png" group-title="Deportes", FUEL TV
-
+#EXTINF:-1 UFC FIGHT NIGHT tvg-logo="https://www.izzigo.tv/images/repository/755/19385755-SNAPSHOT-m.jpeg" group-title="Deportes", UFC FIGHT NIGHT
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/525170.ts
 
 #EXTINF:-1 ADRENALINA SPORTS tvg-id="AdrenalinaSportsNetwork.us" tvg-logo="https://www.izzigo.tv/images/ch/145/LOGO/m/0" group-title="Deportes", ADRENALINA SPORTS
 
