@@ -238,6 +238,7 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://www.izzigo.tv/images/repository/995/16713995-SNAPSHOT-m.jpg" group-title="Deportes", SKY SPORTS
 
 #EXTINF:-1 FIFA+ Roku tvg-logo="https://www.samsungtvplus.com/img/homepage/desktop/M5/2-Sports/3-FIFA.png" group-title="Deportes", FIFA+ Roku
+https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/4f678c6e1780423c9beaa360c1a74d72/live_1080.m3u8
 
 #EXTINF:-1 FOX ONE tvg-id="" tvg-logo="https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png" group-title="Deportes", FOX ONE
 http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/523654.ts
