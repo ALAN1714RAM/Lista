@@ -239,8 +239,11 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 FIFA+ Roku tvg-logo="https://www.samsungtvplus.com/img/homepage/desktop/M5/2-Sports/3-FIFA.png" group-title="Deportes", FIFA+ Roku
 
-#EXTINF:-1 AYM SPORTS tvg-id="AyMSports.mx" tvg-logo="https://www.izzigo.tv/images/repository/948/18050948-SNAPSHOT-m.jpg" group-title="Deportes", AYM SPORTS
+#EXTINF:-1 FOX ONE tvg-id="" tvg-logo="https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png" group-title="Deportes", FOX ONE
+http://app.tecnomolly.com:8080/live/Lesliewilliams/cvVwUpV2yhsr/523654.ts
 
+#EXTINF:-1 FOX (TUBI) tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/G7q5tQjIMphSBw==/df0c23d5-c4d5-4aaf-98a3-e4063ed2e806/CNcHEKgEOgUxLjEuOQ==" group-title="Deportes", FOX (TUBI)
+https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H/1280x720.m3u8?ap.debug=0&ap.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS8zNTU1N2JiOS03Yzk0LTQwZWEtODVmNy1jOTRkODUyZjgzNzQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVRWZ2lMQ0prWlhacFkyVmZhV1FpT2lJMVpUa3pOV0V3TmkweVlqTTFMVFJoWlRrdE9EWXhZUzA0TkRSaU56QXlObU13T1RjaUxDSmxlSEFpT2pFM056TTFNelUxTmpVc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5OHdZMkZrTkRBM05DMDROell5TFRRMVlqZ3RPVGt6WkMwNE9EUmxPVFpoWlRrd09EWXZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkueU9VbU9aNUtmODZJUlpXa0JkelVHdDVPaUcxYWl4TGNrV2F3RnZFQnI5c3pDUkNDTDhsaVF0M3ZGcHNPeGdudFlIZTJQcHExSndTQWlCaUJIenRNNWcmdGIuc2lkPTJiNzBhNmE5LTIxMGEtNDRkMy05ZTVmLWI2OTMyZTBjMjA2Mw&ap.furl=0&ap.pt=2&ap.sid=8e095df0-784b-4812-96ea-d320a4cc112a&ap.skip_fallback=0&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000122&content_type=mp4&device_id=5e935a06-2b35-4ae9-861a-844b7026c097&gdpr=0&language=es&now_pos=0&platform=WEB&playback_start_ts=1773276370&pub_id=21f12146acbab325bb229e55010b88c3&tb.sid=36e0eb1a-fc9a-4aad-90fc-1c41ded7b811&vpaid_enabled=false&ap.c=Cohort-2&ap.ss=260fc3dcaffe1d7304602d0d14788012
 
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
