@@ -1,0 +1,43 @@
+name: Renovar Streams Roku
+
+on:
+  schedule:
+    # Cada 5 horas (los tokens duran ~6 horas)
+    - cron: '0 */5 * * *'
+  workflow_dispatch:
+    # También permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Renovar tokens de Roku
+        env:
+          M3U_PATH: TV.m3u8
+        run: python scripts/renovar.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions - Roku Renovador"
+          git add TV.m3u8
+          if git diff --staged --quiet; then
+            echo "Sin cambios en el archivo M3U8"
+          else
+            git commit -m "🔄 Auto-renovar streams Roku [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
