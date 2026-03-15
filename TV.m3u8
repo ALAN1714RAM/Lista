@@ -358,4 +358,5 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1 BLOOMBERG tvg-id="BloombergTV.mx" tvg-logo="https://www.izzigo.tv/images/repository/385/13814385-SNAPSHOT-m.png" group-title="Noticias", BLOOMBERG
 
-#EXTINF:-1 BOYKA tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/6rClbEKTWZtIdzapKwqhRpGHbr8.jpg" group-title="MOVIES", BOYKA
+#EXTINF:-1 CUMBRES BORRASCOSAS tvg-id="" tvg-logo="https://media.themoviedb.org/t/p/w533_and_h300_face/q9HfulM3OCTCjTbR3X39HQrdMVp.jpg" group-title="MOVIES", CUMBRES BORRASCOSAS
+http://xpaneltv.com:8080/movie/FreyPerz/86532479/378635.mkv
