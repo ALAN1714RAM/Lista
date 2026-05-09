@@ -333,10 +333,10 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0" group-title="Musica", TELEHIT URBANO
 
-#EXTINF:-1 TELEHIT + tvg-logo="https://www.izzigo.tv/images/ch/293/LOGO/m/0" group-title="Musica", TELEHIT +
+#EXTINF:-1 TELEHIT + tvg-logo="https://images.vix.com/prd/channel-landscape/674e477233b21a8ba6cb3343/1fb2da00541b3f04ea6c5f6a27e566a8?tr=w-350,ar-16-9,q-30" group-title="Musica", TELEHIT +
 http://sinlimitestv.com:8080/live/z43BcTvGSX/mcGcdMuRWt/219529.m3u8
 
-#EXTINF:-1 BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://www.izzigo.tv/images/ch/79/LOGO/m/0" group-title="Musica", BANDAMAX
+#EXTINF:-1 BANDAMAX tvg-id="Bandamax.mx" tvg-logo="https://images.vix.com/prd/channel-landscape/6740bb41e6ac7da20fdd8500/9e2d14c748666673125c2ea5ebb51690?tr=w-350,ar-16-9,q-30" group-title="Musica", BANDAMAX
 http://sinlimitestv.com:8080/live/z43BcTvGSX/mcGcdMuRWt/165470.m3u8
 
 #EXTINF:-1 VIDEO ROLA tvg-id="VideoRola.mx" tvg-logo="https://conciertos.videorola.com/assets/logo-Bqmn0AG0.png" group-title="Musica", VIDEO ROLA
