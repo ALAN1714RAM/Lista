@@ -230,7 +230,7 @@ http://sinlimitestv.com:8080/live/z43BcTvGSX/mcGcdMuRWt/207757.m3u8
 #EXTINF:-1 TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/repository/977/13389977-SNAPSHOT-m.png" group-title="Deportes", TUDN
 http://sinlimitestv.com:8080/live/z43BcTvGSX/mcGcdMuRWt/219470.m3u8
 
-#EXTINF:-1 TNT SPORTS Premium tvg-logo="https://assets.tntsports.cl/arte/logo_tntsports_premium_blanco_new.svg" group-title="Deportes", TNT SPORTS Premium
+#EXTINF:-1 TNT SPORTS Premium tvg-logo="https://assets.tntsports.cl/arte/logo_tntsports_premium_color_new.svg" group-title="Deportes", TNT SPORTS Premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://www.izzigo.tv/images/repository/995/16713995-SNAPSHOT-m.jpg" group-title="Deportes", SKY SPORTS
