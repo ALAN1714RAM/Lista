@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:-1 AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/repository/277/13781277-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117609.m3u8
 
 #EXTINF:-1 LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/repository/066/16838066-SNAPSHOT-m.jpg" group-title="Entretenimiento", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -19,7 +19,7 @@ http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117655.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/repository/316/13781316-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117605.m3u8
 
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -247,7 +247,8 @@ https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
 
-#EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/clarosportsmx/heroes/featured-offer-tile_1920x1080._CB803137876_UR1920,1080_SX374_FMavif_PQ55_.jpg" group-title="Deportes",CLARO SPORTS 
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
 
