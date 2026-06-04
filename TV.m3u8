@@ -236,12 +236,12 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117739.m3u8
 
 #EXTINF:-1 FIFA+ Roku tvg-logo="https://www.samsungtvplus.com/img/homepage/desktop/M5/2-Sports/3-FIFA.png" group-title="Deportes", FIFA+ Roku
-
+https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3u8?
 
 #EXTINF:-1 FOX ONE tvg-id="" tvg-logo="https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png" group-title="Deportes", FOX ONE
 
 #EXTINF:-1 FOX (TUBI) tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/G7q5tQjIMphSBw==/df0c23d5-c4d5-4aaf-98a3-e4063ed2e806/CNcHEKgEOgUxLjEuOQ==" group-title="Deportes", FOX (TUBI)
-https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
 
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
