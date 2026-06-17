@@ -190,6 +190,9 @@ http://app.tecnomolly.com:8080/live/ce2025/7Y4STv6xPXG3/322821.m3u8
 
 #EXTINF:-1 A3SERIES tvg-id="Atreseries.es" tvg-logo="https://www.izzigo.tv/images/repository/404/16388404-SNAPSHOT-m.jpg" group-title="Entretenimiento", A3SERIES
 
+#EXTINF:-1 TELEMUNDO MUNDIAL 2026 tvg-id="Telemundo.mx" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-07/Slate-Telemundo-Deportes-Ahora-0bd079.png" group-title="Deportes", TELEMUNDO MUNDIAL 2026
+http://app.tecnomolly.com:8080/live/ce2025/7Y4STv6xPXG3/403166.m3u8
+
 #EXTINF:-1 ESPN tvg-id="ESPN.mx" tvg-logo="https://www.izzigo.tv/images/repository/918/16423918-SNAPSHOT-m.jpg" group-title="Deportes", ESPN
 http://app.tecnomolly.com:8080/live/ce2025/7Y4STv6xPXG3/37182.m3u8
 
@@ -248,7 +251,7 @@ https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
 
-#EXTINF:-1 Claro Sports tvg-id="ClaroSports" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/clarosportsmx/heroes/featured-offer-tile_1920x1080._CB803137876_UR1920,1080_SX374_FMavif_PQ55_.jpg" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 CLARO SPORTS tvg-id="ClaroSports" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/clarosportsmx/heroes/featured-offer-tile_1920x1080._CB803137876_UR1920,1080_SX374_FMavif_PQ55_.jpg" group-title="Deportes",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
