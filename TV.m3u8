@@ -15,7 +15,7 @@ https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/repository/281/13781281-SNAPSHOT-m.png" group-title="Entretenimiento", CANAL 5
 http://vodlat.top:80/live/FE994517323RM/fernandocruz23/527862.m3u8
 
-#EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://www.izzigo.tv/images/ch/417/LOGO/m/0" group-title="Entretenimiento", MULTIMEDIOS
+#EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://play-lh.googleusercontent.com/Jy2Y5D0QukFkT5-cqivjWxGfnbCeM4cB5si71GAbhXTjqBk1OTu5JefyUqL1kPUemS--ZgP_vcyIaMpnQZ5q7w=w416-h235-rw" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/repository/316/13781316-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA 7 
@@ -32,7 +32,7 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 #EXTINF:-1 ONCE tvg-id="CanalOnce.mx" tvg-logo="https://canalonce.mx/REST/data/images/canalonce-logo-350x150.webp" group-title="Noticias", ONCE
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
-#EXTINF:-1 DW tvg-logo="https://image.roku.com/developer_channels/prod/4bb1819b128ad6e3b083477ed175e96a93ff0dd67407114066057c1e6dec3add.png" group-tittle="Noticias", DW
+#EXTINF:-1 DW tvg-logo="https://play-lh.googleusercontent.com/CCMvQ651uvgijHnBEsmWRdQyEFH-Xx0mvhexEmJC7vzM4v0l6A_Ko9-LbDVYT9pYiSiNnuWb3jmk1gACB2R-Kg=w416-h235-rw" group-tittle="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png" group-title="Old Movies", A+
@@ -241,7 +241,7 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 FIFA+ Roku tvg-logo="https://www.samsungtvplus.com/img/homepage/desktop/M5/2-Sports/3-FIFA.png" group-title="Deportes", FIFA+ Roku
 
 
-#EXTINF:-1 FOX ONE tvg-id="" tvg-logo="https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png" group-title="Deportes", FOX ONE
+#EXTINF:-1 FOX ONE tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/u6KUgKFB7TMo_VxUIibyZd3oLdErNuCGR4egsIXtezVentw0IkS_ZgOPqh01Dzox8TUspJLe3Nx3pg9oYkQh=w416-h235-rw" group-title="Deportes", FOX ONE
 
 #EXTINF:-1 FOX (TUBI) tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/G7q5tQjIMphSBw==/df0c23d5-c4d5-4aaf-98a3-e4063ed2e806/CNcHEKgEOgUxLjEuOQ==" group-title="Deportes", FOX (TUBI)
 https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3u8?
@@ -249,14 +249,14 @@ https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
 
-#EXTINF:-1 CLARO SPORTS tvg-id="ClaroSports" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 CLARO SPORTS tvg-id="ClaroSports" tvg-logo="https://play-lh.googleusercontent.com/EoaWir-rCz0szYbw1IKAo7Ser5E0QHa_rIbN72TB0lHkphsZgB9nxHSdl5gvwc_kSGuIf7ooWm5fSv4CMZjGo0w=w416-h235-rw" group-title="Deportes",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
 
 #EXTINF:-1 BEIN SPORTS tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100" group-title="Deportes", BEIN SPORTS
 
-#EXTINF:-1 RED BULL TV tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="Deportes", RED BULL TV
+#EXTINF:-1 RED BULL TV tvg-logo="https://play-lh.googleusercontent.com/sNB2I_HgxR_9R1ryyKc_UiW-Wl8yMKGMFWcGXFtZcezn6isIR--7Up_DaFt4xxNB7eiRnI0pbVfXA56OVdKdYA=w416-h235-rw" group-title="Deportes", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 UFC FIGHT NIGHT tvg-logo="" group-title="Deportes", UFC FIGHT NIGHT
