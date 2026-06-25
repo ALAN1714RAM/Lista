@@ -32,7 +32,7 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 #EXTINF:-1 ONCE tvg-id="CanalOnce.mx" tvg-logo="https://canalonce.mx/REST/data/images/canalonce-logo-350x150.webp" group-title="Noticias", ONCE
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
-#EXTINF:-1 DW tvg-logo="https://www.izzigo.tv/images/ch/97/LOGO/m/0" group-tittle="Noticias", DW
+#EXTINF:-1 DW tvg-logo="https://image.roku.com/developer_channels/prod/4bb1819b128ad6e3b083477ed175e96a93ff0dd67407114066057c1e6dec3add.png" group-tittle="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 A+ tvg-id="APlus.mx" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online.png" group-title="Old Movies", A+
@@ -256,7 +256,7 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 BEIN SPORTS tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100" group-title="Deportes", BEIN SPORTS
 
-#EXTINF:-1 RED BULL TV tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Deportes", RED BULL TV
+#EXTINF:-1 RED BULL TV tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="Deportes", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 UFC FIGHT NIGHT tvg-logo="" group-title="Deportes", UFC FIGHT NIGHT
