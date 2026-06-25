@@ -29,7 +29,7 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="Noticias", CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 ONCE tvg-id="CanalOnce.mx" tvg-logo="https://www.izzigo.tv/images/ch/22/LOGO/m/0" group-title="Noticias", ONCE
+#EXTINF:-1 ONCE tvg-id="CanalOnce.mx" tvg-logo="https://canalonce.mx/REST/data/images/canalonce-logo-350x150.webp" group-title="Noticias", ONCE
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
 #EXTINF:-1 DW tvg-logo="https://www.izzigo.tv/images/ch/97/LOGO/m/0" group-tittle="Noticias", DW
@@ -69,7 +69,7 @@ http://23.153.217.158:8080/live/947493065tv/9kzeam7/59446.m3u8
 #EXTINF:-1 DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/078/13807078-SNAPSHOT-m.png" group-title="Infantil", DISNEY CHANNEL
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/59539.m3u8
 
-#EXTINF:-1 ADULT SWIM tvg-logo="https://www.izzigo.tv/images/repository/841/16444841-SNAPSHOT-m.jpg" group-title="Infantil", ADULT SWIM
+#EXTINF:-1 ADULT SWIM tvg-logo="https://beam-images.warnermediacdn.com/2024-03/adult_swim.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Infantil", ADULT SWIM
 http://vodlat.top:80/live/FE994517323RM/fernandocruz23/527959.m3u8
 
 #EXTINF:-1 DISNEY JR tvg-id="DisneyJunior.mx" tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0" group-title="Infantil", DISNEY JR
@@ -233,7 +233,7 @@ http://dejatedemamadas.neospaxy.top:8080/live/8971737488381660/975f14a02cc5/5260
 #EXTINF:-1 TUDN tvg-id="TUDN.mx" tvg-logo="https://www.izzigo.tv/images/repository/977/13389977-SNAPSHOT-m.png" group-title="Deportes", TUDN
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/553.m3u8
 
-#EXTINF:-1 TNT SPORTS Premium tvg-logo="https://assets.tntsports.cl/arte/logo_tntsports_premium_color_new.svg" group-title="Deportes", TNT SPORTS Premium
+#EXTINF:-1 TNT SPORTS Premium tvg-logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/69664cda81ceda4a9ddd783c_tnt-sports-premium-zp-landing-logo.webp" group-title="Deportes", TNT SPORTS Premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:-1 SKY SPORTS tvg-id="SkySports1.mx" tvg-logo="https://www.izzigo.tv/images/repository/995/16713995-SNAPSHOT-m.jpg" group-title="Deportes", SKY SPORTS
@@ -249,7 +249,7 @@ https://apollo-eks.production-public.tubi.io/live/fox-en-tubi-dynamic3-P0HK5U.m3
 #EXTINF:-1 TVC DEPORTEStvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416567-8c.png" group-title="Deportes", TVC DEPORTES
 
 
-#EXTINF:-1 CLARO SPORTS tvg-id="ClaroSports" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/clarosportsmx/heroes/featured-offer-tile_1920x1080._CB803137876_UR1920,1080_SX374_FMavif_PQ55_.jpg" group-title="Deportes",CLARO SPORTS 
+#EXTINF:-1 CLARO SPORTS tvg-id="ClaroSports" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes",CLARO SPORTS 
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 AFIZZIONADOS tvg-id="Afizzionados.mx" tvg-logo="https://www.izzigo.tv/images/ch/1140/LOGO/m/0" group-title="Deportes", AFIZZIONADOS
@@ -331,7 +331,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 HAVOC  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416677-8c.png" group-title="Musica", HAVOC
 
 
-#EXTINF:-1 TELEHIT tvg-id="TelehitHD.mx" tvg-logo="https://www.izzigo.tv/images/ch/74/LOGO/m/0" group-title="Musica", TELEHIT 
+#EXTINF:-1 TELEHIT tvg-id="TelehitHD.mx" tvg-logo="https://images.vix.com/prd/channel-landscape/67408534e6ac7da20fdd8401/c6ed444c1c8f8a53680cba6c2f08be43?tr=w-350,ar-16-9,q-30" group-title="Musica", TELEHIT 
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/59510.m3u8
 
 #EXTINF:-1 TELEHIT URBANO tvg-id="" tvg-logo="https://www.izzigo.tv/images/ch/77/LOGO/m/0" group-title="Musica", TELEHIT URBANO
@@ -351,7 +351,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 MILENIO tvg-id="MilenioTelevision.mx" tvg-logo="https://www.izzigo.tv/images/ch/25/LOGO/m/0" group-title="Noticias", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 RT tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png" group-title="Noticias", RT
+#EXTINF:-1 RT tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1 FRANCIA 24 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="Noticias", FRANCIA 24
