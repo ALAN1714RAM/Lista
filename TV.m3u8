@@ -13,7 +13,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388696.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://www.izzigo.tv/images/repository/281/13781281-SNAPSHOT-m.png" group-title="Entretenimiento", CANAL 5
-http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/834955.m3u8
+http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388681.m3u8
 
 #EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://play-lh.googleusercontent.com/Jy2Y5D0QukFkT5-cqivjWxGfnbCeM4cB5si71GAbhXTjqBk1OTu5JefyUqL1kPUemS--ZgP_vcyIaMpnQZ5q7w=w416-h235-rw" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -102,7 +102,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388694.m3u8
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/2769.m3u8
 
 #EXTINF:-1 TNT tvg-id="TNTMexico.mx" tvg-logo="https://www.izzigo.tv/images/repository/338/13781338-SNAPSHOT-m.png" group-title="Cine & Series", TNT
-http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388711.m3u8
+http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388755.m3u8
 
 #EXTINF:-1 SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/repository/063/16333063-SNAPSHOT-m.jpg" group-title="Cine & Series", SPACE
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388724.m3u8
@@ -174,7 +174,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388783.m3u8
 #EXTINF:-1 UNIVERSAL tvg-id="UniversalChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/060/13734060-SNAPSHOT-m.png" group-title="Cine & Series", UNIVERSAL
 
 #EXTINF:-1 FX tvg-id="FX.mx" tvg-logo="https://www.izzigo.tv/images/repository/390/13814390-SNAPSHOT-m.png" group-title="Cine & Series", FX
-http://23.153.217.158:8080/live/947493065tv/9kzeam7/59395.m3u8
+http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388692.m3u8
 
 #EXTINF:-1 COMEDY CENTRAL tvg-id="ComedyCentral.mx" tvg-logo="https://www.izzigo.tv/images/repository/848/16414848-SNAPSHOT-m.jpg" group-title="Entretenimiento", COMEDY CENTRAL
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/59568.m3u8
