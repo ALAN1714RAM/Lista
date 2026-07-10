@@ -18,7 +18,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388681.m3u8
 #EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1614b9f1aa5d53c290c3d6dd966826aa/rokuFeed/assets/04a21cd1a32f57c39500cb70ef077b8b.jpg/magic/fit-in/440x480" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://www.izzigo.tv/images/repository/316/13781316-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA 7 
+#EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/a15cb49/2147483647/strip/true/crop/960x342+0+0/resize/1347x480!/format/webp/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Fcd%2F7a%2Faeb0dff24379ae171de6323598d2%2Faztecasiete-1032x368-2.webp" group-title="Entretenimiento", AZTECA 7 
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1457749.m3u8
 
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
@@ -69,7 +69,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388766.m3u8
 #EXTINF:-1 DISNEY CHANNEL tvg-id="DisneyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/078/13807078-SNAPSHOT-m.png" group-title="Infantil", DISNEY CHANNEL
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1457771.m3u8
 
-#EXTINF:-1 ADULT SWIM tvg-logo="https://beam-images.warnermediacdn.com/2024-03/adult_swim.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Infantil", ADULT SWIM
+#EXTINF:-1 ADULT SWIM tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/30017808.jpg" group-title="Infantil", ADULT SWIM
 
 #EXTINF:-1 DISNEY JR tvg-id="DisneyJunior.mx" tvg-logo="https://www.izzigo.tv/images/ch/112/LOGO/m/0" group-title="Infantil", DISNEY JR
 
@@ -118,7 +118,7 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1457743.m3u8
 #EXTINF:-1 CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/repository/762/18089762-SNAPSHOT-m.jpg" group-title="Cine & Series", CINECANAL
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1457758.m3u8
 
-#EXTINF:-1 CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://www.izzigo.tv/images/ch/159/LOGO/m/0" group-title="Cine & Series", CINEMAX
+#EXTINF:-1 CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg" group-title="Cine & Series", CINEMAX
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388780.m3u8
 #EXTINF:-1 UNIVERSAL PREMIER tvg-id="UniversalPremiere.mx" tvg-logo="https://www.izzigo.tv/images/repository/521/13830521-SNAPSHOT-m.png" group-title="Cine & Series", UNIVERSAL PREMIER
 
@@ -162,13 +162,13 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/500859.m3u8
 
 #EXTINF:-1 DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/repository/082/13807082-SNAPSHOT-m.png" group-title="Entretenimiento", DISTRITO COMEDIA 
 
-#EXTINF:-1 STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://mega.mx/uploads/canales/STAR_CHANNEL_HD.png" group-title="Cine & Series", STAR CHANNEL
+#EXTINF:-1 STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg" group-title="Cine & Series", STAR CHANNEL
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1422416.m3u8
 
 #EXTINF:-1 SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/061/16838061-SNAPSHOT-m.jpg" group-title="Cine & Series", SONY
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388785.m3u8
 
-#EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://mega.mx/uploads/canales/WARNER_CHANNEL.jpg" group-title="Cine & Series", WARNER 
+#EXTINF:-1 WARNER tvg-id="WarnerChannel.mx" tvg-id="WarnerChannelMexico.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1991260896.jpg" group-title="Cine & Series", WARNER 
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388783.m3u8
 
 #EXTINF:-1 UNIVERSAL tvg-id="UniversalChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/060/13734060-SNAPSHOT-m.png" group-title="Cine & Series", UNIVERSAL
@@ -179,10 +179,10 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388692.m3u8
 #EXTINF:-1 COMEDY CENTRAL tvg-id="ComedyCentral.mx" tvg-logo="https://www.izzigo.tv/images/repository/848/16414848-SNAPSHOT-m.jpg" group-title="Entretenimiento", COMEDY CENTRAL
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/59568.m3u8
 
-#EXTINF:-1 HBO tvg-logo="https://beam-images.warnermediacdn.com/2024-03/hbo.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Cine & Series", HBO
+#EXTINF:-1 HBO tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901354.jpg" group-title="Cine & Series", HBO
 http://23.153.217.158:8080/live/947493065tv/9kzeam7/141.m3u8
 
-#EXTINF:-1 HBO 2 tvg-id="HBO2.mx" tvg-logo="https://www.izzigo.tv/images/ch/167/LOGO/m/0" group-title="Cine & Series", HBO 2
+#EXTINF:-1 HBO 2 tvg-id="HBO2.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1947707939.jpg" group-title="Cine & Series", HBO 2
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388728.m3u8
 
 #EXTINF:-1 HBO PLUS tvg-id="HBOPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/170/LOGO/m/0" group-title="Cine & Series", HBO PLUS
