@@ -188,7 +188,8 @@ http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388728.m3u8
 #EXTINF:-1 HBO PLUS tvg-id="HBOPlus.mx" tvg-logo="https://www.izzigo.tv/images/ch/170/LOGO/m/0" group-title="Cine & Series", HBO PLUS
 http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/388717.m3u8
 
-#EXTINF:-1 A3SERIES tvg-id="Atreseries.es" tvg-logo="https://www.izzigo.tv/images/repository/404/16388404-SNAPSHOT-m.jpg" group-title="Entretenimiento", A3SERIES
+#EXTINF:-1 UFC tvg-id="" tvg-logo="https://wwwimage-intl.pplusstatic.com/thumbnails/photos/w600-q80/pplcrn/2026/02/13/19943bc4-0d75-45aa-af8c-064f890e37be.jpg?format=webp" group-title="Deportes", UFC
+http://liontv.es:8080/live/ReneLatino30/ycvgQuW5zV/1995669.m3u8
 
 #EXTINF:-1 TELEMUNDO MUNDIAL 2026 tvg-id="Telemundo.mx" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-07/Slate-Telemundo-Deportes-Ahora-0bd079.png" group-title="Deportes", TELEMUNDO MUNDIAL 2026
 http://cord-cutter.net:8080/live/michael.oharran@gmail.com/michael.oharran@2023/325876.m3u8
