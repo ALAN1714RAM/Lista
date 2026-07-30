@@ -7,13 +7,13 @@ http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/450325.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 IMAGEN TV tvg-id="ImagenTV.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/4153345.jpg" group-title="Entretenimiento", IMAGEN TV  
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/450946.m3u8
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
 #EXTINF:-1 TV LOBO tvg-logo="http://www.tvlobo.com/tvloboheader.png" group-title="Noticias", TV LOBO
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://images.vix.com/prd/channel-landscape/674613dd2e9f4d975c193012/59ded107912e23885d4afb48e1e2bffb?tr=w-350,ar-16-9,q-30" group-title="Entretenimiento", CANAL 5
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/450938.m3u8
+http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/362413.m3u8
 
 #EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1614b9f1aa5d53c290c3d6dd966826aa/rokuFeed/assets/04a21cd1a32f57c39500cb70ef077b8b.jpg/magic/fit-in/440x480" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -89,12 +89,13 @@ http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/362410.m3u8
 http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/317516.m3u8
 
 #EXTINF:-1 GOLDEN + tvg-id="GoldenPlus.mx" tvg-logo="https://www.izzigo.tv/images/repository/395/13814395-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN +
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
 
 #EXTINF:-1 GOLDEN tvg-id="Golden.mx" tvg-logo="https://www.izzigo.tv/images/repository/393/13814393-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/1287.m3u8
+http://38.19.41.46:8081/MTV/index.m3u8
 
 #EXTINF:-1 GOLDEN EDGE tvg-id="GoldenEdge.mx" tvg-logo="https://www.izzigo.tv/images/repository/394/13814394-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN EDGE
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/53940.m3u8
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 
 #EXTINF:-1 GOLDEN PREMIER tvg-id="" tvg-logo="https://www.izzigo.tv/images/repository/981/13389981-SNAPSHOT-m.png" group-title="Cine & Series", GOLDEN PREMIER
 http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/1293.m3u8
