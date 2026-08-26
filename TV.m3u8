@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:-1 AZTECA UNO tvg-id="AztecaUno.mx" tvg-logo="https://www.izzigo.tv/images/repository/277/13781277-SNAPSHOT-m.png" group-title="Entretenimiento", AZTECA UNO
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/450325.m3u8
+http://rey-premium.online:8880/live/Ernesto_Fernandez/3GQZeJFN5Q/755503.m3u8
 
 #EXTINF:-1 LAS ESTRELLAS tvg-id="LasEstrellas.mx" tvg-logo="https://www.izzigo.tv/images/repository/066/16838066-SNAPSHOT-m.jpg" group-title="Entretenimiento", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -13,18 +13,19 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://images.vix.com/prd/channel-landscape/674613dd2e9f4d975c193012/59ded107912e23885d4afb48e1e2bffb?tr=w-350,ar-16-9,q-30" group-title="Entretenimiento", CANAL 5
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/362413.m3u8
+http://rey-premium.online:8880/live/Ernesto_Fernandez/3GQZeJFN5Q/755514.m3u8
 
 #EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1614b9f1aa5d53c290c3d6dd966826aa/rokuFeed/assets/04a21cd1a32f57c39500cb70ef077b8b.jpg/magic/fit-in/440x480" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/a15cb49/2147483647/strip/true/crop/960x342+0+0/resize/1347x480!/format/webp/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Fcd%2F7a%2Faeb0dff24379ae171de6323598d2%2Faztecasiete-1032x368-2.webp" group-title="Entretenimiento", AZTECA 7 
-http://streamingtv.vip:8080/live/JoseGonzales079/8Seek0Fx9xhKCDYK/362406.m3u8
+http://rey-premium.online:8880/live/Ernesto_Fernandez/3GQZeJFN5Q/755500.m3u8
 
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://xhunestv.unes.edu.mx/images//apple-touch-icon.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
 #EXTINF:-1 NU9VE tvg-id="GalaTV9Nacional.mx" tvg-logo="https://www.izzigo.tv/images/repository/321/13781321-SNAPSHOT-m.png" group-title="Entretenimiento", NU9VE
+http://rey-premium.online:8880/live/Ernesto_Fernandez/3GQZeJFN5Q/755516.m3u8
 
 #EXTINF:-1 CANAL 10 tvg-id="" tvg-logo="https://canal10.com.mx/sitio/wp-content/uploads/2019/06/cropped-CanalSinFondo-1.png" group-title="Noticias", CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
