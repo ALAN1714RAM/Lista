@@ -117,7 +117,7 @@ http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/276770.m3u8
 #EXTINF:-1 CINECANAL tvg-id="Cinecanal.mx" tvg-logo="https://www.izzigo.tv/images/repository/762/18089762-SNAPSHOT-m.jpg" group-title="Cine & Series", CINECANAL
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/276773.m3u8
 
-#EXTINF:-1 CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/cinemax-lam.png" group-title="Cine & Series", CINEMAX
+#EXTINF:-1 CINEMAX tvg-id="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/ALAN1714RAM/Lista/refs/heads/main/logos/logos/cinemax.png" group-title="Cine & Series", CINEMAX
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/295380.m3u8
 
 #EXTINF:-1 UNIVERSAL PREMIER tvg-id="UniversalPremiere.mx" tvg-logo="https://www.izzigo.tv/images/repository/521/13830521-SNAPSHOT-m.png" group-title="Cine & Series", UNIVERSAL PREMIER
@@ -161,7 +161,7 @@ http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/295286.m3u8
 
 #EXTINF:-1 DISTRITO COMEDIA tvg-id="DistritoComedia.mx" tvg-logo="https://www.izzigo.tv/images/repository/082/13807082-SNAPSHOT-m.png" group-title="Entretenimiento", DISTRITO COMEDIA 
 
-#EXTINF:-1 STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg" group-title="Cine & Series", STAR CHANNEL
+#EXTINF:-1 STAR CHANNEL tvg-id="StarChannelMexico.mx" tvg-logo="https://raw.githubusercontent.com/ALAN1714RAM/Lista/refs/heads/main/logos/logos/star_channel.png" group-title="Cine & Series", STAR CHANNEL
 http://dnsvod.com:8080/live/bvGHmAu6Dk/baDzWh2q4c/173488.m3u8
 
 #EXTINF:-1 SONY tvg-id="SonyChannel.mx" tvg-logo="https://www.izzigo.tv/images/repository/061/16838061-SNAPSHOT-m.jpg" group-title="Cine & Series", SONY
