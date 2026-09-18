@@ -106,7 +106,7 @@ http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/276791.m3u8
 #EXTINF:-1 SPACE tvg-id="Space.mx" tvg-logo="https://www.izzigo.tv/images/repository/063/16333063-SNAPSHOT-m.jpg" group-title="Cine & Series", SPACE
 http://dnsvod.com:8080/live/bvGHmAu6Dk/baDzWh2q4c/173472.m3u8
 
-#EXTINF:-1 AMC tvg-id="AMCLatinAmerica.us" tvg-logo="https://dish.com.mx/mvshub/assets/img/logos/vod/series-pelis/amc.svg" group-title="Cine & Series", AMC
+#EXTINF:-1 AMC tvg-id="AMCLatinAmerica.us" tvg-logo="https://images.ctfassets.net/lx4ov5kud2ld/62qepweo62f24F7ehZtcU7/73e807df1cfea2587c2123b4640c2f6f/amc.svg" group-title="Cine & Series", AMC
 http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/276770.m3u8
 
 #EXTINF:-1 STUDIO UNIVERSAL tvg-id="StudioUniversal.mx" tvg-logo="https://www.izzigo.tv/images/repository/012/17133012-SNAPSHOT-m.jpg" group-title="Cine & Series", STUDIO UNIVERSAL
