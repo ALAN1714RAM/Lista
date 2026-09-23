@@ -13,13 +13,13 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 CANAL 5 tvg.id="5Nacional.mx" tvg-logo="https://raw.githubusercontent.com/ALAN1714RAM/Lista/refs/heads/main/logos/canal_5.png" group-title="Entretenimiento", CANAL 5
-http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/276767.m3u8
+http://195.178.110.110/canal5/index.m3u8
 
 #EXTINF:-1 MULTIMEDIOS tvg-id="Multimedios.mx" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1614b9f1aa5d53c290c3d6dd966826aa/rokuFeed/assets/04a21cd1a32f57c39500cb70ef077b8b.jpg/magic/fit-in/440x480" group-title="Entretenimiento", MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 AZTECA 7 tvg-id="Azteca 7 HD" tvg-logo="https://raw.githubusercontent.com/ALAN1714RAM/Lista/refs/heads/main/logos/azteca_7.png" group-title="Entretenimiento", AZTECA 7 
-http://dnsvod.com:8080/live/bvGHmAu6Dk/baDzWh2q4c/165452.m3u8
+http://195.178.110.110/azteca7/index.m3u8
 
 #EXTINF:-1 ESPAÑA TV tvg-logo="https://raw.githubusercontent.com/ALAN1714RAM/Lista/refs/heads/main/logos/espana_tv.png" group-title="Noticias", ESPAÑA TV
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
